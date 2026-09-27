@@ -31,7 +31,12 @@ import requests
 AUTOCOMPLETE_URL = "https://tenup.fft.fr/back/public/v1/autocompletion/villes"
 SEARCH_URL = "https://tenup.fft.fr/back/public/v1/tournois"
 
-YOUTH_BUNDLE_AGE_IDS = "70|80|96|97|98|90|95|65|99|100"
+DEFAULT_AGE_IDS = "65|110"
+
+# TenUp's search endpoint paginates via from/size; anything beyond ``size``
+# is silently dropped rather than erroring, so use a value comfortably above
+# any realistic result count instead of exposing pagination to callers.
+SEARCH_SIZE = 100
 
 REPO_ROOT = Path(__file__).resolve().parent
 STORE_PATH = REPO_ROOT / "data" / "tournaments.json"
@@ -82,7 +87,7 @@ def geocode_city(city: str, *, session: requests.Session | None = None) -> dict:
 def fetch_tournaments(
     city: str,
     distance_km: int,
-    age_ids: str = YOUTH_BUNDLE_AGE_IDS,
+    age_ids: str = DEFAULT_AGE_IDS,
     start: date | None = None,
     end: date | None = None,
     debug: bool = False,
@@ -111,12 +116,12 @@ def fetch_tournaments(
     if debug:
         _debug_dump("geocoded city", location)
 
-    age_id_list = [int(x) for x in age_ids.split("|") if x.strip()] if age_ids else []
+    age_id_list = [x.strip() for x in age_ids.split("|") if x.strip()] if age_ids else []
 
     body = {
         "pratique": "TENNIS",
         "from": 0,
-        "size": 1000,
+        "size": SEARCH_SIZE,
         "lat": location["latitude"],
         "lng": location["longitude"],
         "distance": distance_km,
@@ -313,8 +318,8 @@ def render_markdown(store: dict, *, now: datetime | None = None) -> str:
             bits.append(f"ville **{params['city']}**")
         if params.get("distance_km") is not None:
             bits.append(f"rayon **{params['distance_km']} km**")
-        if params.get("age_id") and params["age_id"] != YOUTH_BUNDLE_AGE_IDS:
-            bits.append(f"catégorie d'âge **{params['age_id']}**")
+        if params.get("age_ids") and params["age_ids"] != DEFAULT_AGE_IDS:
+            bits.append(f"catégorie d'âge **{params['age_ids']}**")
         if bits:
             lines.append("_Recherche : " + ", ".join(bits) + "._")
     lines.append("")
@@ -421,14 +426,14 @@ def main() -> None:
         help="Search radius in kilometres (default: 50)",
     )
     parser.add_argument(
-        "--age-id",
+        "--age-ids",
         type=str,
-        default=YOUTH_BUNDLE_AGE_IDS,
+        default=DEFAULT_AGE_IDS,
         help=(
             "Pipe-separated TenUp categorieAge.id values to filter on "
-            "(applied server-side in the search request). Default is "
-            "the full youth bundle. Pass an empty string to disable "
-            "filtering (search every age category)."
+            "(applied server-side in the search request), e.g. \"65|110\". "
+            "Pass an empty string to disable filtering (search every age "
+            "category)."
         ),
     )
     parser.add_argument(
@@ -448,7 +453,7 @@ def main() -> None:
     payload = fetch_tournaments(
         args.city,
         args.distance,
-        age_ids=args.age_id or None,
+        age_ids=args.age_ids or None,
         debug=args.debug,
     )
     tournaments = parse_tournaments(payload)
@@ -464,7 +469,7 @@ def main() -> None:
         scrape_params={
             "city": args.city,
             "distance_km": args.distance,
-            "age_id": args.age_id or None,
+            "age_ids": args.age_ids or None,
         },
     )
     save_store(store)
