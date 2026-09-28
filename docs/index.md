@@ -2,15 +2,14 @@
 title: Tournois TenUp
 ---
 
-# Tournois de tennis à venir (41)
+# Tournois de tennis à venir (40)
 
-_Dernière mise à jour : 2026-09-27T22:02:27+02:00_  
+_Dernière mise à jour : 2026-09-28T02:06:48+02:00_  
 _Recherche : ville **Prévessin-Moëns, 01280**, rayon **50 km**._
 
 <table class="tournaments">
   <thead><tr><th>Date</th><th>Tournoi</th><th>Club</th><th>Ville</th><th>Distance</th></tr></thead>
   <tbody>
-    <tr><td>2026-09-27</td><td><a href="https://tenup.fft.fr/tournoi/MOJA_211089" target="_blank" rel="noopener noreferrer">TMC balles oranges 7/9 ans</a></td><td>TENNIS CLUB DES BRASSES</td><td>VIUZ EN SALLAZ</td><td>28,2 km</td></tr>
     <tr class="is-new"><td>2026-10-03</td><td><a href="https://tenup.fft.fr/tournoi/MOJA_303899" target="_blank" rel="noopener noreferrer">TMC VERT 11/12 13/14 MIXTE  NC à 30/4</a> <span class="new-badge">NEW</span></td><td>TANINGES TENNIS CLUB</td><td>TANINGES</td><td>42,9 km</td></tr>
     <tr><td>2026-10-07</td><td><a href="https://tenup.fft.fr/tournoi/MOJA_208985" target="_blank" rel="noopener noreferrer">TMC vert TC Rumilly</a></td><td>RUMILLY TC</td><td>RUMILLY</td><td>46,3 km</td></tr>
     <tr class="is-new"><td>2026-10-10 → 2026-10-22</td><td><a href="https://tenup.fft.fr/tournoi/MOJA_221397" target="_blank" rel="noopener noreferrer">Tournoi Jeunes Toussaint TCAV</a> <span class="new-badge">NEW</span></td><td>ANNECY LE VIEUX TC</td><td>ANNECY LE VIEUX</td><td>40,1 km</td></tr>
