@@ -1,13 +1,14 @@
 {
   "metadata": {
-    "last_scrape": "2026-10-04T10:18:50+02:00",
-    "tournament_count": 121,
+    "last_scrape": "2026-10-04T10:30:57+02:00",
+    "tournament_count": 96,
     "scrape_params": {
       "city": "Saint-Cloud, 92210",
       "distance_km": 20,
-      "age_ids": "140|160|180|200",
+      "age_ids": "140|160|200",
       "natures": "SM",
-      "classement": "30/1"
+      "classement": "30/1",
+      "exclude_daytime": true
     }
   },
   "tournaments": [
@@ -38,71 +39,6 @@
       "first_seen": "2026-10-04T09:56:47+02:00"
     },
     {
-      "id": "MOJA_213731",
-      "name": "TMC des Ibis - Journée - NC-30/1",
-      "date_start": "2026-10-05",
-      "date_end": "2026-10-08",
-      "location": {
-        "club": "VESINET IBIS TENNIS CLUB",
-        "city": "LE VESINET"
-      },
-      "distance": "8,0 km",
-      "epreuves": "Senior NC→30/1",
-      "first_seen": "2026-10-04T09:56:47+02:00"
-    },
-    {
-      "id": "MOJA_221004",
-      "name": "TMC SEMAINE JOURNEE SENIOR HOMME NC - 15/3",
-      "date_start": "2026-10-05",
-      "date_end": "2026-10-09",
-      "location": {
-        "club": "ELAN CHEVILLY LARUE",
-        "city": "CHEVILLY LARUE"
-      },
-      "distance": "13,5 km",
-      "epreuves": "Senior NC→15/3",
-      "first_seen": "2026-10-04T09:56:47+02:00"
-    },
-    {
-      "id": "MOJA_289434",
-      "name": "UMT Stade Français saison 2027 TMC limité 30",
-      "date_start": "2026-10-05",
-      "date_end": "2026-10-09",
-      "location": {
-        "club": "STADE FRANCAIS",
-        "city": "MARNES LA COQUETTE"
-      },
-      "distance": "2,2 km",
-      "epreuves": "Senior 30/2→30",
-      "first_seen": "2026-10-04T09:56:47+02:00"
-    },
-    {
-      "id": "MOJA_289435",
-      "name": "UMT Stade Français saison 2027 TMC limité 15/3",
-      "date_start": "2026-10-05",
-      "date_end": "2026-10-09",
-      "location": {
-        "club": "STADE FRANCAIS",
-        "city": "MARNES LA COQUETTE"
-      },
-      "distance": "2,2 km",
-      "epreuves": "Senior 30/2→15/3",
-      "first_seen": "2026-10-04T09:56:47+02:00"
-    },
-    {
-      "id": "MOJA_305688",
-      "name": "TMC 30/3-15/5",
-      "date_start": "2026-10-05",
-      "date_end": "2026-10-08",
-      "location": {
-        "club": "BOUGIVAL TENNIS CLUB EN SEINE",
-        "city": "BOUGIVAL"
-      },
-      "distance": "5,2 km",
-      "epreuves": "Senior 30/3→15/5",
-      "first_seen": "2026-10-04T09:56:47+02:00"
-    },
-    {
       "id": "MOJA_308331",
       "name": "Oct1 : 23h en Sénior, à 7h en +40, journée +35",
       "date_start": "2026-10-05",
@@ -112,45 +48,6 @@
         "city": "PARIS 12"
       },
       "distance": "17,6 km",
-      "epreuves": "Senior NC→30/1",
-      "first_seen": "2026-10-04T09:56:47+02:00"
-    },
-    {
-      "id": "MOJA_299766",
-      "name": " TMC Journée NC - 30.1",
-      "date_start": "2026-10-08",
-      "date_end": "2026-10-09",
-      "location": {
-        "club": "MARGENCY (TC)",
-        "city": "MARGENCY"
-      },
-      "distance": "17,6 km",
-      "epreuves": "Senior NC→30/1",
-      "first_seen": "2026-10-04T09:56:47+02:00"
-    },
-    {
-      "id": "MOJA_311003",
-      "name": "TMC HOMMES 4EME SERIE JOURNEE",
-      "date_start": "2026-10-08",
-      "date_end": "2026-10-08",
-      "location": {
-        "club": "LE PETIT SMASH",
-        "city": "PARIS 16"
-      },
-      "distance": "5,4 km",
-      "epreuves": "Senior NC→30",
-      "first_seen": "2026-10-04T09:56:47+02:00"
-    },
-    {
-      "id": "MOJA_300739",
-      "name": "TMC HOMME 4ÈME SERIE JOURNÉE ",
-      "date_start": "2026-10-09",
-      "date_end": "2026-10-09",
-      "location": {
-        "club": "LE PETIT SMASH",
-        "city": "PUTEAUX"
-      },
-      "distance": "6,1 km",
       "epreuves": "Senior NC→30/1",
       "first_seen": "2026-10-04T09:56:47+02:00"
     },
@@ -207,58 +104,6 @@
       "first_seen": "2026-10-04T09:56:47+02:00"
     },
     {
-      "id": "MOJA_213751",
-      "name": "TMC des Ibis - Journée - 30/1-15/3",
-      "date_start": "2026-10-12",
-      "date_end": "2026-10-15",
-      "location": {
-        "club": "VESINET IBIS TENNIS CLUB",
-        "city": "LE VESINET"
-      },
-      "distance": "8,0 km",
-      "epreuves": "Senior 30/1→15/3",
-      "first_seen": "2026-10-04T09:56:47+02:00"
-    },
-    {
-      "id": "MOJA_299580",
-      "name": "TMC Journée 30.2 - 15.5",
-      "date_start": "2026-10-12",
-      "date_end": "2026-10-13",
-      "location": {
-        "club": "MARGENCY (TC)",
-        "city": "MARGENCY"
-      },
-      "distance": "17,6 km",
-      "epreuves": "Senior 30/2→15/5",
-      "first_seen": "2026-10-04T09:56:47+02:00"
-    },
-    {
-      "id": "MOJA_305691",
-      "name": "TMC 30/3-15/5",
-      "date_start": "2026-10-12",
-      "date_end": "2026-10-15",
-      "location": {
-        "club": "BOUGIVAL TENNIS CLUB EN SEINE",
-        "city": "BOUGIVAL"
-      },
-      "distance": "5,2 km",
-      "epreuves": "Senior 30/3→15/5",
-      "first_seen": "2026-10-04T09:56:47+02:00"
-    },
-    {
-      "id": "MOJA_300731",
-      "name": "TMC HOMME 4ÈME SERIE JOURNÉE ",
-      "date_start": "2026-10-15",
-      "date_end": "2026-10-15",
-      "location": {
-        "club": "LE PETIT SMASH",
-        "city": "PARIS 16"
-      },
-      "distance": "5,4 km",
-      "epreuves": "Senior NC→30/1",
-      "first_seen": "2026-10-04T09:56:47+02:00"
-    },
-    {
       "id": "MOJA_213765",
       "name": "AS Pyramides - Tournoi Open jeunes",
       "date_start": "2026-10-16",
@@ -281,7 +126,7 @@
         "city": "PARAY VIEILLE POSTE"
       },
       "distance": "18,8 km",
-      "epreuves": "17/18 ans NC→N1 ; 15/16 ans NC→N1 ; 13/14 ans NC→N1",
+      "epreuves": "15/16 ans NC→N1 ; 13/14 ans NC→N1",
       "first_seen": "2026-10-04T09:56:47+02:00"
     },
     {
@@ -320,7 +165,7 @@
         "city": "VAUCRESSON"
       },
       "distance": "4,9 km",
-      "epreuves": "13/14 ans NC→N1 ; 17/18 ans NC→N1 ; 15/16 ans NC→N1 ; Senior NC→N1",
+      "epreuves": "13/14 ans NC→N1 ; 15/16 ans NC→N1 ; Senior NC→N1",
       "first_seen": "2026-10-04T09:56:47+02:00"
     },
     {
@@ -359,7 +204,7 @@
         "city": "VILLENNES SUR SEINE"
       },
       "distance": "18,7 km",
-      "epreuves": "17/18 ans NC→N1 ; 13/14 ans NC→N1",
+      "epreuves": "13/14 ans NC→N1",
       "first_seen": "2026-10-04T09:56:47+02:00"
     },
     {
@@ -372,7 +217,7 @@
         "city": "GUYANCOURT"
       },
       "distance": "14,1 km",
-      "epreuves": "13/14 ans NC→N1 ; 15/16 ans NC→N1 ; 17/18 ans NC→N1",
+      "epreuves": "13/14 ans NC→N1 ; 15/16 ans NC→N1",
       "first_seen": "2026-10-04T09:56:47+02:00"
     },
     {
@@ -437,7 +282,7 @@
         "city": "MONTMORENCY"
       },
       "distance": "17,7 km",
-      "epreuves": "15/16 ans NC→N1 ; 17/18 ans NC→N1 ; 13/14 ans NC→N1",
+      "epreuves": "15/16 ans NC→N1 ; 13/14 ans NC→N1",
       "first_seen": "2026-10-04T09:56:47+02:00"
     },
     {
@@ -519,19 +364,6 @@
       "first_seen": "2026-10-04T09:56:47+02:00"
     },
     {
-      "id": "MOJA_303193",
-      "name": "OPEN JEUNES TCP",
-      "date_start": "2026-10-17",
-      "date_end": "2026-10-24",
-      "location": {
-        "club": "TENNIS CLUB DE PARIS",
-        "city": "PARIS 16"
-      },
-      "distance": "3,8 km",
-      "epreuves": "17/18 ans NC→N1",
-      "first_seen": "2026-10-04T09:56:47+02:00"
-    },
-    {
       "id": "MOJA_305717",
       "name": "Pré qualif open Stade Francais, TCP",
       "date_start": "2026-10-17",
@@ -554,7 +386,7 @@
         "city": "CHATILLON"
       },
       "distance": "7,3 km",
-      "epreuves": "17/18 ans NC→N1 ; 13/14 ans NC→N1",
+      "epreuves": "13/14 ans NC→N1",
       "first_seen": "2026-10-04T09:56:47+02:00"
     },
     {
@@ -567,7 +399,7 @@
         "city": "PARIS 13"
       },
       "distance": "10,4 km",
-      "epreuves": "13/14 ans NC→N1 ; 17/18 ans NC→N1",
+      "epreuves": "13/14 ans NC→N1",
       "first_seen": "2026-10-04T09:56:47+02:00"
     },
     {
@@ -593,7 +425,7 @@
         "city": "Carrières sur seine"
       },
       "distance": "6,9 km",
-      "epreuves": "17/18 ans 30/2→15/2 ; 13/14 ans 30/2→15/2",
+      "epreuves": "13/14 ans 30/2→15/2",
       "first_seen": "2026-10-04T09:56:47+02:00"
     },
     {
@@ -632,7 +464,7 @@
         "city": "ARGENTEUIL"
       },
       "distance": "9,5 km",
-      "epreuves": "13/14 ans NC→N1 ; 15/16 ans NC→N1 ; 17/18 ans NC→N1",
+      "epreuves": "13/14 ans NC→N1 ; 15/16 ans NC→N1",
       "first_seen": "2026-10-04T09:56:47+02:00"
     },
     {
@@ -671,7 +503,7 @@
         "city": "MONTROUGE"
       },
       "distance": "9,2 km",
-      "epreuves": "17/18 ans NC→N1 ; 13/14 ans NC→N1",
+      "epreuves": "13/14 ans NC→N1",
       "first_seen": "2026-10-04T09:56:47+02:00"
     },
     {
@@ -684,7 +516,7 @@
         "city": "PARIS 16"
       },
       "distance": "4,4 km",
-      "epreuves": "17/18 ans NC→15/4 ; 13/14 ans NC→30/1",
+      "epreuves": "13/14 ans NC→30/1",
       "first_seen": "2026-10-04T09:56:47+02:00"
     },
     {
@@ -749,7 +581,7 @@
         "city": "STAINS"
       },
       "distance": "17,9 km",
-      "epreuves": "15/16 ans NC→N1 ; 13/14 ans NC→N1 ; 17/18 ans NC→N1",
+      "epreuves": "15/16 ans NC→N1 ; 13/14 ans NC→N1",
       "first_seen": "2026-10-04T09:56:47+02:00"
     },
     {
@@ -818,19 +650,6 @@
       "first_seen": "2026-10-04T09:56:47+02:00"
     },
     {
-      "id": "MOJA_304912",
-      "name": "TMC ESN en journée",
-      "date_start": "2026-10-20",
-      "date_end": "2026-10-20",
-      "location": {
-        "club": "NANTERRE (ES)",
-        "city": "Nanterre"
-      },
-      "distance": "3,2 km",
-      "epreuves": "17/18 ans 30/4→30/1",
-      "first_seen": "2026-10-04T09:56:47+02:00"
-    },
-    {
       "id": "MOJA_306172",
       "name": "UMT Stade Français Octobre 1 Jeune 4° série ",
       "date_start": "2026-10-20",
@@ -840,7 +659,7 @@
         "city": "MARNES LA COQUETTE"
       },
       "distance": "2,2 km",
-      "epreuves": "13/14 ans NC→30/1 ; 17/18 ans NC→30/1",
+      "epreuves": "13/14 ans NC→30/1",
       "first_seen": "2026-10-04T09:56:47+02:00"
     },
     {
@@ -853,7 +672,7 @@
         "city": "PARIS 16"
       },
       "distance": "4,4 km",
-      "epreuves": "17/18 ans NC→15/4 ; 13/14 ans NC→30",
+      "epreuves": "13/14 ans NC→30",
       "first_seen": "2026-10-04T09:56:47+02:00"
     },
     {
@@ -879,7 +698,7 @@
         "city": "MARGENCY"
       },
       "distance": "17,6 km",
-      "epreuves": "13/14 ans NC→N1 ; 17/18 ans NC→N1 ; 15/16 ans NC→N1",
+      "epreuves": "13/14 ans NC→N1 ; 15/16 ans NC→N1",
       "first_seen": "2026-10-04T09:56:47+02:00"
     },
     {
@@ -892,7 +711,7 @@
         "city": "MARNES LA COQUETTE"
       },
       "distance": "2,2 km",
-      "epreuves": "17/18 ans NC→N1 ; 13/14 ans NC→N1",
+      "epreuves": "13/14 ans NC→N1",
       "first_seen": "2026-10-04T09:56:47+02:00"
     },
     {
@@ -931,7 +750,7 @@
         "city": "VELIZY VILLACOUBLAY"
       },
       "distance": "8,2 km",
-      "epreuves": "13/14 ans NC→30/1 ; 15/16 ans NC→30/1 ; 17/18 ans NC→30/1",
+      "epreuves": "13/14 ans NC→30/1 ; 15/16 ans NC→30/1",
       "first_seen": "2026-10-04T09:56:47+02:00"
     },
     {
@@ -1035,7 +854,7 @@
         "city": "GUYANCOURT"
       },
       "distance": "12,3 km",
-      "epreuves": "13/14 ans NC→N1 ; 15/16 ans NC→N1 ; 17/18 ans NC→N1",
+      "epreuves": "13/14 ans NC→N1 ; 15/16 ans NC→N1",
       "first_seen": "2026-10-04T09:56:47+02:00"
     },
     {
@@ -1061,7 +880,7 @@
         "city": "CONFLANS STE HONORINE"
       },
       "distance": "17,8 km",
-      "epreuves": "17/18 ans NC→N1 ; 15/16 ans NC→N1 ; 13/14 ans NC→N1",
+      "epreuves": "15/16 ans NC→N1 ; 13/14 ans NC→N1",
       "first_seen": "2026-10-04T09:56:47+02:00"
     },
     {
@@ -1087,7 +906,7 @@
         "city": "CRETEIL"
       },
       "distance": "18,2 km",
-      "epreuves": "17/18 ans NC→15/1 ; 13/14 ans NC→15/1 ; 15/16 ans NC→15/1",
+      "epreuves": "13/14 ans NC→15/1 ; 15/16 ans NC→15/1",
       "first_seen": "2026-10-04T09:56:47+02:00"
     },
     {
@@ -1221,19 +1040,6 @@
       "first_seen": "2026-10-04T09:56:47+02:00"
     },
     {
-      "id": "MOJA_310316",
-      "name": "TMC 17/18 ANS",
-      "date_start": "2026-10-27",
-      "date_end": "2026-10-27",
-      "location": {
-        "club": "LE PETIT SMASH",
-        "city": "PUTEAUX"
-      },
-      "distance": "6,1 km",
-      "epreuves": "17/18 ans NC→N1",
-      "first_seen": "2026-10-04T09:56:47+02:00"
-    },
-    {
       "id": "MOJA_300780",
       "name": "TMC Jeunes",
       "date_start": "2026-10-28",
@@ -1270,19 +1076,6 @@
       },
       "distance": "8,2 km",
       "epreuves": "13/14 ans NC→N1",
-      "first_seen": "2026-10-04T09:56:47+02:00"
-    },
-    {
-      "id": "MOJA_300488",
-      "name": "TMC AAESB U18G  3S",
-      "date_start": "2026-10-29",
-      "date_end": "2026-10-30",
-      "location": {
-        "club": "SAINT BRICE (AAE)",
-        "city": "ST BRICE SOUS FORET"
-      },
-      "distance": "19,6 km",
-      "epreuves": "17/18 ans NC→N1",
       "first_seen": "2026-10-04T09:56:47+02:00"
     },
     {
@@ -1338,19 +1131,6 @@
       "first_seen": "2026-10-04T09:56:47+02:00"
     },
     {
-      "id": "MOJA_302361",
-      "name": "TMC SEMAINE JOURNEE SENIOR HOMME NC - 15/3",
-      "date_start": "2026-11-02",
-      "date_end": "2026-11-05",
-      "location": {
-        "club": "ELAN CHEVILLY LARUE",
-        "city": "CHEVILLY LARUE"
-      },
-      "distance": "13,5 km",
-      "epreuves": "Senior NC→15/3",
-      "first_seen": "2026-10-04T09:56:47+02:00"
-    },
-    {
       "id": "MOJA_307969",
       "name": "N°4 entre 8:00 et 17:00 ",
       "date_start": "2026-11-03",
@@ -1387,32 +1167,6 @@
       },
       "distance": "18,6 km",
       "epreuves": "Senior NC→15/1",
-      "first_seen": "2026-10-04T09:56:47+02:00"
-    },
-    {
-      "id": "MOJA_299583",
-      "name": "TMC Journée NC - 30.1",
-      "date_start": "2026-11-09",
-      "date_end": "2026-11-10",
-      "location": {
-        "club": "MARGENCY (TC)",
-        "city": "MARGENCY"
-      },
-      "distance": "17,6 km",
-      "epreuves": "Senior NC→30/1",
-      "first_seen": "2026-10-04T09:56:47+02:00"
-    },
-    {
-      "id": "MOJA_302362",
-      "name": "TMC SEMAINE JOURNEE SENIOR HOMME NC - 15/3",
-      "date_start": "2026-11-09",
-      "date_end": "2026-11-12",
-      "location": {
-        "club": "ELAN CHEVILLY LARUE",
-        "city": "CHEVILLY LARUE"
-      },
-      "distance": "13,5 km",
-      "epreuves": "Senior NC→15/3",
       "first_seen": "2026-10-04T09:56:47+02:00"
     },
     {
@@ -1455,45 +1209,6 @@
       "first_seen": "2026-10-04T09:56:47+02:00"
     },
     {
-      "id": "MOJA_213752",
-      "name": "TMC des Ibis - Journée - 30/1-15/3",
-      "date_start": "2026-11-16",
-      "date_end": "2026-11-19",
-      "location": {
-        "club": "VESINET IBIS TENNIS CLUB",
-        "city": "LE VESINET"
-      },
-      "distance": "8,0 km",
-      "epreuves": "Senior 30/1→15/3",
-      "first_seen": "2026-10-04T09:56:47+02:00"
-    },
-    {
-      "id": "MOJA_213760",
-      "name": "AS Pyramides - Tournoi semaine & journée",
-      "date_start": "2026-11-16",
-      "date_end": "2026-12-04",
-      "location": {
-        "club": "A.S. LES PYRAMIDES",
-        "city": "LE PORT MARLY"
-      },
-      "distance": "8,5 km",
-      "epreuves": "Senior NC→N1",
-      "first_seen": "2026-10-04T09:56:47+02:00"
-    },
-    {
-      "id": "MOJA_302363",
-      "name": "TMC SEMAINE JOURNEE SENIOR HOMME NC - 15/3",
-      "date_start": "2026-11-16",
-      "date_end": "2026-11-19",
-      "location": {
-        "club": "ELAN CHEVILLY LARUE",
-        "city": "CHEVILLY LARUE"
-      },
-      "distance": "13,5 km",
-      "epreuves": "Senior NC→15/3",
-      "first_seen": "2026-10-04T09:56:47+02:00"
-    },
-    {
       "id": "MOJA_220079",
       "name": "TMC MESSIEURS SAMEDI 21/11/26 - LASA SPORT 2027",
       "date_start": "2026-11-21",
@@ -1520,32 +1235,6 @@
       "first_seen": "2026-10-04T09:56:47+02:00"
     },
     {
-      "id": "MOJA_299586",
-      "name": "TMC Journée 30.2 - 15.5",
-      "date_start": "2026-11-23",
-      "date_end": "2026-11-24",
-      "location": {
-        "club": "MARGENCY (TC)",
-        "city": "MARGENCY"
-      },
-      "distance": "17,6 km",
-      "epreuves": "Senior 30/2→15/5",
-      "first_seen": "2026-10-04T09:56:47+02:00"
-    },
-    {
-      "id": "MOJA_302364",
-      "name": "TMC SEMAINE JOURNEE SENIOR HOMME NC - 15/3",
-      "date_start": "2026-11-23",
-      "date_end": "2026-11-26",
-      "location": {
-        "club": "ELAN CHEVILLY LARUE",
-        "city": "CHEVILLY LARUE"
-      },
-      "distance": "13,5 km",
-      "epreuves": "Senior NC→15/3",
-      "first_seen": "2026-10-04T09:56:47+02:00"
-    },
-    {
       "id": "MOJA_213849",
       "name": "LES PETITS AS TC PLAISIR",
       "date_start": "2026-11-28",
@@ -1569,19 +1258,6 @@
       },
       "distance": "18,6 km",
       "epreuves": "Senior NC→15/1",
-      "first_seen": "2026-10-04T09:56:47+02:00"
-    },
-    {
-      "id": "MOJA_302365",
-      "name": "TMC SEMAINE JOURNEE SENIOR HOMME NC - 15/3",
-      "date_start": "2026-11-30",
-      "date_end": "2026-12-03",
-      "location": {
-        "club": "ELAN CHEVILLY LARUE",
-        "city": "CHEVILLY LARUE"
-      },
-      "distance": "13,5 km",
-      "epreuves": "Senior NC→15/3",
       "first_seen": "2026-10-04T09:56:47+02:00"
     }
   ]
