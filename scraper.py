@@ -21,6 +21,7 @@ from __future__ import annotations
 
 import argparse
 import json
+import re
 import sys
 import time
 from datetime import date, datetime, timedelta
@@ -32,11 +33,32 @@ import requests
 AUTOCOMPLETE_URL = "https://tenup.fft.fr/back/public/v1/autocompletion/villes"
 SEARCH_URL = "https://tenup.fft.fr/back/public/v1/tournois"
 
-DEFAULT_AGE_IDS = "140|160|180|200"  # 13/14, 15/16, 17/18 ans, Senior
+DEFAULT_AGE_IDS = "140|160|200"  # 13/14 ans, 15/16 ans, Senior
 DEFAULT_NATURES = "SM"  # Simple Messieurs
 DEFAULT_CLASSEMENT = "30/1"
 
 EPREUVES_URL = "https://tenup.fft.fr/back/public/v1/tournois/{hid}/epreuves"
+TOURNOI_URL = "https://tenup.fft.fr/back/public/v1/tournois/{hid}"
+
+# --- Tournois "en journée" -------------------------------------------------
+# codeHoraire Ten'Up observé : 4, 5, 7 = journée, 6 = après-midi (1, 2 = soir).
+# Un nom contenant "journée" ou "matinée" compte aussi (code parfois absent).
+DAYTIME_CODES = {4, 5, 6, 7}
+DAYTIME_NAME = re.compile(r"journ[ée]e|matin[ée]e", re.IGNORECASE)
+WEEKDAY_ONLY_NAME = re.compile(r"\bsemaine\b", re.IGNORECASE)  # "en semaine" : le week-end ne compte pas
+
+# Vacances scolaires : API officielle de l'Éducation nationale (zone C = Versailles)
+HOLIDAYS_URL = (
+    "https://data.education.gouv.fr/api/explore/v2.1/catalog/datasets/"
+    "fr-en-calendrier-scolaire/records"
+)
+HOLIDAYS_ACADEMIE = "Versailles"
+# Secours si l'API ne répond pas : zone C 2026-2027 (début inclus, reprise exclue)
+FALLBACK_HOLIDAYS = [
+    ("2026-10-17", "2026-11-02"), ("2026-12-19", "2027-01-04"),
+    ("2027-02-06", "2027-02-22"), ("2027-04-03", "2027-04-19"),
+    ("2027-05-07", "2027-05-08"), ("2027-07-03", "2027-09-02"),
+]
 
 # Échelons Ten'Up observés dans l'API (plus le chiffre est haut, meilleur est le classement)
 CLASSEMENT_ECHELONS = {
@@ -212,6 +234,64 @@ def fetch_epreuves(hid: str, session: requests.Session) -> list[dict]:
     raise RuntimeError(f"Épreuves indisponibles pour le tournoi {hid}: {last_error}")
 
 
+def fetch_holidays(session: requests.Session) -> list[tuple[date, date]]:
+    """School holidays (start inclusive, end exclusive) for the academy, Paris time."""
+    try:
+        resp = session.get(
+            HOLIDAYS_URL,
+            params={
+                "where": f'location="{HOLIDAYS_ACADEMIE}" AND end_date>="{date.today().isoformat()}"',
+                "order_by": "start_date",
+                "limit": 50,
+            },
+            timeout=REQUEST_TIMEOUT,
+        )
+        resp.raise_for_status()
+        periods = []
+        for rec in resp.json().get("results") or []:
+            if rec.get("population") == "Enseignants":
+                continue
+            start = datetime.fromisoformat(rec["start_date"]).astimezone(LOCAL_TZ).date()
+            end = datetime.fromisoformat(rec["end_date"]).astimezone(LOCAL_TZ).date()
+            periods.append((start, max(end, start + timedelta(days=1))))
+        if periods:
+            return periods
+    except (requests.RequestException, ValueError, KeyError) as exc:
+        print(f"Vacances scolaires : API indisponible ({exc}), calendrier de secours utilisé", file=sys.stderr)
+    return [(date.fromisoformat(a), date.fromisoformat(b)) for a, b in FALLBACK_HOLIDAYS]
+
+
+def _has_free_day(
+    start: date, end: date, holidays: list[tuple[date, date]], weekends: bool = True
+) -> bool:
+    """True if at least one day of the tournament is a weekend or a school-holiday day."""
+    day = start
+    while day <= end:
+        if (weekends and day.weekday() >= 5) or any(a <= day < b for a, b in holidays):
+            return True
+        day += timedelta(days=1)
+    return False
+
+
+def fetch_tournoi(hid: str, session: requests.Session) -> dict:
+    """Return the tournament detail record (dates, schedule code...)."""
+    last_error = None
+    for attempt in range(3):
+        try:
+            resp = session.get(
+                TOURNOI_URL.format(hid=hid),
+                headers={"accept": "application/json"},
+                timeout=REQUEST_TIMEOUT,
+            )
+            if resp.status_code == 200:
+                return resp.json() or {}
+            last_error = f"HTTP {resp.status_code}"
+        except requests.RequestException as exc:
+            last_error = str(exc)
+        time.sleep(2 * (attempt + 1))
+    raise RuntimeError(f"Détail indisponible pour le tournoi {hid}: {last_error}")
+
+
 def filter_eligible(
     payload: dict,
     *,
@@ -219,6 +299,7 @@ def filter_eligible(
     age_ids: str | None = DEFAULT_AGE_IDS,
     classement: str = DEFAULT_CLASSEMENT,
     include_galaxie: bool = False,
+    exclude_daytime: bool = True,
 ) -> tuple[dict, dict[str, list[dict]]]:
     """Keep only tournaments having at least one épreuve the player can enter.
 
@@ -233,7 +314,9 @@ def filter_eligible(
     age_set = {int(x) for x in (age_ids or "").split("|") if x.strip()}
 
     session = requests.Session()
+    holidays = fetch_holidays(session) if exclude_daytime else []
     kept_cards, matches = [], {}
+    daytime_dropped = 0
     for card in payload.get("cards") or []:
         tid = card.get("idHomologation") or ""
         hid = tid.split("_")[-1]
@@ -251,13 +334,29 @@ def filter_eligible(
             if lo is None or hi is None or not (lo <= echelon <= hi):
                 continue
             good.append(ep)
+        if good and exclude_daytime:
+            detail = fetch_tournoi(hid, session)
+            daytime = detail.get("codeHoraire") in DAYTIME_CODES or bool(
+                DAYTIME_NAME.search(card.get("libelleTournoi") or "")
+            )
+            try:
+                start = date.fromisoformat((detail.get("dateDebut") or card.get("dateDebut"))[:10])
+                end = date.fromisoformat((detail.get("dateFin") or card.get("dateFin") or "")[:10] or str(start))
+            except (TypeError, ValueError):
+                start = end = None
+            weekends = not WEEKDAY_ONLY_NAME.search(card.get("libelleTournoi") or "")
+            if daytime and start and not _has_free_day(start, end, holidays, weekends):
+                daytime_dropped += 1
+                good = []
+            time.sleep(0.15)
         if good:
             kept_cards.append(card)
             matches[tid] = good
         time.sleep(0.15)  # rester discret vis-à-vis de Ten'Up
 
     print(
-        f"Filtre épreuves : {len(kept_cards)} tournoi(s) éligible(s) sur {len(payload.get('cards') or [])}",
+        f"Filtre épreuves : {len(kept_cards)} tournoi(s) éligible(s) sur {len(payload.get('cards') or [])}"
+        f" ({daytime_dropped} écarté(s) car en journée hors week-end et vacances)",
         file=sys.stderr,
     )
     return {"nbResultats": len(kept_cards), "cards": kept_cards}, matches
@@ -433,8 +532,10 @@ def render_markdown(store: dict, *, now: datetime | None = None) -> str:
             bits.append(f"éligible **{params['classement']}**")
         if params.get("natures"):
             bits.append(f"épreuves **{params['natures']}**")
-        bits.append("13/14 ans, 15/16 ans, 17/18 ans et Seniors" if params.get("age_ids") == DEFAULT_AGE_IDS
+        bits.append("13/14 ans, 15/16 ans et Seniors" if params.get("age_ids") == DEFAULT_AGE_IDS
                     else f"catégories d'âge **{params.get('age_ids') or 'toutes'}**")
+        if params.get("exclude_daytime"):
+            bits.append("hors tournois en journée (sauf week-end et vacances zone C)")
         if bits:
             lines.append("_Recherche : " + ", ".join(bits) + "._")
     lines.append("")
@@ -566,6 +667,12 @@ def main() -> None:
         help='Classement du joueur, ex. "30/1" : garde les épreuves dont la plage le contient',
     )
     parser.add_argument(
+        "--inclure-journee",
+        default=False,
+        action="store_true",
+        help="Garder les tournois en journée en semaine hors vacances (exclus par défaut)",
+    )
+    parser.add_argument(
         "--inclure-galaxie",
         default=False,
         action="store_true",
@@ -605,6 +712,7 @@ def main() -> None:
         age_ids=args.age_ids or None,
         classement=args.classement,
         include_galaxie=args.inclure_galaxie,
+        exclude_daytime=not args.inclure_journee,
     )
     tournaments = parse_tournaments(payload, matches=matches)
 
@@ -622,6 +730,7 @@ def main() -> None:
             "age_ids": args.age_ids or None,
             "natures": args.natures,
             "classement": args.classement,
+            "exclude_daytime": not args.inclure_journee,
         },
     )
     save_store(store)
