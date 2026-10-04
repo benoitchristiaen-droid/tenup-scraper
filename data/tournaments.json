@@ -1,4 +1,3565 @@
 {
-  "metadata": {},
-  "tournaments": []
+  "metadata": {
+    "last_scrape": "2026-10-04T09:56:47+02:00",
+    "tournament_count": 296,
+    "scrape_params": {
+      "city": "Saint-Cloud, 92210",
+      "distance_km": 20,
+      "age_ids": null
+    }
+  },
+  "tournaments": [
+    {
+      "id": "MOJA_220063",
+      "name": "TMC MESSIEURS DIMANCHE 04/10/26 - LASA SPORT 2027",
+      "date_start": "2026-10-04",
+      "date_end": "2026-10-04",
+      "location": {
+        "club": "LASA SPORT ORGANISATION",
+        "city": "MONTREUIL"
+      },
+      "distance": "18,6 km",
+      "first_seen": "2026-10-04T09:56:47+02:00"
+    },
+    {
+      "id": "MOJA_300160",
+      "name": "TMC PUTEAUX 11/12 ans",
+      "date_start": "2026-10-04",
+      "date_end": "2026-10-04",
+      "location": {
+        "club": "LE PETIT SMASH",
+        "city": "PUTEAUX"
+      },
+      "distance": "6,1 km",
+      "first_seen": "2026-10-04T09:56:47+02:00"
+    },
+    {
+      "id": "MOJA_300161",
+      "name": "TMC PUTEAUX 13/14 ans",
+      "date_start": "2026-10-04",
+      "date_end": "2026-10-04",
+      "location": {
+        "club": "LE PETIT SMASH",
+        "city": "PUTEAUX"
+      },
+      "distance": "6,1 km",
+      "first_seen": "2026-10-04T09:56:47+02:00"
+    },
+    {
+      "id": "MOJA_213731",
+      "name": "TMC des Ibis - Journée - NC-30/1",
+      "date_start": "2026-10-05",
+      "date_end": "2026-10-08",
+      "location": {
+        "club": "VESINET IBIS TENNIS CLUB",
+        "city": "LE VESINET"
+      },
+      "distance": "8,0 km",
+      "first_seen": "2026-10-04T09:56:47+02:00"
+    },
+    {
+      "id": "MOJA_217771",
+      "name": "TMC ESN en journée",
+      "date_start": "2026-10-05",
+      "date_end": "2026-10-09",
+      "location": {
+        "club": "NANTERRE (ES)",
+        "city": "Nanterre"
+      },
+      "distance": "3,2 km",
+      "first_seen": "2026-10-04T09:56:47+02:00"
+    },
+    {
+      "id": "MOJA_221004",
+      "name": "TMC SEMAINE JOURNEE SENIOR HOMME NC - 15/3",
+      "date_start": "2026-10-05",
+      "date_end": "2026-10-09",
+      "location": {
+        "club": "ELAN CHEVILLY LARUE",
+        "city": "CHEVILLY LARUE"
+      },
+      "distance": "13,5 km",
+      "first_seen": "2026-10-04T09:56:47+02:00"
+    },
+    {
+      "id": "MOJA_288814",
+      "name": "TMC  Messieurs  8:30 - 12:30  de  NC...30/5",
+      "date_start": "2026-10-05",
+      "date_end": "2026-10-05",
+      "location": {
+        "club": "LA CHATAIGNERAIE (TC)",
+        "city": "RUEIL MALMAISON"
+      },
+      "distance": "2,9 km",
+      "first_seen": "2026-10-04T09:56:47+02:00"
+    },
+    {
+      "id": "MOJA_288815",
+      "name": "TMC  Dames 10:30 - 14:30  de  30",
+      "date_start": "2026-10-05",
+      "date_end": "2026-10-05",
+      "location": {
+        "club": "LA CHATAIGNERAIE (TC)",
+        "city": "RUEIL MALMAISON"
+      },
+      "distance": "2,9 km",
+      "first_seen": "2026-10-04T09:56:47+02:00"
+    },
+    {
+      "id": "MOJA_289431",
+      "name": "UMT Stade Français saison 2027 TMC limité 30/3",
+      "date_start": "2026-10-05",
+      "date_end": "2026-10-09",
+      "location": {
+        "club": "STADE FRANCAIS",
+        "city": "MARNES LA COQUETTE"
+      },
+      "distance": "2,2 km",
+      "first_seen": "2026-10-04T09:56:47+02:00"
+    },
+    {
+      "id": "MOJA_289434",
+      "name": "UMT Stade Français saison 2027 TMC limité 30",
+      "date_start": "2026-10-05",
+      "date_end": "2026-10-09",
+      "location": {
+        "club": "STADE FRANCAIS",
+        "city": "MARNES LA COQUETTE"
+      },
+      "distance": "2,2 km",
+      "first_seen": "2026-10-04T09:56:47+02:00"
+    },
+    {
+      "id": "MOJA_289435",
+      "name": "UMT Stade Français saison 2027 TMC limité 15/3",
+      "date_start": "2026-10-05",
+      "date_end": "2026-10-09",
+      "location": {
+        "club": "STADE FRANCAIS",
+        "city": "MARNES LA COQUETTE"
+      },
+      "distance": "2,2 km",
+      "first_seen": "2026-10-04T09:56:47+02:00"
+    },
+    {
+      "id": "MOJA_289437",
+      "name": "UMT Stade Français saison 2027 TMC 15/6 2 ",
+      "date_start": "2026-10-05",
+      "date_end": "2026-10-09",
+      "location": {
+        "club": "STADE FRANCAIS",
+        "city": "MARNES LA COQUETTE"
+      },
+      "distance": "2,2 km",
+      "first_seen": "2026-10-04T09:56:47+02:00"
+    },
+    {
+      "id": "MOJA_291947",
+      "name": "TMC NC-30/4 JOURNEE",
+      "date_start": "2026-10-05",
+      "date_end": "2026-10-06",
+      "location": {
+        "club": "T.C. CONFLANS STE HONORINE",
+        "city": "CONFLANS STE HONORINE"
+      },
+      "distance": "17,8 km",
+      "first_seen": "2026-10-04T09:56:47+02:00"
+    },
+    {
+      "id": "MOJA_305688",
+      "name": "TMC 30/3-15/5",
+      "date_start": "2026-10-05",
+      "date_end": "2026-10-08",
+      "location": {
+        "club": "BOUGIVAL TENNIS CLUB EN SEINE",
+        "city": "BOUGIVAL"
+      },
+      "distance": "5,2 km",
+      "first_seen": "2026-10-04T09:56:47+02:00"
+    },
+    {
+      "id": "MOJA_308331",
+      "name": "Oct1 : 23h en Sénior, à 7h en +40, journée +35",
+      "date_start": "2026-10-05",
+      "date_end": "2026-10-18",
+      "location": {
+        "club": "TENNIS CLUB PARISIEN DE JOINVILLE",
+        "city": "PARIS 12"
+      },
+      "distance": "17,6 km",
+      "first_seen": "2026-10-04T09:56:47+02:00"
+    },
+    {
+      "id": "MOJA_299766",
+      "name": " TMC Journée NC - 30.1",
+      "date_start": "2026-10-08",
+      "date_end": "2026-10-09",
+      "location": {
+        "club": "MARGENCY (TC)",
+        "city": "MARGENCY"
+      },
+      "distance": "17,6 km",
+      "first_seen": "2026-10-04T09:56:47+02:00"
+    },
+    {
+      "id": "MOJA_303740",
+      "name": "TMC +60 ans Messieurs",
+      "date_start": "2026-10-08",
+      "date_end": "2026-10-08",
+      "location": {
+        "club": "T.C. IGNY",
+        "city": "IGNY"
+      },
+      "distance": "12,9 km",
+      "first_seen": "2026-10-04T09:56:47+02:00"
+    },
+    {
+      "id": "MOJA_311003",
+      "name": "TMC HOMMES 4EME SERIE JOURNEE",
+      "date_start": "2026-10-08",
+      "date_end": "2026-10-08",
+      "location": {
+        "club": "LE PETIT SMASH",
+        "city": "PARIS 16"
+      },
+      "distance": "5,4 km",
+      "first_seen": "2026-10-04T09:56:47+02:00"
+    },
+    {
+      "id": "MOJA_300739",
+      "name": "TMC HOMME 4ÈME SERIE JOURNÉE ",
+      "date_start": "2026-10-09",
+      "date_end": "2026-10-09",
+      "location": {
+        "club": "LE PETIT SMASH",
+        "city": "PUTEAUX"
+      },
+      "distance": "6,1 km",
+      "first_seen": "2026-10-04T09:56:47+02:00"
+    },
+    {
+      "id": "MOJA_220064",
+      "name": "TMC MESSIEURS SAMEDI 10/10/26 - LASA SPORT 2027",
+      "date_start": "2026-10-10",
+      "date_end": "2026-10-10",
+      "location": {
+        "club": "LASA SPORT ORGANISATION",
+        "city": "MONTREUIL"
+      },
+      "distance": "18,6 km",
+      "first_seen": "2026-10-04T09:56:47+02:00"
+    },
+    {
+      "id": "MOJA_302067",
+      "name": "TCVB Verrières Toussaint",
+      "date_start": "2026-10-10",
+      "date_end": "2026-11-01",
+      "location": {
+        "club": "TC VERRIERES LE BUISSON",
+        "city": "VERRIERES LE BUISSON"
+      },
+      "distance": "12,9 km",
+      "first_seen": "2026-10-04T09:56:47+02:00"
+    },
+    {
+      "id": "MOJA_302352",
+      "name": "TMC DOUBLE OCTOBRE ROSE",
+      "date_start": "2026-10-10",
+      "date_end": "2026-10-11",
+      "location": {
+        "club": "CLAMART (TC)",
+        "city": "CLAMART"
+      },
+      "distance": "6,7 km",
+      "first_seen": "2026-10-04T09:56:47+02:00"
+    },
+    {
+      "id": "MOJA_304158",
+      "name": "TMC HOMMES SOIREE",
+      "date_start": "2026-10-10",
+      "date_end": "2026-10-10",
+      "location": {
+        "club": "LE PETIT SMASH",
+        "city": "PARIS 16"
+      },
+      "distance": "5,4 km",
+      "first_seen": "2026-10-04T09:56:47+02:00"
+    },
+    {
+      "id": "MOJA_307179",
+      "name": "TMC Octobre Rose",
+      "date_start": "2026-10-10",
+      "date_end": "2026-10-11",
+      "location": {
+        "club": "CHEMINOTS DE L'OUEST (AS)",
+        "city": "LA GARENNE COLOMBES"
+      },
+      "distance": "6,2 km",
+      "first_seen": "2026-10-04T09:56:47+02:00"
+    },
+    {
+      "id": "MOJA_213674",
+      "name": "ST CYR TC ORANGE 7/10 ans",
+      "date_start": "2026-10-11",
+      "date_end": "2026-10-11",
+      "location": {
+        "club": "ST CYR TC",
+        "city": "ST CYR L ECOLE"
+      },
+      "distance": "12,5 km",
+      "first_seen": "2026-10-04T09:56:47+02:00"
+    },
+    {
+      "id": "MOJA_220065",
+      "name": "TMC MESSIEURS DIMANCHE 11/10/26 - LASA SPORT 2027",
+      "date_start": "2026-10-11",
+      "date_end": "2026-10-11",
+      "location": {
+        "club": "LASA SPORT ORGANISATION",
+        "city": "MONTREUIL"
+      },
+      "distance": "18,6 km",
+      "first_seen": "2026-10-04T09:56:47+02:00"
+    },
+    {
+      "id": "MOJA_300162",
+      "name": "TMC PUTEAUX 11/12 ans",
+      "date_start": "2026-10-11",
+      "date_end": "2026-10-11",
+      "location": {
+        "club": "LE PETIT SMASH",
+        "city": "PUTEAUX"
+      },
+      "distance": "6,1 km",
+      "first_seen": "2026-10-04T09:56:47+02:00"
+    },
+    {
+      "id": "MOJA_300163",
+      "name": "TMC PUTEAUX 7/10 ans MIXTE",
+      "date_start": "2026-10-11",
+      "date_end": "2026-10-11",
+      "location": {
+        "club": "LE PETIT SMASH",
+        "city": "PUTEAUX"
+      },
+      "distance": "6,1 km",
+      "first_seen": "2026-10-04T09:56:47+02:00"
+    },
+    {
+      "id": "MOJA_307642",
+      "name": "ASMINORANGE GALAXIE VERT Fille & Garçon",
+      "date_start": "2026-10-11",
+      "date_end": "2026-10-11",
+      "location": {
+        "club": "A.S. MINORANGE",
+        "city": "GUYANCOURT"
+      },
+      "distance": "14,1 km",
+      "first_seen": "2026-10-04T09:56:47+02:00"
+    },
+    {
+      "id": "MOJA_309749",
+      "name": "TMC DOUBLE poids 38 à 14 maximum 15/1",
+      "date_start": "2026-10-11",
+      "date_end": "2026-10-11",
+      "location": {
+        "club": "BOUGIVAL TENNIS CLUB EN SEINE",
+        "city": "BOUGIVAL"
+      },
+      "distance": "5,2 km",
+      "first_seen": "2026-10-04T09:56:47+02:00"
+    },
+    {
+      "id": "MOJA_309750",
+      "name": "TMC DOUBLE poids 38 à 14 maximum 15/1",
+      "date_start": "2026-10-11",
+      "date_end": "2026-10-11",
+      "location": {
+        "club": "BOUGIVAL TENNIS CLUB EN SEINE",
+        "city": "BOUGIVAL"
+      },
+      "distance": "5,2 km",
+      "first_seen": "2026-10-04T09:56:47+02:00"
+    },
+    {
+      "id": "MOJA_311075",
+      "name": "TMC octobre rose",
+      "date_start": "2026-10-11",
+      "date_end": "2026-10-11",
+      "location": {
+        "club": "J.S.A. Tennis Club",
+        "city": "MAISONS ALFORT"
+      },
+      "distance": "17,1 km",
+      "first_seen": "2026-10-04T09:56:47+02:00"
+    },
+    {
+      "id": "MOJA_213751",
+      "name": "TMC des Ibis - Journée - 30/1-15/3",
+      "date_start": "2026-10-12",
+      "date_end": "2026-10-15",
+      "location": {
+        "club": "VESINET IBIS TENNIS CLUB",
+        "city": "LE VESINET"
+      },
+      "distance": "8,0 km",
+      "first_seen": "2026-10-04T09:56:47+02:00"
+    },
+    {
+      "id": "MOJA_217773",
+      "name": "TMC 15/4-15 EN JOURNÉE",
+      "date_start": "2026-10-12",
+      "date_end": "2026-10-16",
+      "location": {
+        "club": "NANTERRE (ES)",
+        "city": "Nanterre"
+      },
+      "distance": "3,2 km",
+      "first_seen": "2026-10-04T09:56:47+02:00"
+    },
+    {
+      "id": "MOJA_288817",
+      "name": "TMC  Dames  8:30 - 12:30  de  NC...30/4",
+      "date_start": "2026-10-12",
+      "date_end": "2026-10-12",
+      "location": {
+        "club": "LA CHATAIGNERAIE (TC)",
+        "city": "RUEIL MALMAISON"
+      },
+      "distance": "2,9 km",
+      "first_seen": "2026-10-04T09:56:47+02:00"
+    },
+    {
+      "id": "MOJA_288820",
+      "name": "TMC  Messieurs  10:30 - 14:30  de  NC...30/4",
+      "date_start": "2026-10-12",
+      "date_end": "2026-10-12",
+      "location": {
+        "club": "LA CHATAIGNERAIE (TC)",
+        "city": "RUEIL MALMAISON"
+      },
+      "distance": "2,9 km",
+      "first_seen": "2026-10-04T09:56:47+02:00"
+    },
+    {
+      "id": "MOJA_299580",
+      "name": "TMC Journée 30.2 - 15.5",
+      "date_start": "2026-10-12",
+      "date_end": "2026-10-13",
+      "location": {
+        "club": "MARGENCY (TC)",
+        "city": "MARGENCY"
+      },
+      "distance": "17,6 km",
+      "first_seen": "2026-10-04T09:56:47+02:00"
+    },
+    {
+      "id": "MOJA_305691",
+      "name": "TMC 30/3-15/5",
+      "date_start": "2026-10-12",
+      "date_end": "2026-10-15",
+      "location": {
+        "club": "BOUGIVAL TENNIS CLUB EN SEINE",
+        "city": "BOUGIVAL"
+      },
+      "distance": "5,2 km",
+      "first_seen": "2026-10-04T09:56:47+02:00"
+    },
+    {
+      "id": "MOJA_299582",
+      "name": "TMC Journée 15.4 - 15.1",
+      "date_start": "2026-10-15",
+      "date_end": "2026-10-16",
+      "location": {
+        "club": "MARGENCY (TC)",
+        "city": "MARGENCY"
+      },
+      "distance": "17,6 km",
+      "first_seen": "2026-10-04T09:56:47+02:00"
+    },
+    {
+      "id": "MOJA_300731",
+      "name": "TMC HOMME 4ÈME SERIE JOURNÉE ",
+      "date_start": "2026-10-15",
+      "date_end": "2026-10-15",
+      "location": {
+        "club": "LE PETIT SMASH",
+        "city": "PARIS 16"
+      },
+      "distance": "5,4 km",
+      "first_seen": "2026-10-04T09:56:47+02:00"
+    },
+    {
+      "id": "MOJA_213765",
+      "name": "AS Pyramides - Tournoi Open jeunes",
+      "date_start": "2026-10-16",
+      "date_end": "2026-10-24",
+      "location": {
+        "club": "A.S. LES PYRAMIDES",
+        "city": "LE PORT MARLY"
+      },
+      "distance": "8,5 km",
+      "first_seen": "2026-10-04T09:56:47+02:00"
+    },
+    {
+      "id": "MOJA_286579",
+      "name": "Tournoi de Paray jeunes ",
+      "date_start": "2026-10-16",
+      "date_end": "2026-11-01",
+      "location": {
+        "club": "T.C. PARAY TENNIS",
+        "city": "PARAY VIEILLE POSTE"
+      },
+      "distance": "18,8 km",
+      "first_seen": "2026-10-04T09:56:47+02:00"
+    },
+    {
+      "id": "MOJA_286581",
+      "name": "Tournoi de Paray NC 15/1 séniors et seniors+",
+      "date_start": "2026-10-16",
+      "date_end": "2026-11-01",
+      "location": {
+        "club": "T.C. PARAY TENNIS",
+        "city": "PARAY VIEILLE POSTE"
+      },
+      "distance": "18,8 km",
+      "first_seen": "2026-10-04T09:56:47+02:00"
+    },
+    {
+      "id": "MOJA_292141",
+      "name": "TOURNOI OPEN SENIORS+ TC PLESSIS BOUCHARD",
+      "date_start": "2026-10-16",
+      "date_end": "2026-11-01",
+      "location": {
+        "club": "PLESSIS BOUCHARD  TC",
+        "city": "LE PLESSIS BOUCHARD"
+      },
+      "distance": "17,3 km",
+      "first_seen": "2026-10-04T09:56:47+02:00"
+    },
+    {
+      "id": "MOJA_299745",
+      "name": "Tournoi Open de la Toussaint",
+      "date_start": "2026-10-16",
+      "date_end": "2026-11-01",
+      "location": {
+        "club": "MARGENCY (TC)",
+        "city": "MARGENCY"
+      },
+      "distance": "17,6 km",
+      "first_seen": "2026-10-04T09:56:47+02:00"
+    },
+    {
+      "id": "MOJA_301028",
+      "name": "TMC WILSON DEFYER",
+      "date_start": "2026-10-16",
+      "date_end": "2026-10-17",
+      "location": {
+        "club": "LA CHATAIGNERAIE (TC)",
+        "city": "RUEIL MALMAISON"
+      },
+      "distance": "2,9 km",
+      "first_seen": "2026-10-04T09:56:47+02:00"
+    },
+    {
+      "id": "MOJA_301031",
+      "name": "TMC WILSON DEFYER",
+      "date_start": "2026-10-16",
+      "date_end": "2026-10-17",
+      "location": {
+        "club": "LA CHATAIGNERAIE (TC)",
+        "city": "RUEIL MALMAISON"
+      },
+      "distance": "2,9 km",
+      "first_seen": "2026-10-04T09:56:47+02:00"
+    },
+    {
+      "id": "MOJA_302904",
+      "name": "Open de JARDY octobre 2026",
+      "date_start": "2026-10-16",
+      "date_end": "2026-11-01",
+      "location": {
+        "club": "GOLF ET TENNIS DES HARAS DE JARDY (AS)",
+        "city": "VAUCRESSON"
+      },
+      "distance": "4,9 km",
+      "first_seen": "2026-10-04T09:56:47+02:00"
+    },
+    {
+      "id": "MOJA_303281",
+      "name": "TMC messieurs Epinay-sur-Seine",
+      "date_start": "2026-10-16",
+      "date_end": "2026-10-18",
+      "location": {
+        "club": "CSM EPINAY",
+        "city": "EPINAY SUR SEINE"
+      },
+      "distance": "12,9 km",
+      "first_seen": "2026-10-04T09:56:47+02:00"
+    },
+    {
+      "id": "MOJA_196800",
+      "name": "Tournoi Open de la Toussaint - US Villejuif",
+      "date_start": "2026-10-17",
+      "date_end": "2026-11-01",
+      "location": {
+        "club": "US VILLEJUIF",
+        "city": "VILLEJUIF"
+      },
+      "distance": "11,7 km",
+      "first_seen": "2026-10-04T09:56:47+02:00"
+    },
+    {
+      "id": "MOJA_196943",
+      "name": "Tournoi 4e-3e Séries de la Toussaint US Villejuif",
+      "date_start": "2026-10-17",
+      "date_end": "2026-11-01",
+      "location": {
+        "club": "US VILLEJUIF",
+        "city": "VILLEJUIF"
+      },
+      "distance": "11,7 km",
+      "first_seen": "2026-10-04T09:56:47+02:00"
+    },
+    {
+      "id": "MOJA_213430",
+      "name": "Tournoi Jeunes 11/18 ans",
+      "date_start": "2026-10-17",
+      "date_end": "2026-10-24",
+      "location": {
+        "club": "T.C. VILLENNES",
+        "city": "VILLENNES SUR SEINE"
+      },
+      "distance": "18,7 km",
+      "first_seen": "2026-10-04T09:56:47+02:00"
+    },
+    {
+      "id": "MOJA_213495",
+      "name": "tournoi jeune d'automne de Minorange",
+      "date_start": "2026-10-17",
+      "date_end": "2026-11-01",
+      "location": {
+        "club": "A.S. MINORANGE",
+        "city": "GUYANCOURT"
+      },
+      "distance": "14,1 km",
+      "first_seen": "2026-10-04T09:56:47+02:00"
+    },
+    {
+      "id": "MOJA_218961",
+      "name": "TCH - Tournoi Adultes NC à 0 ",
+      "date_start": "2026-10-17",
+      "date_end": "2026-11-02",
+      "location": {
+        "club": "T.C. HOUILLES",
+        "city": "HOUILLES"
+      },
+      "distance": "8,6 km",
+      "first_seen": "2026-10-04T09:56:47+02:00"
+    },
+    {
+      "id": "MOJA_219712",
+      "name": "TOURNOI AVG TENNIS ",
+      "date_start": "2026-10-17",
+      "date_end": "2026-11-01",
+      "location": {
+        "club": "VILLENEUVE-LA-GARENNE (AMICALE)",
+        "city": "VILLENEUVE LA GARENNE"
+      },
+      "distance": "13,2 km",
+      "first_seen": "2026-10-04T09:56:47+02:00"
+    },
+    {
+      "id": "MOJA_220066",
+      "name": "TMC MESSIEURS SAMEDI 17/10/26 - LASA SPORT 2027",
+      "date_start": "2026-10-17",
+      "date_end": "2026-10-17",
+      "location": {
+        "club": "LASA SPORT ORGANISATION",
+        "city": "MONTREUIL"
+      },
+      "distance": "18,6 km",
+      "first_seen": "2026-10-04T09:56:47+02:00"
+    },
+    {
+      "id": "MOJA_221210",
+      "name": "Tournoi GPJ Tennis Club Gennevillois",
+      "date_start": "2026-10-17",
+      "date_end": "2026-10-25",
+      "location": {
+        "club": "GENNEVILLOIS (TC)",
+        "city": "GENNEVILLIERS"
+      },
+      "distance": "11,4 km",
+      "first_seen": "2026-10-04T09:56:47+02:00"
+    },
+    {
+      "id": "MOJA_288117",
+      "name": "TOURNOI OPEN JEUNES DU MONTMORENCY TENNIS CLUB",
+      "date_start": "2026-10-17",
+      "date_end": "2026-10-23",
+      "location": {
+        "club": "MONTMORENCY TC",
+        "city": "MONTMORENCY"
+      },
+      "distance": "17,7 km",
+      "first_seen": "2026-10-04T09:56:47+02:00"
+    },
+    {
+      "id": "MOJA_289767",
+      "name": "OPEN TOUSSAINT COLOMBES TENNIS CLUB",
+      "date_start": "2026-10-17",
+      "date_end": "2026-11-01",
+      "location": {
+        "club": "COLOMBES (TC)",
+        "city": "COLOMBES"
+      },
+      "distance": "8,8 km",
+      "first_seen": "2026-10-04T09:56:47+02:00"
+    },
+    {
+      "id": "MOJA_292936",
+      "name": "Tournoi Pré Qualification Petits As Herblay",
+      "date_start": "2026-10-17",
+      "date_end": "2026-11-01",
+      "location": {
+        "club": "HERBLAY (AST)",
+        "city": "HERBLAY"
+      },
+      "distance": "17,6 km",
+      "first_seen": "2026-10-04T09:56:47+02:00"
+    },
+    {
+      "id": "MOJA_292937",
+      "name": "Tournoi Jeunes Herblay",
+      "date_start": "2026-10-17",
+      "date_end": "2026-11-01",
+      "location": {
+        "club": "HERBLAY (AST)",
+        "city": "HERBLAY"
+      },
+      "distance": "17,6 km",
+      "first_seen": "2026-10-04T09:56:47+02:00"
+    },
+    {
+      "id": "MOJA_292943",
+      "name": "Tournoi 2ème série Herblay LA RESIDENCE",
+      "date_start": "2026-10-17",
+      "date_end": "2026-10-25",
+      "location": {
+        "club": "HERBLAY (AST)",
+        "city": "HERBLAY"
+      },
+      "distance": "17,6 km",
+      "first_seen": "2026-10-04T09:56:47+02:00"
+    },
+    {
+      "id": "MOJA_298100",
+      "name": "Tournoi Toussaint 2026 Senior Plus TC Thiais",
+      "date_start": "2026-10-17",
+      "date_end": "2026-11-01",
+      "location": {
+        "club": "TC THIAIS",
+        "city": "Thiais"
+      },
+      "distance": "17,5 km",
+      "first_seen": "2026-10-04T09:56:47+02:00"
+    },
+    {
+      "id": "MOJA_299608",
+      "name": "Tournoi Open 15/16 ans du TCBB",
+      "date_start": "2026-10-17",
+      "date_end": "2026-11-01",
+      "location": {
+        "club": "BOULOGNE BILLANCOURT (TC)",
+        "city": "BOULOGNE BILLANCOURT"
+      },
+      "distance": "1,9 km",
+      "first_seen": "2026-10-04T09:56:47+02:00"
+    },
+    {
+      "id": "MOJA_299612",
+      "name": "Tournoi Open +45 ans du TCBB",
+      "date_start": "2026-10-17",
+      "date_end": "2026-11-01",
+      "location": {
+        "club": "BOULOGNE BILLANCOURT (TC)",
+        "city": "BOULOGNE BILLANCOURT"
+      },
+      "distance": "1,9 km",
+      "first_seen": "2026-10-04T09:56:47+02:00"
+    },
+    {
+      "id": "MOJA_301041",
+      "name": "TMC 13/14 ANS DE STAINS 30/3 - 15/5 ",
+      "date_start": "2026-10-17",
+      "date_end": "2026-10-18",
+      "location": {
+        "club": "ESPERANCE SPORTIVE STAINS",
+        "city": "STAINS"
+      },
+      "distance": "17,9 km",
+      "first_seen": "2026-10-04T09:56:47+02:00"
+    },
+    {
+      "id": "MOJA_301322",
+      "name": "Jeunes Toussaint AT Neuilly 2026",
+      "date_start": "2026-10-17",
+      "date_end": "2026-10-25",
+      "location": {
+        "club": "NEUILLY (AT)",
+        "city": "NEUILLY SUR SEINE"
+      },
+      "distance": "5,7 km",
+      "first_seen": "2026-10-04T09:56:47+02:00"
+    },
+    {
+      "id": "MOJA_303193",
+      "name": "OPEN JEUNES TCP",
+      "date_start": "2026-10-17",
+      "date_end": "2026-10-24",
+      "location": {
+        "club": "TENNIS CLUB DE PARIS",
+        "city": "PARIS 16"
+      },
+      "distance": "3,8 km",
+      "first_seen": "2026-10-04T09:56:47+02:00"
+    },
+    {
+      "id": "MOJA_304377",
+      "name": "TMC SM 15/5à15/2(3matchs)oct2026",
+      "date_start": "2026-10-17",
+      "date_end": "2026-10-18",
+      "location": {
+        "club": "T.C.M. BOIS D'ARCY",
+        "city": "BOIS D ARCY"
+      },
+      "distance": "14,4 km",
+      "first_seen": "2026-10-04T09:56:47+02:00"
+    },
+    {
+      "id": "MOJA_304549",
+      "name": "Rose, Set et Match !",
+      "date_start": "2026-10-17",
+      "date_end": "2026-10-18",
+      "location": {
+        "club": "T.C. VILLEPREUX",
+        "city": "VILLEPREUX"
+      },
+      "distance": "15,5 km",
+      "first_seen": "2026-10-04T09:56:47+02:00"
+    },
+    {
+      "id": "MOJA_305717",
+      "name": "Pré qualif open Stade Francais, TCP",
+      "date_start": "2026-10-17",
+      "date_end": "2026-10-24",
+      "location": {
+        "club": "TENNIS CLUB DE PARIS",
+        "city": "PARIS 16"
+      },
+      "distance": "3,8 km",
+      "first_seen": "2026-10-04T09:56:47+02:00"
+    },
+    {
+      "id": "MOJA_305832",
+      "name": "CHATILLON (TCMC)",
+      "date_start": "2026-10-17",
+      "date_end": "2026-10-24",
+      "location": {
+        "club": "CHATILLONNAIS (TCM)",
+        "city": "CHATILLON"
+      },
+      "distance": "7,3 km",
+      "first_seen": "2026-10-04T09:56:47+02:00"
+    },
+    {
+      "id": "MOJA_308572",
+      "name": "Tournoi Jeunes toussaint 2026",
+      "date_start": "2026-10-17",
+      "date_end": "2026-10-24",
+      "location": {
+        "club": "PARIS UNIVERSITE CLUB",
+        "city": "PARIS 13"
+      },
+      "distance": "10,4 km",
+      "first_seen": "2026-10-04T09:56:47+02:00"
+    },
+    {
+      "id": "MOJA_311031",
+      "name": "TMC 9 ans P'tits Gaulois - sur invitation",
+      "date_start": "2026-10-17",
+      "date_end": "2026-10-18",
+      "location": {
+        "club": "TC Chevry 2 - Gif sur Yvette",
+        "city": "GIF SUR YVETTE"
+      },
+      "distance": "19,5 km",
+      "first_seen": "2026-10-04T09:56:47+02:00"
+    },
+    {
+      "id": "MOJA_208330",
+      "name": "L'Haÿween SD + SM (40 à 15/1)",
+      "date_start": "2026-10-18",
+      "date_end": "2026-11-01",
+      "location": {
+        "club": "C.A.L. TC L'HAY LES ROSES",
+        "city": "L HAY LES ROSES"
+      },
+      "distance": "12,4 km",
+      "first_seen": "2026-10-04T09:56:47+02:00"
+    },
+    {
+      "id": "MOJA_212956",
+      "name": "Tournoi Jeunes Toussaint",
+      "date_start": "2026-10-18",
+      "date_end": "2026-10-25",
+      "location": {
+        "club": "U.S. CARRIERES SUR SEINE",
+        "city": "Carrières sur seine"
+      },
+      "distance": "6,9 km",
+      "first_seen": "2026-10-04T09:56:47+02:00"
+    },
+    {
+      "id": "MOJA_213625",
+      "name": "TMC Vert TC Magny",
+      "date_start": "2026-10-18",
+      "date_end": "2026-10-18",
+      "location": {
+        "club": "T.C. MAGNY LES HAMEAUX",
+        "city": "MAGNY LES HAMEAUX"
+      },
+      "distance": "16,6 km",
+      "first_seen": "2026-10-04T09:56:47+02:00"
+    },
+    {
+      "id": "MOJA_216867",
+      "name": "tmc orange filles octobre 26",
+      "date_start": "2026-10-18",
+      "date_end": "2026-10-18",
+      "location": {
+        "club": "T.C. CONFLANS STE HONORINE",
+        "city": "CONFLANS STE HONORINE"
+      },
+      "distance": "17,8 km",
+      "first_seen": "2026-10-04T09:56:47+02:00"
+    },
+    {
+      "id": "MOJA_220031",
+      "name": "TOURNOI - MASTERS LASA SPORT 2027 E3",
+      "date_start": "2026-10-18",
+      "date_end": "2026-11-01",
+      "location": {
+        "club": "LASA SPORT ORGANISATION",
+        "city": "MONTREUIL"
+      },
+      "distance": "18,6 km",
+      "first_seen": "2026-10-04T09:56:47+02:00"
+    },
+    {
+      "id": "MOJA_220067",
+      "name": "TMC MESSIEURS DIMANCHE 18/10/26 - LASA SPORT 2027",
+      "date_start": "2026-10-18",
+      "date_end": "2026-10-18",
+      "location": {
+        "club": "LASA SPORT ORGANISATION",
+        "city": "MONTREUIL"
+      },
+      "distance": "18,6 km",
+      "first_seen": "2026-10-04T09:56:47+02:00"
+    },
+    {
+      "id": "MOJA_221479",
+      "name": "senior & 55 dames Taverny",
+      "date_start": "2026-10-18",
+      "date_end": "2026-11-01",
+      "location": {
+        "club": "TAVERNY (CCT)",
+        "city": "TAVERNY"
+      },
+      "distance": "18,6 km",
+      "first_seen": "2026-10-04T09:56:47+02:00"
+    },
+    {
+      "id": "MOJA_288794",
+      "name": "TMC messieurs 8:00 à12:00 de NC...30/4",
+      "date_start": "2026-10-18",
+      "date_end": "2026-10-18",
+      "location": {
+        "club": "LA CHATAIGNERAIE (TC)",
+        "city": "RUEIL MALMAISON"
+      },
+      "distance": "2,9 km",
+      "first_seen": "2026-10-04T09:56:47+02:00"
+    },
+    {
+      "id": "MOJA_288796",
+      "name": "TMC Dames 10:00 à 14:00 de NC...30/4",
+      "date_start": "2026-10-18",
+      "date_end": "2026-10-18",
+      "location": {
+        "club": "LA CHATAIGNERAIE (TC)",
+        "city": "RUEIL MALMAISON"
+      },
+      "distance": "2,9 km",
+      "first_seen": "2026-10-04T09:56:47+02:00"
+    },
+    {
+      "id": "MOJA_288797",
+      "name": "TMC Dames 14:00 à118:00 de 30/3...30/1",
+      "date_start": "2026-10-18",
+      "date_end": "2026-10-18",
+      "location": {
+        "club": "LA CHATAIGNERAIE (TC)",
+        "city": "RUEIL MALMAISON"
+      },
+      "distance": "2,9 km",
+      "first_seen": "2026-10-04T09:56:47+02:00"
+    },
+    {
+      "id": "MOJA_288799",
+      "name": "TMC  Messieurs  16:00 à  20:00  de  NC...30/4",
+      "date_start": "2026-10-18",
+      "date_end": "2026-10-18",
+      "location": {
+        "club": "LA CHATAIGNERAIE (TC)",
+        "city": "RUEIL MALMAISON"
+      },
+      "distance": "2,9 km",
+      "first_seen": "2026-10-04T09:56:47+02:00"
+    },
+    {
+      "id": "MOJA_295419",
+      "name": "Tournoi Jeunes Toussaint Argenteuil TC",
+      "date_start": "2026-10-18",
+      "date_end": "2026-11-01",
+      "location": {
+        "club": "ARGENTEUIL TENNIS CLUB",
+        "city": "ARGENTEUIL"
+      },
+      "distance": "9,5 km",
+      "first_seen": "2026-10-04T09:56:47+02:00"
+    },
+    {
+      "id": "MOJA_300347",
+      "name": "TMC PUTEAUX 11/12 ans ",
+      "date_start": "2026-10-18",
+      "date_end": "2026-10-18",
+      "location": {
+        "club": "LE PETIT SMASH",
+        "city": "PUTEAUX"
+      },
+      "distance": "6,1 km",
+      "first_seen": "2026-10-04T09:56:47+02:00"
+    },
+    {
+      "id": "MOJA_300348",
+      "name": "TMC PUTEAUX 13/14 ans",
+      "date_start": "2026-10-18",
+      "date_end": "2026-10-18",
+      "location": {
+        "club": "LE PETIT SMASH",
+        "city": "PUTEAUX"
+      },
+      "distance": "6,1 km",
+      "first_seen": "2026-10-04T09:56:47+02:00"
+    },
+    {
+      "id": "MOJA_304131",
+      "name": "Open Sénior + 35 + 45 du CAM ",
+      "date_start": "2026-10-18",
+      "date_end": "2026-10-30",
+      "location": {
+        "club": "MONTROUGE (CA)",
+        "city": "MONTROUGE"
+      },
+      "distance": "9,2 km",
+      "first_seen": "2026-10-04T09:56:47+02:00"
+    },
+    {
+      "id": "MOJA_304444",
+      "name": "TMC ESN en journée",
+      "date_start": "2026-10-18",
+      "date_end": "2026-10-19",
+      "location": {
+        "club": "NANTERRE (ES)",
+        "city": "Nanterre"
+      },
+      "distance": "3,2 km",
+      "first_seen": "2026-10-04T09:56:47+02:00"
+    },
+    {
+      "id": "MOJA_305206",
+      "name": "Vert Clamart",
+      "date_start": "2026-10-18",
+      "date_end": "2026-10-20",
+      "location": {
+        "club": "CLAMART (TC)",
+        "city": "CLAMART"
+      },
+      "distance": "6,7 km",
+      "first_seen": "2026-10-04T09:56:47+02:00"
+    },
+    {
+      "id": "MOJA_306170",
+      "name": "UMT Stade Français Octobre 1 Jeune élite ",
+      "date_start": "2026-10-18",
+      "date_end": "2026-10-21",
+      "location": {
+        "club": "STADE FRANCAIS",
+        "city": "MARNES LA COQUETTE"
+      },
+      "distance": "2,2 km",
+      "first_seen": "2026-10-04T09:56:47+02:00"
+    },
+    {
+      "id": "MOJA_307539",
+      "name": "UMT Stade Français Octobre 1 Open / Double 2°serie",
+      "date_start": "2026-10-18",
+      "date_end": "2026-10-25",
+      "location": {
+        "club": "STADE FRANCAIS",
+        "city": "MARNES LA COQUETTE"
+      },
+      "distance": "2,2 km",
+      "first_seen": "2026-10-04T09:56:47+02:00"
+    },
+    {
+      "id": "MOJA_307560",
+      "name": "UMT Stade Français Octobre 1 limité 15",
+      "date_start": "2026-10-18",
+      "date_end": "2026-10-25",
+      "location": {
+        "club": "STADE FRANCAIS",
+        "city": "MARNES LA COQUETTE"
+      },
+      "distance": "2,2 km",
+      "first_seen": "2026-10-04T09:56:47+02:00"
+    },
+    {
+      "id": "MOJA_307565",
+      "name": "UMT Stade Français Octobre 1 limité 30",
+      "date_start": "2026-10-18",
+      "date_end": "2026-10-25",
+      "location": {
+        "club": "STADE FRANCAIS",
+        "city": "MARNES LA COQUETTE"
+      },
+      "distance": "2,2 km",
+      "first_seen": "2026-10-04T09:56:47+02:00"
+    },
+    {
+      "id": "MOJA_309838",
+      "name": "Open jeunes de la toussaint du CAM ",
+      "date_start": "2026-10-18",
+      "date_end": "2026-10-24",
+      "location": {
+        "club": "MONTROUGE (CA)",
+        "city": "MONTROUGE"
+      },
+      "distance": "9,2 km",
+      "first_seen": "2026-10-04T09:56:47+02:00"
+    },
+    {
+      "id": "MOJA_311092",
+      "name": "Tournoi  tir 11/14 ans",
+      "date_start": "2026-10-18",
+      "date_end": "2026-10-22",
+      "location": {
+        "club": "AS CERCLE DU BOIS DE BOULOGNE",
+        "city": "PARIS 16"
+      },
+      "distance": "4,4 km",
+      "first_seen": "2026-10-04T09:56:47+02:00"
+    },
+    {
+      "id": "MOJA_311094",
+      "name": "Tournoi jeune du Tir",
+      "date_start": "2026-10-18",
+      "date_end": "2026-10-22",
+      "location": {
+        "club": "AS CERCLE DU BOIS DE BOULOGNE",
+        "city": "PARIS 16"
+      },
+      "distance": "4,4 km",
+      "first_seen": "2026-10-04T09:56:47+02:00"
+    },
+    {
+      "id": "MOJA_311808",
+      "name": "TMC octobre rose 4ème série",
+      "date_start": "2026-10-18",
+      "date_end": "2026-10-18",
+      "location": {
+        "club": "AS Tennis de MONTREUIL",
+        "city": "MONTREUIL"
+      },
+      "distance": "18,6 km",
+      "first_seen": "2026-10-04T09:56:47+02:00"
+    },
+    {
+      "id": "MOJA_311825",
+      "name": "TMC octobre rose 4ème série",
+      "date_start": "2026-10-18",
+      "date_end": "2026-10-18",
+      "location": {
+        "club": "AS Tennis de MONTREUIL",
+        "city": "MONTREUIL"
+      },
+      "distance": "18,6 km",
+      "first_seen": "2026-10-04T09:56:47+02:00"
+    },
+    {
+      "id": "MOJA_288825",
+      "name": "Grand Prix Jeunes TOUSSAINT",
+      "date_start": "2026-10-19",
+      "date_end": "2026-10-30",
+      "location": {
+        "club": "LA CHATAIGNERAIE (TC)",
+        "city": "RUEIL MALMAISON"
+      },
+      "distance": "2,9 km",
+      "first_seen": "2026-10-04T09:56:47+02:00"
+    },
+    {
+      "id": "MOJA_288828",
+      "name": "TMC MORANGIS 13/16 ans Garçons 30/5 à 30/2",
+      "date_start": "2026-10-19",
+      "date_end": "2026-10-19",
+      "location": {
+        "club": "T.M. MORANGIS",
+        "city": "MORANGIS"
+      },
+      "distance": "18,6 km",
+      "first_seen": "2026-10-04T09:56:47+02:00"
+    },
+    {
+      "id": "MOJA_290869",
+      "name": "TMC Vert NC - 30/3",
+      "date_start": "2026-10-19",
+      "date_end": "2026-10-19",
+      "location": {
+        "club": "T.C. VELIZY VILLACOUBLAY",
+        "city": "VELIZY VILLACOUBLAY"
+      },
+      "distance": "8,2 km",
+      "first_seen": "2026-10-04T09:56:47+02:00"
+    },
+    {
+      "id": "MOJA_299738",
+      "name": "U10 Vert (Filles & Garçons)",
+      "date_start": "2026-10-19",
+      "date_end": "2026-10-20",
+      "location": {
+        "club": "MARGENCY (TC)",
+        "city": "MARGENCY"
+      },
+      "distance": "17,6 km",
+      "first_seen": "2026-10-04T09:56:47+02:00"
+    },
+    {
+      "id": "MOJA_300021",
+      "name": "Open galaxie orange de Courbevoie",
+      "date_start": "2026-10-19",
+      "date_end": "2026-10-21",
+      "location": {
+        "club": "COURBEVOIE SPORT TENNIS",
+        "city": "COURBEVOIE"
+      },
+      "distance": "6,6 km",
+      "first_seen": "2026-10-04T09:56:47+02:00"
+    },
+    {
+      "id": "MOJA_300486",
+      "name": "TMC AAE St Brice 4èmeS Messieurs ",
+      "date_start": "2026-10-19",
+      "date_end": "2026-10-20",
+      "location": {
+        "club": "SAINT BRICE (AAE)",
+        "city": "ST BRICE SOUS FORET"
+      },
+      "distance": "19,6 km",
+      "first_seen": "2026-10-04T09:56:47+02:00"
+    },
+    {
+      "id": "MOJA_300762",
+      "name": "TMC Jeunes",
+      "date_start": "2026-10-19",
+      "date_end": "2026-10-21",
+      "location": {
+        "club": "A.A.S. FRESNES",
+        "city": "FRESNES"
+      },
+      "distance": "13,5 km",
+      "first_seen": "2026-10-04T09:56:47+02:00"
+    },
+    {
+      "id": "MOJA_301294",
+      "name": "ATN Toussaint",
+      "date_start": "2026-10-19",
+      "date_end": "2026-10-21",
+      "location": {
+        "club": "NEUILLY (AT)",
+        "city": "NEUILLY SUR SEINE"
+      },
+      "distance": "5,7 km",
+      "first_seen": "2026-10-04T09:56:47+02:00"
+    },
+    {
+      "id": "MOJA_302269",
+      "name": "TOURNOI JEUNES DE STAINS ",
+      "date_start": "2026-10-19",
+      "date_end": "2026-11-01",
+      "location": {
+        "club": "ESPERANCE SPORTIVE STAINS",
+        "city": "STAINS"
+      },
+      "distance": "17,9 km",
+      "first_seen": "2026-10-04T09:56:47+02:00"
+    },
+    {
+      "id": "MOJA_304378",
+      "name": "TMC SM 15/2 à 15 (3 matchs) oct2026",
+      "date_start": "2026-10-19",
+      "date_end": "2026-10-21",
+      "location": {
+        "club": "T.C.M. BOIS D'ARCY",
+        "city": "BOIS D ARCY"
+      },
+      "distance": "14,4 km",
+      "first_seen": "2026-10-04T09:56:47+02:00"
+    },
+    {
+      "id": "MOJA_304384",
+      "name": "TMC SD NC à 30/4 (3 matchs) oct2026",
+      "date_start": "2026-10-19",
+      "date_end": "2026-10-21",
+      "location": {
+        "club": "T.C.M. BOIS D'ARCY",
+        "city": "BOIS D ARCY"
+      },
+      "distance": "14,4 km",
+      "first_seen": "2026-10-04T09:56:47+02:00"
+    },
+    {
+      "id": "MOJA_305244",
+      "name": "11/18 ans Clamart",
+      "date_start": "2026-10-19",
+      "date_end": "2026-10-23",
+      "location": {
+        "club": "CLAMART (TC)",
+        "city": "CLAMART"
+      },
+      "distance": "6,7 km",
+      "first_seen": "2026-10-04T09:56:47+02:00"
+    },
+    {
+      "id": "MOJA_306200",
+      "name": "TMC Messieurs NC à 30/4 - En matinée 8h30 à 14h",
+      "date_start": "2026-10-19",
+      "date_end": "2026-10-19",
+      "location": {
+        "club": "ARSENAL CHATILLON (TC)",
+        "city": "CHATILLON"
+      },
+      "distance": "8,2 km",
+      "first_seen": "2026-10-04T09:56:47+02:00"
+    },
+    {
+      "id": "MOJA_306203",
+      "name": "TMC Messieurs 30/3 à 30/1 - Après midi 14h à 19h30",
+      "date_start": "2026-10-19",
+      "date_end": "2026-10-19",
+      "location": {
+        "club": "ARSENAL CHATILLON (TC)",
+        "city": "CHATILLON"
+      },
+      "distance": "8,2 km",
+      "first_seen": "2026-10-04T09:56:47+02:00"
+    },
+    {
+      "id": "MOJA_306351",
+      "name": "TMC messieurs 15/5 - 15/1 TC Orsay",
+      "date_start": "2026-10-19",
+      "date_end": "2026-10-22",
+      "location": {
+        "club": "T.C. ORSAY",
+        "city": "ORSAY"
+      },
+      "distance": "18,2 km",
+      "first_seen": "2026-10-04T09:56:47+02:00"
+    },
+    {
+      "id": "MOJA_306357",
+      "name": "TMC garçons 11/12 - 13/14 et 17/18 ans TC Orsay",
+      "date_start": "2026-10-19",
+      "date_end": "2026-10-22",
+      "location": {
+        "club": "T.C. ORSAY",
+        "city": "ORSAY"
+      },
+      "distance": "18,2 km",
+      "first_seen": "2026-10-04T09:56:47+02:00"
+    },
+    {
+      "id": "MOJA_307817",
+      "name": "TMC 11/12 ans ",
+      "date_start": "2026-10-19",
+      "date_end": "2026-10-20",
+      "location": {
+        "club": "GARENNOIS (TC)",
+        "city": "NANTERRE"
+      },
+      "distance": "5,9 km",
+      "first_seen": "2026-10-04T09:56:47+02:00"
+    },
+    {
+      "id": "MOJA_307867",
+      "name": "TMC JEUNES 30/1-15/3",
+      "date_start": "2026-10-19",
+      "date_end": "2026-10-20",
+      "location": {
+        "club": "T.C. LE CHESNAY TRIANON",
+        "city": "LE CHESNAY"
+      },
+      "distance": "7,5 km",
+      "first_seen": "2026-10-04T09:56:47+02:00"
+    },
+    {
+      "id": "MOJA_308142",
+      "name": "UMT Stade Français Octobre 1 TMC VERT",
+      "date_start": "2026-10-19",
+      "date_end": "2026-10-19",
+      "location": {
+        "club": "STADE FRANCAIS",
+        "city": "MARNES LA COQUETTE"
+      },
+      "distance": "2,2 km",
+      "first_seen": "2026-10-04T09:56:47+02:00"
+    },
+    {
+      "id": "MOJA_308531",
+      "name": "Cachan Galaxy vert",
+      "date_start": "2026-10-19",
+      "date_end": "2026-10-20",
+      "location": {
+        "club": "SPORTING TENNIS CACHAN",
+        "city": "CACHAN"
+      },
+      "distance": "11,1 km",
+      "first_seen": "2026-10-04T09:56:47+02:00"
+    },
+    {
+      "id": "MOJA_310320",
+      "name": "TMC 30/4-30/1",
+      "date_start": "2026-10-19",
+      "date_end": "2026-10-23",
+      "location": {
+        "club": "GARCHES TENNIS CLUB",
+        "city": "GARCHES"
+      },
+      "distance": "1,4 km",
+      "first_seen": "2026-10-04T09:56:47+02:00"
+    },
+    {
+      "id": "MOJA_311202",
+      "name": "tournoi vert 19/10",
+      "date_start": "2026-10-19",
+      "date_end": "2026-10-19",
+      "location": {
+        "club": "T.C. CONFLANS STE HONORINE",
+        "city": "CONFLANS STE HONORINE"
+      },
+      "distance": "17,8 km",
+      "first_seen": "2026-10-04T09:56:47+02:00"
+    },
+    {
+      "id": "MOJA_311223",
+      "name": "TMC FEMMES 30/4 30/1",
+      "date_start": "2026-10-19",
+      "date_end": "2026-10-20",
+      "location": {
+        "club": "T.C. CONFLANS STE HONORINE",
+        "city": "CONFLANS STE HONORINE"
+      },
+      "distance": "19,3 km",
+      "first_seen": "2026-10-04T09:56:47+02:00"
+    },
+    {
+      "id": "MOJA_213476",
+      "name": "Galaxie Orange TC Voisins",
+      "date_start": "2026-10-20",
+      "date_end": "2026-10-21",
+      "location": {
+        "club": "T.C. VOISINS LE BRETONNEUX",
+        "city": "VOISINS LE BRETONNEUX"
+      },
+      "distance": "15,8 km",
+      "first_seen": "2026-10-04T09:56:47+02:00"
+    },
+    {
+      "id": "MOJA_288838",
+      "name": "TMC Morangis JOURNEE Messieurs 40 à 30/3",
+      "date_start": "2026-10-20",
+      "date_end": "2026-10-20",
+      "location": {
+        "club": "T.M. MORANGIS",
+        "city": "MORANGIS"
+      },
+      "distance": "18,6 km",
+      "first_seen": "2026-10-04T09:56:47+02:00"
+    },
+    {
+      "id": "MOJA_290872",
+      "name": "TMC JEUNES NC - 30/1",
+      "date_start": "2026-10-20",
+      "date_end": "2026-10-21",
+      "location": {
+        "club": "T.C. VELIZY VILLACOUBLAY",
+        "city": "VELIZY VILLACOUBLAY"
+      },
+      "distance": "8,2 km",
+      "first_seen": "2026-10-04T09:56:47+02:00"
+    },
+    {
+      "id": "MOJA_304912",
+      "name": "TMC ESN en journée",
+      "date_start": "2026-10-20",
+      "date_end": "2026-10-20",
+      "location": {
+        "club": "NANTERRE (ES)",
+        "city": "Nanterre"
+      },
+      "distance": "3,2 km",
+      "first_seen": "2026-10-04T09:56:47+02:00"
+    },
+    {
+      "id": "MOJA_306172",
+      "name": "UMT Stade Français Octobre 1 Jeune 4° série ",
+      "date_start": "2026-10-20",
+      "date_end": "2026-10-23",
+      "location": {
+        "club": "STADE FRANCAIS",
+        "city": "MARNES LA COQUETTE"
+      },
+      "distance": "2,2 km",
+      "first_seen": "2026-10-04T09:56:47+02:00"
+    },
+    {
+      "id": "MOJA_306206",
+      "name": "TMC Messieurs 30 à 15/4 - En matinée 8h30 à 14h",
+      "date_start": "2026-10-20",
+      "date_end": "2026-10-20",
+      "location": {
+        "club": "ARSENAL CHATILLON (TC)",
+        "city": "CHATILLON"
+      },
+      "distance": "8,2 km",
+      "first_seen": "2026-10-04T09:56:47+02:00"
+    },
+    {
+      "id": "MOJA_306207",
+      "name": "TMC Messieurs 15/3 à 15/1 -Après midi de 14h à 20h",
+      "date_start": "2026-10-20",
+      "date_end": "2026-10-20",
+      "location": {
+        "club": "ARSENAL CHATILLON (TC)",
+        "city": "CHATILLON"
+      },
+      "distance": "8,2 km",
+      "first_seen": "2026-10-04T09:56:47+02:00"
+    },
+    {
+      "id": "MOJA_307135",
+      "name": "TMC jeunes de la Toussaint NC - 30/3",
+      "date_start": "2026-10-20",
+      "date_end": "2026-10-23",
+      "location": {
+        "club": "C.T. CHAVENAY",
+        "city": "CHAVENAY"
+      },
+      "distance": "16,6 km",
+      "first_seen": "2026-10-04T09:56:47+02:00"
+    },
+    {
+      "id": "MOJA_308003",
+      "name": "TMC 7/10 ANS VERT MIXTE",
+      "date_start": "2026-10-20",
+      "date_end": "2026-10-20",
+      "location": {
+        "club": "LE PETIT SMASH",
+        "city": "PUTEAUX"
+      },
+      "distance": "6,1 km",
+      "first_seen": "2026-10-04T09:56:47+02:00"
+    },
+    {
+      "id": "MOJA_308136",
+      "name": "UMT Stade Français Octobre 1 TMC ORANGE ",
+      "date_start": "2026-10-20",
+      "date_end": "2026-10-20",
+      "location": {
+        "club": "STADE FRANCAIS",
+        "city": "MARNES LA COQUETTE"
+      },
+      "distance": "2,2 km",
+      "first_seen": "2026-10-04T09:56:47+02:00"
+    },
+    {
+      "id": "MOJA_308146",
+      "name": "UMT Stade Français Octobre 1 VERT ",
+      "date_start": "2026-10-20",
+      "date_end": "2026-10-22",
+      "location": {
+        "club": "STADE FRANCAIS",
+        "city": "MARNES LA COQUETTE"
+      },
+      "distance": "2,2 km",
+      "first_seen": "2026-10-04T09:56:47+02:00"
+    },
+    {
+      "id": "MOJA_311096",
+      "name": "Tournoi jeune du Tir",
+      "date_start": "2026-10-20",
+      "date_end": "2026-10-24",
+      "location": {
+        "club": "AS CERCLE DU BOIS DE BOULOGNE",
+        "city": "PARIS 16"
+      },
+      "distance": "4,4 km",
+      "first_seen": "2026-10-04T09:56:47+02:00"
+    },
+    {
+      "id": "MOJA_311098",
+      "name": "Tournoi jeune du tir ",
+      "date_start": "2026-10-20",
+      "date_end": "2026-10-24",
+      "location": {
+        "club": "AS CERCLE DU BOIS DE BOULOGNE",
+        "city": "PARIS 16"
+      },
+      "distance": "4,4 km",
+      "first_seen": "2026-10-04T09:56:47+02:00"
+    },
+    {
+      "id": "MOJA_311101",
+      "name": "Tournoi vert 7/10 ans",
+      "date_start": "2026-10-20",
+      "date_end": "2026-10-20",
+      "location": {
+        "club": "AS CERCLE DU BOIS DE BOULOGNE",
+        "city": "PARIS 16"
+      },
+      "distance": "4,4 km",
+      "first_seen": "2026-10-04T09:56:47+02:00"
+    },
+    {
+      "id": "MOJA_311204",
+      "name": "orange 20/10",
+      "date_start": "2026-10-20",
+      "date_end": "2026-10-20",
+      "location": {
+        "club": "T.C. CONFLANS STE HONORINE",
+        "city": "CONFLANS STE HONORINE"
+      },
+      "distance": "17,8 km",
+      "first_seen": "2026-10-04T09:56:47+02:00"
+    },
+    {
+      "id": "MOJA_222462",
+      "name": "TMC 7-10 ANS VERT MIXTE DES HEROS",
+      "date_start": "2026-10-21",
+      "date_end": "2026-10-21",
+      "location": {
+        "club": "ELAN CHEVILLY LARUE",
+        "city": "CHEVILLY LARUE"
+      },
+      "distance": "13,5 km",
+      "first_seen": "2026-10-04T09:56:47+02:00"
+    },
+    {
+      "id": "MOJA_288844",
+      "name": "TMC MORANGIS 11/14 ans Garçons 40 à 30/3",
+      "date_start": "2026-10-21",
+      "date_end": "2026-10-21",
+      "location": {
+        "club": "T.M. MORANGIS",
+        "city": "MORANGIS"
+      },
+      "distance": "18,6 km",
+      "first_seen": "2026-10-04T09:56:47+02:00"
+    },
+    {
+      "id": "MOJA_292952",
+      "name": "Tournoi 4ème série Herblay LA RESIDENCE",
+      "date_start": "2026-10-21",
+      "date_end": "2026-11-01",
+      "location": {
+        "club": "HERBLAY (AST)",
+        "city": "HERBLAY"
+      },
+      "distance": "17,6 km",
+      "first_seen": "2026-10-04T09:56:47+02:00"
+    },
+    {
+      "id": "MOJA_299740",
+      "name": "Tournoi Jeunes de la Toussaint",
+      "date_start": "2026-10-21",
+      "date_end": "2026-11-01",
+      "location": {
+        "club": "MARGENCY (TC)",
+        "city": "MARGENCY"
+      },
+      "distance": "17,6 km",
+      "first_seen": "2026-10-04T09:56:47+02:00"
+    },
+    {
+      "id": "MOJA_300216",
+      "name": "Open galaxie vert de Courbevoie",
+      "date_start": "2026-10-21",
+      "date_end": "2026-10-23",
+      "location": {
+        "club": "COURBEVOIE SPORT TENNIS",
+        "city": "COURBEVOIE"
+      },
+      "distance": "6,6 km",
+      "first_seen": "2026-10-04T09:56:47+02:00"
+    },
+    {
+      "id": "MOJA_303186",
+      "name": "OPEN TCP 8/10 ANS VERT",
+      "date_start": "2026-10-21",
+      "date_end": "2026-10-24",
+      "location": {
+        "club": "TENNIS CLUB DE PARIS",
+        "city": "PARIS 16"
+      },
+      "distance": "3,8 km",
+      "first_seen": "2026-10-04T09:56:47+02:00"
+    },
+    {
+      "id": "MOJA_304446",
+      "name": "TMC ESN en journée",
+      "date_start": "2026-10-21",
+      "date_end": "2026-10-22",
+      "location": {
+        "club": "NANTERRE (ES)",
+        "city": "Nanterre"
+      },
+      "distance": "3,2 km",
+      "first_seen": "2026-10-04T09:56:47+02:00"
+    },
+    {
+      "id": "MOJA_306175",
+      "name": "UMT Stade Français Octobre 1 Jeune Open ",
+      "date_start": "2026-10-21",
+      "date_end": "2026-10-25",
+      "location": {
+        "club": "STADE FRANCAIS",
+        "city": "MARNES LA COQUETTE"
+      },
+      "distance": "2,2 km",
+      "first_seen": "2026-10-04T09:56:47+02:00"
+    },
+    {
+      "id": "MOJA_306209",
+      "name": "TMC Dames de NC à 30/3 - En matinée de 8h30 à 19h",
+      "date_start": "2026-10-21",
+      "date_end": "2026-10-21",
+      "location": {
+        "club": "ARSENAL CHATILLON (TC)",
+        "city": "CHATILLON"
+      },
+      "distance": "8,2 km",
+      "first_seen": "2026-10-04T09:56:47+02:00"
+    },
+    {
+      "id": "MOJA_306210",
+      "name": "TMC Dames de 15/5 à 15/2 - Après midi de 14h à 19h",
+      "date_start": "2026-10-21",
+      "date_end": "2026-10-21",
+      "location": {
+        "club": "ARSENAL CHATILLON (TC)",
+        "city": "CHATILLON"
+      },
+      "distance": "8,2 km",
+      "first_seen": "2026-10-04T09:56:47+02:00"
+    },
+    {
+      "id": "MOJA_307819",
+      "name": "TMC 11/12 ans mixte",
+      "date_start": "2026-10-21",
+      "date_end": "2026-10-23",
+      "location": {
+        "club": "GARENNOIS (TC)",
+        "city": "NANTERRE"
+      },
+      "distance": "5,9 km",
+      "first_seen": "2026-10-04T09:56:47+02:00"
+    },
+    {
+      "id": "MOJA_307880",
+      "name": "TMC JEUNES 30/4-15/5",
+      "date_start": "2026-10-21",
+      "date_end": "2026-10-23",
+      "location": {
+        "club": "T.C. LE CHESNAY TRIANON",
+        "city": "LE CHESNAY"
+      },
+      "distance": "7,5 km",
+      "first_seen": "2026-10-04T09:56:47+02:00"
+    },
+    {
+      "id": "MOJA_308004",
+      "name": "TMC 11/12 ANS",
+      "date_start": "2026-10-21",
+      "date_end": "2026-10-21",
+      "location": {
+        "club": "LE PETIT SMASH",
+        "city": "PUTEAUX"
+      },
+      "distance": "6,1 km",
+      "first_seen": "2026-10-04T09:56:47+02:00"
+    },
+    {
+      "id": "MOJA_309842",
+      "name": "TMC Galaxie de la toussaint du CAM - Tournoi jeunes",
+      "date_start": "2026-10-21",
+      "date_end": "2026-10-21",
+      "location": {
+        "club": "MONTROUGE (CA)",
+        "city": "MONTROUGE"
+      },
+      "distance": "9,2 km",
+      "first_seen": "2026-10-04T09:56:47+02:00"
+    },
+    {
+      "id": "MOJA_309849",
+      "name": "TMC vert du CAM de la Toussaint - Tournoi jeunes ",
+      "date_start": "2026-10-21",
+      "date_end": "2026-10-21",
+      "location": {
+        "club": "MONTROUGE (CA)",
+        "city": "MONTROUGE"
+      },
+      "distance": "9,2 km",
+      "first_seen": "2026-10-04T09:56:47+02:00"
+    },
+    {
+      "id": "MOJA_311217",
+      "name": "TMC 11/12 30/4 30/1 G",
+      "date_start": "2026-10-21",
+      "date_end": "2026-10-22",
+      "location": {
+        "club": "T.C. CONFLANS STE HONORINE",
+        "city": "CONFLANS STE HONORINE"
+      },
+      "distance": "17,8 km",
+      "first_seen": "2026-10-04T09:56:47+02:00"
+    },
+    {
+      "id": "MOJA_311224",
+      "name": "TMC Hommes 30/4 30/1",
+      "date_start": "2026-10-21",
+      "date_end": "2026-10-22",
+      "location": {
+        "club": "T.C. CONFLANS STE HONORINE",
+        "city": "CONFLANS STE HONORINE"
+      },
+      "distance": "19,3 km",
+      "first_seen": "2026-10-04T09:56:47+02:00"
+    },
+    {
+      "id": "MOJA_311388",
+      "name": "Tournoi Orange Paris Jean Bouin",
+      "date_start": "2026-10-21",
+      "date_end": "2026-10-21",
+      "location": {
+        "club": "PARIS JEAN BOUIN",
+        "city": "PARIS 16"
+      },
+      "distance": "3,3 km",
+      "first_seen": "2026-10-04T09:56:47+02:00"
+    },
+    {
+      "id": "MOJA_213477",
+      "name": "Galaxie Vert TC Voisins",
+      "date_start": "2026-10-22",
+      "date_end": "2026-10-23",
+      "location": {
+        "club": "T.C. VOISINS LE BRETONNEUX",
+        "city": "VOISINS LE BRETONNEUX"
+      },
+      "distance": "15,8 km",
+      "first_seen": "2026-10-04T09:56:47+02:00"
+    },
+    {
+      "id": "MOJA_222463",
+      "name": "TMC 7-10 ANS VERT MIXTE DES HEROS",
+      "date_start": "2026-10-22",
+      "date_end": "2026-10-22",
+      "location": {
+        "club": "ELAN CHEVILLY LARUE",
+        "city": "CHEVILLY LARUE"
+      },
+      "distance": "13,5 km",
+      "first_seen": "2026-10-04T09:56:47+02:00"
+    },
+    {
+      "id": "MOJA_288847",
+      "name": "TMC MORANGIS 15/18 ans garçons 40 à 30/2",
+      "date_start": "2026-10-22",
+      "date_end": "2026-10-22",
+      "location": {
+        "club": "T.M. MORANGIS",
+        "city": "MORANGIS"
+      },
+      "distance": "18,6 km",
+      "first_seen": "2026-10-04T09:56:47+02:00"
+    },
+    {
+      "id": "MOJA_290876",
+      "name": "TMC JEUNES NC - 30/1",
+      "date_start": "2026-10-22",
+      "date_end": "2026-10-22",
+      "location": {
+        "club": "T.C. VELIZY VILLACOUBLAY",
+        "city": "VELIZY VILLACOUBLAY"
+      },
+      "distance": "8,2 km",
+      "first_seen": "2026-10-04T09:56:47+02:00"
+    },
+    {
+      "id": "MOJA_300487",
+      "name": "TMC AAESB Messieurs 3S JO",
+      "date_start": "2026-10-22",
+      "date_end": "2026-10-23",
+      "location": {
+        "club": "SAINT BRICE (AAE)",
+        "city": "ST BRICE SOUS FORET"
+      },
+      "distance": "19,6 km",
+      "first_seen": "2026-10-04T09:56:47+02:00"
+    },
+    {
+      "id": "MOJA_300775",
+      "name": "TMC Filles",
+      "date_start": "2026-10-22",
+      "date_end": "2026-10-23",
+      "location": {
+        "club": "A.A.S. FRESNES",
+        "city": "FRESNES"
+      },
+      "distance": "13,5 km",
+      "first_seen": "2026-10-04T09:56:47+02:00"
+    },
+    {
+      "id": "MOJA_301300",
+      "name": "Galaxie Orange AT Neuilly",
+      "date_start": "2026-10-22",
+      "date_end": "2026-10-23",
+      "location": {
+        "club": "NEUILLY (AT)",
+        "city": "NEUILLY SUR SEINE"
+      },
+      "distance": "5,7 km",
+      "first_seen": "2026-10-04T09:56:47+02:00"
+    },
+    {
+      "id": "MOJA_303191",
+      "name": "OPEN TCP 8 ANS ORANGE",
+      "date_start": "2026-10-22",
+      "date_end": "2026-10-24",
+      "location": {
+        "club": "TENNIS CLUB DE PARIS",
+        "city": "PARIS 16"
+      },
+      "distance": "3,8 km",
+      "first_seen": "2026-10-04T09:56:47+02:00"
+    },
+    {
+      "id": "MOJA_304388",
+      "name": "TMC SM 30/3 à 30/1 (3 matchs) oct2026",
+      "date_start": "2026-10-22",
+      "date_end": "2026-10-24",
+      "location": {
+        "club": "T.C.M. BOIS D'ARCY",
+        "city": "BOIS D ARCY"
+      },
+      "distance": "14,4 km",
+      "first_seen": "2026-10-04T09:56:47+02:00"
+    },
+    {
+      "id": "MOJA_305200",
+      "name": "Orange Clamart",
+      "date_start": "2026-10-22",
+      "date_end": "2026-10-23",
+      "location": {
+        "club": "CLAMART (TC)",
+        "city": "CLAMART"
+      },
+      "distance": "6,7 km",
+      "first_seen": "2026-10-04T09:56:47+02:00"
+    },
+    {
+      "id": "MOJA_308008",
+      "name": "TMC HOMMES SOIREE",
+      "date_start": "2026-10-22",
+      "date_end": "2026-10-22",
+      "location": {
+        "club": "LE PETIT SMASH",
+        "city": "PARIS 16"
+      },
+      "distance": "5,4 km",
+      "first_seen": "2026-10-04T09:56:47+02:00"
+    },
+    {
+      "id": "MOJA_311103",
+      "name": "Tournoi vert 7/10 ans",
+      "date_start": "2026-10-22",
+      "date_end": "2026-10-22",
+      "location": {
+        "club": "AS CERCLE DU BOIS DE BOULOGNE",
+        "city": "PARIS 16"
+      },
+      "distance": "4,4 km",
+      "first_seen": "2026-10-04T09:56:47+02:00"
+    },
+    {
+      "id": "MOJA_311390",
+      "name": "Tournoi vert Paris Jean Bouin",
+      "date_start": "2026-10-22",
+      "date_end": "2026-10-22",
+      "location": {
+        "club": "PARIS JEAN BOUIN",
+        "city": "PARIS 16"
+      },
+      "distance": "3,3 km",
+      "first_seen": "2026-10-04T09:56:47+02:00"
+    },
+    {
+      "id": "MOJA_285363",
+      "name": "TMC 11/12 ANS MIXTE DES HEROS (BALLE JAUNE)",
+      "date_start": "2026-10-23",
+      "date_end": "2026-10-23",
+      "location": {
+        "club": "ELAN CHEVILLY LARUE",
+        "city": "CHEVILLY LARUE"
+      },
+      "distance": "13,5 km",
+      "first_seen": "2026-10-04T09:56:47+02:00"
+    },
+    {
+      "id": "MOJA_288862",
+      "name": "TMC Morangis JOURNEE Messieurs 30/3 à 30",
+      "date_start": "2026-10-23",
+      "date_end": "2026-10-23",
+      "location": {
+        "club": "T.M. MORANGIS",
+        "city": "MORANGIS"
+      },
+      "distance": "18,6 km",
+      "first_seen": "2026-10-04T09:56:47+02:00"
+    },
+    {
+      "id": "MOJA_301045",
+      "name": "TMC 15/16 ANS FILLES ET GARCONS ES STAINS ",
+      "date_start": "2026-10-23",
+      "date_end": "2026-10-25",
+      "location": {
+        "club": "ESPERANCE SPORTIVE STAINS",
+        "city": "STAINS"
+      },
+      "distance": "17,9 km",
+      "first_seen": "2026-10-04T09:56:47+02:00"
+    },
+    {
+      "id": "MOJA_308006",
+      "name": "TMC HOMMES SOIREE",
+      "date_start": "2026-10-23",
+      "date_end": "2026-10-23",
+      "location": {
+        "club": "LE PETIT SMASH",
+        "city": "PARIS 16"
+      },
+      "distance": "5,4 km",
+      "first_seen": "2026-10-04T09:56:47+02:00"
+    },
+    {
+      "id": "MOJA_308527",
+      "name": "TMC 7/10 ANS VERT FILLES NC A 30/4 ",
+      "date_start": "2026-10-23",
+      "date_end": "2026-10-23",
+      "location": {
+        "club": "CD YVELINES",
+        "city": "FEUCHEROLLES"
+      },
+      "distance": "17,2 km",
+      "first_seen": "2026-10-04T09:56:47+02:00"
+    },
+    {
+      "id": "MOJA_308540",
+      "name": "TMC 7/10 ANS VERT GARCONS 30/3 A 30/1",
+      "date_start": "2026-10-23",
+      "date_end": "2026-10-23",
+      "location": {
+        "club": "CD YVELINES",
+        "city": "FEUCHEROLLES"
+      },
+      "distance": "17,2 km",
+      "first_seen": "2026-10-04T09:56:47+02:00"
+    },
+    {
+      "id": "MOJA_310080",
+      "name": "TMC femmes 30/5 à 30/1 - ASVLB",
+      "date_start": "2026-10-23",
+      "date_end": "2026-10-25",
+      "location": {
+        "club": "A.S. VILLIERS LE BACLE",
+        "city": "VILLIERS LE BACLE"
+      },
+      "distance": "15,1 km",
+      "first_seen": "2026-10-04T09:56:47+02:00"
+    },
+    {
+      "id": "MOJA_311643",
+      "name": "TMC",
+      "date_start": "2026-10-23",
+      "date_end": "2026-10-24",
+      "location": {
+        "club": "CLAMART (TC)",
+        "city": "CLAMART"
+      },
+      "distance": "6,7 km",
+      "first_seen": "2026-10-04T09:56:47+02:00"
+    },
+    {
+      "id": "MOJA_311647",
+      "name": "TMC",
+      "date_start": "2026-10-23",
+      "date_end": "2026-10-24",
+      "location": {
+        "club": "CLAMART (TC)",
+        "city": "CLAMART"
+      },
+      "distance": "6,7 km",
+      "first_seen": "2026-10-04T09:56:47+02:00"
+    },
+    {
+      "id": "MOJA_213065",
+      "name": "grand tournoi d'automne",
+      "date_start": "2026-10-24",
+      "date_end": "2026-11-29",
+      "location": {
+        "club": "A.S. MINORANGE",
+        "city": "GUYANCOURT"
+      },
+      "distance": "14,1 km",
+      "first_seen": "2026-10-04T09:56:47+02:00"
+    },
+    {
+      "id": "MOJA_213176",
+      "name": "7/10 ans Orange F/G - TC Croissy sur Seine",
+      "date_start": "2026-10-24",
+      "date_end": "2026-10-25",
+      "location": {
+        "club": "T.C. CROISSY SUR SEINE",
+        "city": "CROISSY SUR SEINE"
+      },
+      "distance": "7,1 km",
+      "first_seen": "2026-10-04T09:56:47+02:00"
+    },
+    {
+      "id": "MOJA_213256",
+      "name": "Tournoi 11/14 ans ",
+      "date_start": "2026-10-24",
+      "date_end": "2026-10-31",
+      "location": {
+        "club": "BOUGIVAL TENNIS CLUB EN SEINE",
+        "city": "BOUGIVAL"
+      },
+      "distance": "5,2 km",
+      "first_seen": "2026-10-04T09:56:47+02:00"
+    },
+    {
+      "id": "MOJA_213692",
+      "name": "Tournoi Jeunes - Journée",
+      "date_start": "2026-10-24",
+      "date_end": "2026-11-01",
+      "location": {
+        "club": "T.C. GUYANCOURT",
+        "city": "GUYANCOURT"
+      },
+      "distance": "12,3 km",
+      "first_seen": "2026-10-04T09:56:47+02:00"
+    },
+    {
+      "id": "MOJA_213762",
+      "name": "Tournoi Orange Filles et Garçons",
+      "date_start": "2026-10-24",
+      "date_end": "2026-10-24",
+      "location": {
+        "club": "T.C. IGNYMONTAIN",
+        "city": "MONTIGNY LE BRETONNEUX"
+      },
+      "distance": "15,2 km",
+      "first_seen": "2026-10-04T09:56:47+02:00"
+    },
+    {
+      "id": "MOJA_213769",
+      "name": "AS Pyramides - Tournoi Open Jeunes",
+      "date_start": "2026-10-24",
+      "date_end": "2026-11-01",
+      "location": {
+        "club": "A.S. LES PYRAMIDES",
+        "city": "LE PORT MARLY"
+      },
+      "distance": "8,5 km",
+      "first_seen": "2026-10-04T09:56:47+02:00"
+    },
+    {
+      "id": "MOJA_213800",
+      "name": "Open Jeune TPC",
+      "date_start": "2026-10-24",
+      "date_end": "2026-10-31",
+      "location": {
+        "club": "T.C. CONFLANS STE HONORINE",
+        "city": "CONFLANS STE HONORINE"
+      },
+      "distance": "17,8 km",
+      "first_seen": "2026-10-04T09:56:47+02:00"
+    },
+    {
+      "id": "MOJA_220069",
+      "name": "TMC MESSIEURS SAMEDI 24/10/26 - LASA SPORT 2027",
+      "date_start": "2026-10-24",
+      "date_end": "2026-10-24",
+      "location": {
+        "club": "LASA SPORT ORGANISATION",
+        "city": "MONTREUIL"
+      },
+      "distance": "18,6 km",
+      "first_seen": "2026-10-04T09:56:47+02:00"
+    },
+    {
+      "id": "MOJA_288833",
+      "name": "TMC  Messieurs  8:00 - 12:00  de  NC...30/4",
+      "date_start": "2026-10-24",
+      "date_end": "2026-10-24",
+      "location": {
+        "club": "LA CHATAIGNERAIE (TC)",
+        "city": "RUEIL MALMAISON"
+      },
+      "distance": "2,9 km",
+      "first_seen": "2026-10-04T09:56:47+02:00"
+    },
+    {
+      "id": "MOJA_288837",
+      "name": "TMC  Dames  10:00 - 14:00  de  NC...30/4",
+      "date_start": "2026-10-24",
+      "date_end": "2026-10-24",
+      "location": {
+        "club": "LA CHATAIGNERAIE (TC)",
+        "city": "RUEIL MALMAISON"
+      },
+      "distance": "2,9 km",
+      "first_seen": "2026-10-04T09:56:47+02:00"
+    },
+    {
+      "id": "MOJA_288843",
+      "name": "TMC  Messieurs  14:00 - 18:00  de  NC...30/4",
+      "date_start": "2026-10-24",
+      "date_end": "2026-10-24",
+      "location": {
+        "club": "LA CHATAIGNERAIE (TC)",
+        "city": "RUEIL MALMAISON"
+      },
+      "distance": "2,9 km",
+      "first_seen": "2026-10-04T09:56:47+02:00"
+    },
+    {
+      "id": "MOJA_288845",
+      "name": "TMC  Dames  16:00 - 20:00  de  NC...30/4",
+      "date_start": "2026-10-24",
+      "date_end": "2026-10-24",
+      "location": {
+        "club": "LA CHATAIGNERAIE (TC)",
+        "city": "RUEIL MALMAISON"
+      },
+      "distance": "2,9 km",
+      "first_seen": "2026-10-04T09:56:47+02:00"
+    },
+    {
+      "id": "MOJA_290865",
+      "name": "TMC 4ème série",
+      "date_start": "2026-10-24",
+      "date_end": "2026-10-24",
+      "location": {
+        "club": "T.C. VELIZY VILLACOUBLAY",
+        "city": "VELIZY VILLACOUBLAY"
+      },
+      "distance": "8,2 km",
+      "first_seen": "2026-10-04T09:56:47+02:00"
+    },
+    {
+      "id": "MOJA_291355",
+      "name": "Tournoi Jeunes de la Toussaint de l'US Créteil",
+      "date_start": "2026-10-24",
+      "date_end": "2026-11-01",
+      "location": {
+        "club": "US CRETEIL",
+        "city": "CRETEIL"
+      },
+      "distance": "18,2 km",
+      "first_seen": "2026-10-04T09:56:47+02:00"
+    },
+    {
+      "id": "MOJA_292945",
+      "name": "Tournoi 3ème série Herblay LA RESIDENCE",
+      "date_start": "2026-10-24",
+      "date_end": "2026-11-01",
+      "location": {
+        "club": "HERBLAY (AST)",
+        "city": "HERBLAY"
+      },
+      "distance": "17,6 km",
+      "first_seen": "2026-10-04T09:56:47+02:00"
+    },
+    {
+      "id": "MOJA_300498",
+      "name": "TCIM - Tournoi 2nd série - Toussaint",
+      "date_start": "2026-10-24",
+      "date_end": "2026-11-01",
+      "location": {
+        "club": "ISSY-LES-MOULINEAUX (TC)",
+        "city": "ISSY LES MOULINEAUX"
+      },
+      "distance": "5,0 km",
+      "first_seen": "2026-10-04T09:56:47+02:00"
+    },
+    {
+      "id": "MOJA_300499",
+      "name": "TCIM - Tournoi 30 à 15 - Toussaint",
+      "date_start": "2026-10-24",
+      "date_end": "2026-11-01",
+      "location": {
+        "club": "ISSY-LES-MOULINEAUX (TC)",
+        "city": "ISSY LES MOULINEAUX"
+      },
+      "distance": "5,0 km",
+      "first_seen": "2026-10-04T09:56:47+02:00"
+    },
+    {
+      "id": "MOJA_300500",
+      "name": "TCIM - Tournois 13/14 ans - Toussaint",
+      "date_start": "2026-10-24",
+      "date_end": "2026-11-01",
+      "location": {
+        "club": "ISSY-LES-MOULINEAUX (TC)",
+        "city": "ISSY LES MOULINEAUX"
+      },
+      "distance": "5,0 km",
+      "first_seen": "2026-10-04T09:56:47+02:00"
+    },
+    {
+      "id": "MOJA_300776",
+      "name": "TMC U10",
+      "date_start": "2026-10-24",
+      "date_end": "2026-10-24",
+      "location": {
+        "club": "A.A.S. FRESNES",
+        "city": "FRESNES"
+      },
+      "distance": "13,5 km",
+      "first_seen": "2026-10-04T09:56:47+02:00"
+    },
+    {
+      "id": "MOJA_302638",
+      "name": "TMC 11/12 garçons OCTOBRE",
+      "date_start": "2026-10-24",
+      "date_end": "2026-10-24",
+      "location": {
+        "club": "TC PANTIN",
+        "city": "PANTIN"
+      },
+      "distance": "15,6 km",
+      "first_seen": "2026-10-04T09:56:47+02:00"
+    },
+    {
+      "id": "MOJA_304537",
+      "name": "TMC SD 30/3 à 30/1 (3 matchs) oct2026",
+      "date_start": "2026-10-24",
+      "date_end": "2026-10-25",
+      "location": {
+        "club": "T.C.M. BOIS D'ARCY",
+        "city": "BOIS D ARCY"
+      },
+      "distance": "14,4 km",
+      "first_seen": "2026-10-04T09:56:47+02:00"
+    },
+    {
+      "id": "MOJA_304538",
+      "name": "TMC SM 30/1à15/5 (3matchs)oct2026",
+      "date_start": "2026-10-24",
+      "date_end": "2026-10-25",
+      "location": {
+        "club": "T.C.M. BOIS D'ARCY",
+        "city": "BOIS D ARCY"
+      },
+      "distance": "14,4 km",
+      "first_seen": "2026-10-04T09:56:47+02:00"
+    },
+    {
+      "id": "MOJA_304574",
+      "name": "TMC 11/12 ans Weekend ",
+      "date_start": "2026-10-24",
+      "date_end": "2026-10-25",
+      "location": {
+        "club": "MAISONS ALFORT TC",
+        "city": "MAISONS ALFORT"
+      },
+      "distance": "16,4 km",
+      "first_seen": "2026-10-04T09:56:47+02:00"
+    },
+    {
+      "id": "MOJA_307578",
+      "name": "UMT Stade Français Octobre 1 TMC limité 15/3",
+      "date_start": "2026-10-24",
+      "date_end": "2026-10-25",
+      "location": {
+        "club": "STADE FRANCAIS",
+        "city": "MARNES LA COQUETTE"
+      },
+      "distance": "2,2 km",
+      "first_seen": "2026-10-04T09:56:47+02:00"
+    },
+    {
+      "id": "MOJA_307579",
+      "name": "UMT Stade Français Octobre 1 TMC limite 4/6",
+      "date_start": "2026-10-24",
+      "date_end": "2026-10-25",
+      "location": {
+        "club": "STADE FRANCAIS",
+        "city": "MARNES LA COQUETTE"
+      },
+      "distance": "2,2 km",
+      "first_seen": "2026-10-04T09:56:47+02:00"
+    },
+    {
+      "id": "MOJA_307589",
+      "name": "UMT Stade Français Octobre 1 TMC Double 4° serie",
+      "date_start": "2026-10-24",
+      "date_end": "2026-10-24",
+      "location": {
+        "club": "STADE FRANCAIS",
+        "city": "MARNES LA COQUETTE"
+      },
+      "distance": "2,2 km",
+      "first_seen": "2026-10-04T09:56:47+02:00"
+    },
+    {
+      "id": "MOJA_308011",
+      "name": "TMC HOMMES JOURNEE",
+      "date_start": "2026-10-24",
+      "date_end": "2026-10-24",
+      "location": {
+        "club": "LE PETIT SMASH",
+        "city": "PARIS 16"
+      },
+      "distance": "5,4 km",
+      "first_seen": "2026-10-04T09:56:47+02:00"
+    },
+    {
+      "id": "MOJA_308012",
+      "name": "TMC HOMMES  JOURNEE",
+      "date_start": "2026-10-24",
+      "date_end": "2026-10-24",
+      "location": {
+        "club": "LE PETIT SMASH",
+        "city": "PARIS 16"
+      },
+      "distance": "5,4 km",
+      "first_seen": "2026-10-04T09:56:47+02:00"
+    },
+    {
+      "id": "MOJA_308522",
+      "name": "Cachan Octobre Rose",
+      "date_start": "2026-10-24",
+      "date_end": "2026-10-25",
+      "location": {
+        "club": "SPORTING TENNIS CACHAN",
+        "city": "CACHAN"
+      },
+      "distance": "11,1 km",
+      "first_seen": "2026-10-04T09:56:47+02:00"
+    },
+    {
+      "id": "MOJA_311041",
+      "name": "TMC HOMMES 30/1-15/4",
+      "date_start": "2026-10-24",
+      "date_end": "2026-10-25",
+      "location": {
+        "club": "SAINT DENIS UNION SPORT",
+        "city": "ST DENIS"
+      },
+      "distance": "14,8 km",
+      "first_seen": "2026-10-04T09:56:47+02:00"
+    },
+    {
+      "id": "MOJA_311048",
+      "name": "TMC FEMMES NC-30/2",
+      "date_start": "2026-10-24",
+      "date_end": "2026-10-25",
+      "location": {
+        "club": "SAINT DENIS UNION SPORT",
+        "city": "ST DENIS"
+      },
+      "distance": "14,8 km",
+      "first_seen": "2026-10-04T09:56:47+02:00"
+    },
+    {
+      "id": "MOJA_220070",
+      "name": "TMC DAMES DIMANCHE 25/10/26 - LASA SPORT 2027",
+      "date_start": "2026-10-25",
+      "date_end": "2026-10-25",
+      "location": {
+        "club": "LASA SPORT ORGANISATION",
+        "city": "MONTREUIL"
+      },
+      "distance": "18,6 km",
+      "first_seen": "2026-10-04T09:56:47+02:00"
+    },
+    {
+      "id": "MOJA_287903",
+      "name": "TMC Dames NC à 30/4 AOBUC Tennis",
+      "date_start": "2026-10-25",
+      "date_end": "2026-10-25",
+      "location": {
+        "club": "AOBUC TENNIS",
+        "city": "BUC"
+      },
+      "distance": "11,7 km",
+      "first_seen": "2026-10-04T09:56:47+02:00"
+    },
+    {
+      "id": "MOJA_288849",
+      "name": "TMC  Messieurs  10:00 - 14:00  de  NC...30/4",
+      "date_start": "2026-10-25",
+      "date_end": "2026-10-25",
+      "location": {
+        "club": "LA CHATAIGNERAIE (TC)",
+        "city": "RUEIL MALMAISON"
+      },
+      "distance": "2,9 km",
+      "first_seen": "2026-10-04T09:56:47+02:00"
+    },
+    {
+      "id": "MOJA_288851",
+      "name": "TMC  Dames  8:00 - 12:00  de  NC...30/4",
+      "date_start": "2026-10-25",
+      "date_end": "2026-10-25",
+      "location": {
+        "club": "LA CHATAIGNERAIE (TC)",
+        "city": "RUEIL MALMAISON"
+      },
+      "distance": "2,9 km",
+      "first_seen": "2026-10-04T09:56:47+02:00"
+    },
+    {
+      "id": "MOJA_288854",
+      "name": "TMC  Messieurs  10:00 - 14:00  de  30/3...30/2",
+      "date_start": "2026-10-25",
+      "date_end": "2026-10-25",
+      "location": {
+        "club": "LA CHATAIGNERAIE (TC)",
+        "city": "RUEIL MALMAISON"
+      },
+      "distance": "2,9 km",
+      "first_seen": "2026-10-04T09:56:47+02:00"
+    },
+    {
+      "id": "MOJA_288860",
+      "name": "TMC  Messieurs  16:00 - 20:00  de  30/2...30/1",
+      "date_start": "2026-10-25",
+      "date_end": "2026-10-25",
+      "location": {
+        "club": "LA CHATAIGNERAIE (TC)",
+        "city": "RUEIL MALMAISON"
+      },
+      "distance": "2,9 km",
+      "first_seen": "2026-10-04T09:56:47+02:00"
+    },
+    {
+      "id": "MOJA_290864",
+      "name": "TMC 4ème série",
+      "date_start": "2026-10-25",
+      "date_end": "2026-10-25",
+      "location": {
+        "club": "T.C. VELIZY VILLACOUBLAY",
+        "city": "VELIZY VILLACOUBLAY"
+      },
+      "distance": "8,2 km",
+      "first_seen": "2026-10-04T09:56:47+02:00"
+    },
+    {
+      "id": "MOJA_300777",
+      "name": "TMC U10",
+      "date_start": "2026-10-25",
+      "date_end": "2026-10-25",
+      "location": {
+        "club": "A.A.S. FRESNES",
+        "city": "FRESNES"
+      },
+      "distance": "13,5 km",
+      "first_seen": "2026-10-04T09:56:47+02:00"
+    },
+    {
+      "id": "MOJA_307586",
+      "name": "UMT Stade Français Octobre 1 TMC & DOUBLE ",
+      "date_start": "2026-10-25",
+      "date_end": "2026-10-25",
+      "location": {
+        "club": "STADE FRANCAIS",
+        "city": "MARNES LA COQUETTE"
+      },
+      "distance": "2,2 km",
+      "first_seen": "2026-10-04T09:56:47+02:00"
+    },
+    {
+      "id": "MOJA_307907",
+      "name": "Tournoi orange ES STAINS TENNIS ",
+      "date_start": "2026-10-25",
+      "date_end": "2026-10-26",
+      "location": {
+        "club": "ESPERANCE SPORTIVE STAINS",
+        "city": "STAINS"
+      },
+      "distance": "17,9 km",
+      "first_seen": "2026-10-04T09:56:47+02:00"
+    },
+    {
+      "id": "MOJA_308139",
+      "name": "UMT Stade Français Octobre 1 TMC ORANGE 2",
+      "date_start": "2026-10-25",
+      "date_end": "2026-10-25",
+      "location": {
+        "club": "STADE FRANCAIS",
+        "city": "MARNES LA COQUETTE"
+      },
+      "distance": "2,2 km",
+      "first_seen": "2026-10-04T09:56:47+02:00"
+    },
+    {
+      "id": "MOJA_213255",
+      "name": "GALAXIE VERT GARCONS ET FILLES",
+      "date_start": "2026-10-26",
+      "date_end": "2026-10-26",
+      "location": {
+        "club": "BOUGIVAL TENNIS CLUB EN SEINE",
+        "city": "BOUGIVAL"
+      },
+      "distance": "5,2 km",
+      "first_seen": "2026-10-04T09:56:47+02:00"
+    },
+    {
+      "id": "MOJA_300779",
+      "name": "TMC Filles",
+      "date_start": "2026-10-26",
+      "date_end": "2026-10-27",
+      "location": {
+        "club": "A.A.S. FRESNES",
+        "city": "FRESNES"
+      },
+      "distance": "13,5 km",
+      "first_seen": "2026-10-04T09:56:47+02:00"
+    },
+    {
+      "id": "MOJA_304580",
+      "name": "TMC Adulte NC-30/4",
+      "date_start": "2026-10-26",
+      "date_end": "2026-10-27",
+      "location": {
+        "club": "MAISONS ALFORT TC",
+        "city": "MAISONS ALFORT"
+      },
+      "distance": "16,4 km",
+      "first_seen": "2026-10-04T09:56:47+02:00"
+    },
+    {
+      "id": "MOJA_306059",
+      "name": "TMC NC-30/4 FEMMES",
+      "date_start": "2026-10-26",
+      "date_end": "2026-10-28",
+      "location": {
+        "club": "MAISONS ALFORT TC",
+        "city": "MAISONS ALFORT"
+      },
+      "distance": "16,4 km",
+      "first_seen": "2026-10-04T09:56:47+02:00"
+    },
+    {
+      "id": "MOJA_306218",
+      "name": "TMC Orange - en matinée de 8h30 à 14h",
+      "date_start": "2026-10-26",
+      "date_end": "2026-10-26",
+      "location": {
+        "club": "ARSENAL CHATILLON (TC)",
+        "city": "CHATILLON"
+      },
+      "distance": "8,2 km",
+      "first_seen": "2026-10-04T09:56:47+02:00"
+    },
+    {
+      "id": "MOJA_306223",
+      "name": "TMC 11/12 mixtes - après midi de 14h à 19h30",
+      "date_start": "2026-10-26",
+      "date_end": "2026-10-26",
+      "location": {
+        "club": "ARSENAL CHATILLON (TC)",
+        "city": "CHATILLON"
+      },
+      "distance": "8,2 km",
+      "first_seen": "2026-10-04T09:56:47+02:00"
+    },
+    {
+      "id": "MOJA_306481",
+      "name": "Tournoi Toussaint TC Antony GPJeunes 92",
+      "date_start": "2026-10-26",
+      "date_end": "2026-10-30",
+      "location": {
+        "club": "ANTONY (TC)",
+        "city": "ANTONY"
+      },
+      "distance": "12,8 km",
+      "first_seen": "2026-10-04T09:56:47+02:00"
+    },
+    {
+      "id": "MOJA_307816",
+      "name": "TMC 30/1-15/3",
+      "date_start": "2026-10-26",
+      "date_end": "2026-10-29",
+      "location": {
+        "club": "BOUGIVAL TENNIS CLUB EN SEINE",
+        "city": "BOUGIVAL"
+      },
+      "distance": "5,2 km",
+      "first_seen": "2026-10-04T09:56:47+02:00"
+    },
+    {
+      "id": "MOJA_310312",
+      "name": "TMC 7/10 ANS VERT",
+      "date_start": "2026-10-26",
+      "date_end": "2026-10-26",
+      "location": {
+        "club": "LE PETIT SMASH",
+        "city": "PUTEAUX"
+      },
+      "distance": "6,1 km",
+      "first_seen": "2026-10-04T09:56:47+02:00"
+    },
+    {
+      "id": "MOJA_310313",
+      "name": "TMC 11/12 ANS",
+      "date_start": "2026-10-26",
+      "date_end": "2026-10-26",
+      "location": {
+        "club": "LE PETIT SMASH",
+        "city": "PUTEAUX"
+      },
+      "distance": "6,1 km",
+      "first_seen": "2026-10-04T09:56:47+02:00"
+    },
+    {
+      "id": "MOJA_311044",
+      "name": "TMC HOMMES 30/5-30/2",
+      "date_start": "2026-10-26",
+      "date_end": "2026-10-29",
+      "location": {
+        "club": "SAINT DENIS UNION SPORT",
+        "city": "ST DENIS"
+      },
+      "distance": "14,8 km",
+      "first_seen": "2026-10-04T09:56:47+02:00"
+    },
+    {
+      "id": "MOJA_219754",
+      "name": "TC CHATOU - TMC ORANGE - OCTOBRE",
+      "date_start": "2026-10-27",
+      "date_end": "2026-10-27",
+      "location": {
+        "club": "T.C. CHATOU",
+        "city": "CHATOU"
+      },
+      "distance": "6,8 km",
+      "first_seen": "2026-10-04T09:56:47+02:00"
+    },
+    {
+      "id": "MOJA_219756",
+      "name": "TC CHATOU - TMC VERT - OCTOBRE",
+      "date_start": "2026-10-27",
+      "date_end": "2026-10-27",
+      "location": {
+        "club": "T.C. CHATOU",
+        "city": "CHATOU"
+      },
+      "distance": "6,8 km",
+      "first_seen": "2026-10-04T09:56:47+02:00"
+    },
+    {
+      "id": "MOJA_306226",
+      "name": "TMC Vert mixtes - en matinée de 8h30 à 14h",
+      "date_start": "2026-10-27",
+      "date_end": "2026-10-27",
+      "location": {
+        "club": "ARSENAL CHATILLON (TC)",
+        "city": "CHATILLON"
+      },
+      "distance": "8,2 km",
+      "first_seen": "2026-10-04T09:56:47+02:00"
+    },
+    {
+      "id": "MOJA_306230",
+      "name": "TMC 11/12 ans mixtes - l'après midi de 14h à 19h30",
+      "date_start": "2026-10-27",
+      "date_end": "2026-10-27",
+      "location": {
+        "club": "ARSENAL CHATILLON (TC)",
+        "city": "CHATILLON"
+      },
+      "distance": "8,2 km",
+      "first_seen": "2026-10-04T09:56:47+02:00"
+    },
+    {
+      "id": "MOJA_310315",
+      "name": "TMC 13/14 ANS",
+      "date_start": "2026-10-27",
+      "date_end": "2026-10-27",
+      "location": {
+        "club": "LE PETIT SMASH",
+        "city": "PUTEAUX"
+      },
+      "distance": "6,1 km",
+      "first_seen": "2026-10-04T09:56:47+02:00"
+    },
+    {
+      "id": "MOJA_310316",
+      "name": "TMC 17/18 ANS",
+      "date_start": "2026-10-27",
+      "date_end": "2026-10-27",
+      "location": {
+        "club": "LE PETIT SMASH",
+        "city": "PUTEAUX"
+      },
+      "distance": "6,1 km",
+      "first_seen": "2026-10-04T09:56:47+02:00"
+    },
+    {
+      "id": "MOJA_219758",
+      "name": "TC CHATOU - ORANGE - OCTOBRE",
+      "date_start": "2026-10-28",
+      "date_end": "2026-10-28",
+      "location": {
+        "club": "T.C. CHATOU",
+        "city": "CHATOU"
+      },
+      "distance": "6,8 km",
+      "first_seen": "2026-10-04T09:56:47+02:00"
+    },
+    {
+      "id": "MOJA_300780",
+      "name": "TMC Jeunes",
+      "date_start": "2026-10-28",
+      "date_end": "2026-10-30",
+      "location": {
+        "club": "A.A.S. FRESNES",
+        "city": "FRESNES"
+      },
+      "distance": "13,5 km",
+      "first_seen": "2026-10-04T09:56:47+02:00"
+    },
+    {
+      "id": "MOJA_306060",
+      "name": "TMC 30/3-30/1 Hommes",
+      "date_start": "2026-10-28",
+      "date_end": "2026-10-29",
+      "location": {
+        "club": "MAISONS ALFORT TC",
+        "city": "MAISONS ALFORT"
+      },
+      "distance": "16,4 km",
+      "first_seen": "2026-10-04T09:56:47+02:00"
+    },
+    {
+      "id": "MOJA_306235",
+      "name": "TMC 13/14 en matinée de 8h30 à 14h",
+      "date_start": "2026-10-28",
+      "date_end": "2026-10-28",
+      "location": {
+        "club": "ARSENAL CHATILLON (TC)",
+        "city": "CHATILLON"
+      },
+      "distance": "8,2 km",
+      "first_seen": "2026-10-04T09:56:47+02:00"
+    },
+    {
+      "id": "MOJA_306237",
+      "name": "TMC 11/12 ans mixte - après-midi de 14h à 19h",
+      "date_start": "2026-10-28",
+      "date_end": "2026-10-28",
+      "location": {
+        "club": "ARSENAL CHATILLON (TC)",
+        "city": "CHATILLON"
+      },
+      "distance": "8,2 km",
+      "first_seen": "2026-10-04T09:56:47+02:00"
+    },
+    {
+      "id": "MOJA_309567",
+      "name": "TMC VERT",
+      "date_start": "2026-10-28",
+      "date_end": "2026-10-29",
+      "location": {
+        "club": "T.C. GIF SUR YVETTE",
+        "city": "GIF SUR YVETTE"
+      },
+      "distance": "18,3 km",
+      "first_seen": "2026-10-04T09:56:47+02:00"
+    },
+    {
+      "id": "MOJA_310376",
+      "name": "TMC Dames 16/22h NC-30/2",
+      "date_start": "2026-10-28",
+      "date_end": "2026-10-28",
+      "location": {
+        "club": "SURESNES (TC)",
+        "city": "RUEIL MALMAISON"
+      },
+      "distance": "1,9 km",
+      "first_seen": "2026-10-04T09:56:47+02:00"
+    },
+    {
+      "id": "MOJA_219760",
+      "name": "TC CHATOU - VERT - OCTOBRE",
+      "date_start": "2026-10-29",
+      "date_end": "2026-10-30",
+      "location": {
+        "club": "T.C. CHATOU",
+        "city": "CHATOU"
+      },
+      "distance": "6,8 km",
+      "first_seen": "2026-10-04T09:56:47+02:00"
+    },
+    {
+      "id": "MOJA_300488",
+      "name": "TMC AAESB U18G  3S",
+      "date_start": "2026-10-29",
+      "date_end": "2026-10-30",
+      "location": {
+        "club": "SAINT BRICE (AAE)",
+        "city": "ST BRICE SOUS FORET"
+      },
+      "distance": "19,6 km",
+      "first_seen": "2026-10-04T09:56:47+02:00"
+    },
+    {
+      "id": "MOJA_306066",
+      "name": "TMC 30/3-30/1 Femmes",
+      "date_start": "2026-10-29",
+      "date_end": "2026-10-31",
+      "location": {
+        "club": "MAISONS ALFORT TC",
+        "city": "MAISONS ALFORT"
+      },
+      "distance": "16,4 km",
+      "first_seen": "2026-10-04T09:56:47+02:00"
+    },
+    {
+      "id": "MOJA_306239",
+      "name": "TMC Orange mixtes en matinée de 8h30 à 14h",
+      "date_start": "2026-10-29",
+      "date_end": "2026-10-29",
+      "location": {
+        "club": "ARSENAL CHATILLON (TC)",
+        "city": "CHATILLON"
+      },
+      "distance": "8,2 km",
+      "first_seen": "2026-10-04T09:56:47+02:00"
+    },
+    {
+      "id": "MOJA_306242",
+      "name": "TMC Vert mixtes l'après midi de 14h à 19h30",
+      "date_start": "2026-10-29",
+      "date_end": "2026-10-29",
+      "location": {
+        "club": "ARSENAL CHATILLON (TC)",
+        "city": "CHATILLON"
+      },
+      "distance": "8,2 km",
+      "first_seen": "2026-10-04T09:56:47+02:00"
+    },
+    {
+      "id": "MOJA_305820",
+      "name": "TMC Taverny 7/10 ans",
+      "date_start": "2026-10-30",
+      "date_end": "2026-10-31",
+      "location": {
+        "club": "TAVERNY (CCT)",
+        "city": "TAVERNY"
+      },
+      "distance": "18,6 km",
+      "first_seen": "2026-10-04T09:56:47+02:00"
+    },
+    {
+      "id": "MOJA_306064",
+      "name": "TMC NC-30/4",
+      "date_start": "2026-10-30",
+      "date_end": "2026-10-31",
+      "location": {
+        "club": "MAISONS ALFORT TC",
+        "city": "MAISONS ALFORT"
+      },
+      "distance": "16,4 km",
+      "first_seen": "2026-10-04T09:56:47+02:00"
+    },
+    {
+      "id": "MOJA_306244",
+      "name": "TMC 11/12 ans mixtes en matinée",
+      "date_start": "2026-10-30",
+      "date_end": "2026-10-30",
+      "location": {
+        "club": "ARSENAL CHATILLON (TC)",
+        "city": "CHATILLON"
+      },
+      "distance": "8,2 km",
+      "first_seen": "2026-10-04T09:56:47+02:00"
+    },
+    {
+      "id": "MOJA_306245",
+      "name": "TMC 13/14 ans l'après midi de 14h à 19h30",
+      "date_start": "2026-10-30",
+      "date_end": "2026-10-30",
+      "location": {
+        "club": "ARSENAL CHATILLON (TC)",
+        "city": "CHATILLON"
+      },
+      "distance": "8,2 km",
+      "first_seen": "2026-10-04T09:56:47+02:00"
+    },
+    {
+      "id": "MOJA_308165",
+      "name": "GALAXIE VERT 7/10 ANS",
+      "date_start": "2026-10-30",
+      "date_end": "2026-10-30",
+      "location": {
+        "club": "STADE FRANCAIS",
+        "city": "MARNES LA COQUETTE"
+      },
+      "distance": "2,2 km",
+      "first_seen": "2026-10-04T09:56:47+02:00"
+    },
+    {
+      "id": "MOJA_309571",
+      "name": "TMC ADULTES 30/4 à 30/1",
+      "date_start": "2026-10-30",
+      "date_end": "2026-10-30",
+      "location": {
+        "club": "T.C. GIF SUR YVETTE",
+        "city": "GIF SUR YVETTE"
+      },
+      "distance": "18,3 km",
+      "first_seen": "2026-10-04T09:56:47+02:00"
+    },
+    {
+      "id": "MOJA_213494",
+      "name": "Tournoi galaxie vert filles",
+      "date_start": "2026-10-31",
+      "date_end": "2026-10-31",
+      "location": {
+        "club": "T.C. VILLEPREUX",
+        "city": "VILLEPREUX"
+      },
+      "distance": "15,5 km",
+      "first_seen": "2026-10-04T09:56:47+02:00"
+    },
+    {
+      "id": "MOJA_220073",
+      "name": "TMC MESSIEURS SAMEDI 31/10/26 - LASA SPORT 2027",
+      "date_start": "2026-10-31",
+      "date_end": "2026-10-31",
+      "location": {
+        "club": "LASA SPORT ORGANISATION",
+        "city": "MONTREUIL"
+      },
+      "distance": "18,6 km",
+      "first_seen": "2026-10-04T09:56:47+02:00"
+    },
+    {
+      "id": "MOJA_290754",
+      "name": "TMC Dames SGTC 40 à 30/1",
+      "date_start": "2026-10-31",
+      "date_end": "2026-11-01",
+      "location": {
+        "club": "SAINT GRATIEN TC",
+        "city": "ST GRATIEN"
+      },
+      "distance": "15,1 km",
+      "first_seen": "2026-10-04T09:56:47+02:00"
+    },
+    {
+      "id": "MOJA_308551",
+      "name": "TMC JAUNE 11/12 ANS FILLES ET GARCONS",
+      "date_start": "2026-10-31",
+      "date_end": "2026-11-01",
+      "location": {
+        "club": "CD YVELINES",
+        "city": "FEUCHEROLLES"
+      },
+      "distance": "17,2 km",
+      "first_seen": "2026-10-04T09:56:47+02:00"
+    },
+    {
+      "id": "MOJA_311043",
+      "name": "TMC HOMMES 15/3-4/6",
+      "date_start": "2026-10-31",
+      "date_end": "2026-11-01",
+      "location": {
+        "club": "SAINT DENIS UNION SPORT",
+        "city": "ST DENIS"
+      },
+      "distance": "14,8 km",
+      "first_seen": "2026-10-04T09:56:47+02:00"
+    },
+    {
+      "id": "MOJA_311050",
+      "name": "TMC FEMMES 30/2-15/4",
+      "date_start": "2026-10-31",
+      "date_end": "2026-11-01",
+      "location": {
+        "club": "SAINT DENIS UNION SPORT",
+        "city": "ST DENIS"
+      },
+      "distance": "14,8 km",
+      "first_seen": "2026-10-04T09:56:47+02:00"
+    },
+    {
+      "id": "MOJA_213496",
+      "name": "tournoi galaxie vert garçons",
+      "date_start": "2026-11-01",
+      "date_end": "2026-11-01",
+      "location": {
+        "club": "T.C. VILLEPREUX",
+        "city": "VILLEPREUX"
+      },
+      "distance": "15,5 km",
+      "first_seen": "2026-10-04T09:56:47+02:00"
+    },
+    {
+      "id": "MOJA_220032",
+      "name": "TOURNOI - MASTERS LASA SPORT 2027 E4",
+      "date_start": "2026-11-01",
+      "date_end": "2026-12-20",
+      "location": {
+        "club": "LASA SPORT ORGANISATION",
+        "city": "MONTREUIL"
+      },
+      "distance": "18,6 km",
+      "first_seen": "2026-10-04T09:56:47+02:00"
+    },
+    {
+      "id": "MOJA_220074",
+      "name": "TMC MESSIEURS DIMANCHE 01/11/26 - LASA SPORT 2027",
+      "date_start": "2026-11-01",
+      "date_end": "2026-11-01",
+      "location": {
+        "club": "LASA SPORT ORGANISATION",
+        "city": "MONTREUIL"
+      },
+      "distance": "18,6 km",
+      "first_seen": "2026-10-04T09:56:47+02:00"
+    },
+    {
+      "id": "MOJA_296235",
+      "name": "TM'C est férié : Toussaint pour ça",
+      "date_start": "2026-11-01",
+      "date_end": "2026-11-01",
+      "location": {
+        "club": "C.A.L. TC L'HAY LES ROSES",
+        "city": "L HAY LES ROSES"
+      },
+      "distance": "12,4 km",
+      "first_seen": "2026-10-04T09:56:47+02:00"
+    },
+    {
+      "id": "MOJA_302361",
+      "name": "TMC SEMAINE JOURNEE SENIOR HOMME NC - 15/3",
+      "date_start": "2026-11-02",
+      "date_end": "2026-11-05",
+      "location": {
+        "club": "ELAN CHEVILLY LARUE",
+        "city": "CHEVILLY LARUE"
+      },
+      "distance": "13,5 km",
+      "first_seen": "2026-10-04T09:56:47+02:00"
+    },
+    {
+      "id": "MOJA_307969",
+      "name": "N°4 entre 8:00 et 17:00 ",
+      "date_start": "2026-11-03",
+      "date_end": "2026-11-27",
+      "location": {
+        "club": "LA CHATAIGNERAIE (TC)",
+        "city": "RUEIL MALMAISON"
+      },
+      "distance": "2,9 km",
+      "first_seen": "2026-10-04T09:56:47+02:00"
+    },
+    {
+      "id": "MOJA_220075",
+      "name": "TMC MESSIEURS SAMEDI 07/11/26 - LASA SPORT 2027",
+      "date_start": "2026-11-07",
+      "date_end": "2026-11-07",
+      "location": {
+        "club": "LASA SPORT ORGANISATION",
+        "city": "MONTREUIL"
+      },
+      "distance": "18,6 km",
+      "first_seen": "2026-10-04T09:56:47+02:00"
+    },
+    {
+      "id": "MOJA_220076",
+      "name": "TMC MESSIEURS DIMANCHE 08/11/26 - LASA SPORT 2027",
+      "date_start": "2026-11-08",
+      "date_end": "2026-11-08",
+      "location": {
+        "club": "LASA SPORT ORGANISATION",
+        "city": "MONTREUIL"
+      },
+      "distance": "18,6 km",
+      "first_seen": "2026-10-04T09:56:47+02:00"
+    },
+    {
+      "id": "MOJA_295424",
+      "name": "TCPR : OPEN +60 en Journée",
+      "date_start": "2026-11-09",
+      "date_end": "2026-11-27",
+      "location": {
+        "club": "PLESSIS ROBINSON (TC)",
+        "city": "le Plessis Robinson"
+      },
+      "distance": "8,6 km",
+      "first_seen": "2026-10-04T09:56:47+02:00"
+    },
+    {
+      "id": "MOJA_299583",
+      "name": "TMC Journée NC - 30.1",
+      "date_start": "2026-11-09",
+      "date_end": "2026-11-10",
+      "location": {
+        "club": "MARGENCY (TC)",
+        "city": "MARGENCY"
+      },
+      "distance": "17,6 km",
+      "first_seen": "2026-10-04T09:56:47+02:00"
+    },
+    {
+      "id": "MOJA_302362",
+      "name": "TMC SEMAINE JOURNEE SENIOR HOMME NC - 15/3",
+      "date_start": "2026-11-09",
+      "date_end": "2026-11-12",
+      "location": {
+        "club": "ELAN CHEVILLY LARUE",
+        "city": "CHEVILLY LARUE"
+      },
+      "distance": "13,5 km",
+      "first_seen": "2026-10-04T09:56:47+02:00"
+    },
+    {
+      "id": "MOJA_213799",
+      "name": "TMC Galaxie Orange TPC",
+      "date_start": "2026-11-11",
+      "date_end": "2026-11-11",
+      "location": {
+        "club": "T.C. CONFLANS STE HONORINE",
+        "city": "CONFLANS STE HONORINE"
+      },
+      "distance": "19,3 km",
+      "first_seen": "2026-10-04T09:56:47+02:00"
+    },
+    {
+      "id": "MOJA_220071",
+      "name": "TMC MESSIEURS MERCREDI 11/11/26 - LASA SPORT 2027",
+      "date_start": "2026-11-11",
+      "date_end": "2026-11-11",
+      "location": {
+        "club": "LASA SPORT ORGANISATION",
+        "city": "MONTREUIL"
+      },
+      "distance": "18,6 km",
+      "first_seen": "2026-10-04T09:56:47+02:00"
+    },
+    {
+      "id": "MOJA_296236",
+      "name": "TM'C férié : l'Haÿstice du 11 novembre",
+      "date_start": "2026-11-11",
+      "date_end": "2026-11-11",
+      "location": {
+        "club": "C.A.L. TC L'HAY LES ROSES",
+        "city": "L HAY LES ROSES"
+      },
+      "distance": "12,4 km",
+      "first_seen": "2026-10-04T09:56:47+02:00"
+    },
+    {
+      "id": "MOJA_308562",
+      "name": "TMC 7/10 ANS ORANGE GARCONS NIVEAU 2",
+      "date_start": "2026-11-11",
+      "date_end": "2026-11-11",
+      "location": {
+        "club": "CD YVELINES",
+        "city": "FEUCHEROLLES"
+      },
+      "distance": "17,2 km",
+      "first_seen": "2026-10-04T09:56:47+02:00"
+    },
+    {
+      "id": "MOJA_299585",
+      "name": "TMC Journée 30 - 15.1",
+      "date_start": "2026-11-12",
+      "date_end": "2026-11-13",
+      "location": {
+        "club": "MARGENCY (TC)",
+        "city": "MARGENCY"
+      },
+      "distance": "17,6 km",
+      "first_seen": "2026-10-04T09:56:47+02:00"
+    },
+    {
+      "id": "MOJA_220077",
+      "name": "TMC MESSIEURS SAMEDI 14/11/26 - LASA SPORT 2027",
+      "date_start": "2026-11-14",
+      "date_end": "2026-11-14",
+      "location": {
+        "club": "LASA SPORT ORGANISATION",
+        "city": "MONTREUIL"
+      },
+      "distance": "18,6 km",
+      "first_seen": "2026-10-04T09:56:47+02:00"
+    },
+    {
+      "id": "MOJA_220078",
+      "name": "TMC MESSIEURS DIMANCHE 15/11/26 - LASA SPORT 2027",
+      "date_start": "2026-11-15",
+      "date_end": "2026-11-15",
+      "location": {
+        "club": "LASA SPORT ORGANISATION",
+        "city": "MONTREUIL"
+      },
+      "distance": "18,6 km",
+      "first_seen": "2026-10-04T09:56:47+02:00"
+    },
+    {
+      "id": "MOJA_213752",
+      "name": "TMC des Ibis - Journée - 30/1-15/3",
+      "date_start": "2026-11-16",
+      "date_end": "2026-11-19",
+      "location": {
+        "club": "VESINET IBIS TENNIS CLUB",
+        "city": "LE VESINET"
+      },
+      "distance": "8,0 km",
+      "first_seen": "2026-10-04T09:56:47+02:00"
+    },
+    {
+      "id": "MOJA_213760",
+      "name": "AS Pyramides - Tournoi semaine & journée",
+      "date_start": "2026-11-16",
+      "date_end": "2026-12-04",
+      "location": {
+        "club": "A.S. LES PYRAMIDES",
+        "city": "LE PORT MARLY"
+      },
+      "distance": "8,5 km",
+      "first_seen": "2026-10-04T09:56:47+02:00"
+    },
+    {
+      "id": "MOJA_302363",
+      "name": "TMC SEMAINE JOURNEE SENIOR HOMME NC - 15/3",
+      "date_start": "2026-11-16",
+      "date_end": "2026-11-19",
+      "location": {
+        "club": "ELAN CHEVILLY LARUE",
+        "city": "CHEVILLY LARUE"
+      },
+      "distance": "13,5 km",
+      "first_seen": "2026-10-04T09:56:47+02:00"
+    },
+    {
+      "id": "MOJA_299767",
+      "name": " TMC Journée 15.2 - 4.6",
+      "date_start": "2026-11-19",
+      "date_end": "2026-11-20",
+      "location": {
+        "club": "MARGENCY (TC)",
+        "city": "MARGENCY"
+      },
+      "distance": "17,6 km",
+      "first_seen": "2026-10-04T09:56:47+02:00"
+    },
+    {
+      "id": "MOJA_220079",
+      "name": "TMC MESSIEURS SAMEDI 21/11/26 - LASA SPORT 2027",
+      "date_start": "2026-11-21",
+      "date_end": "2026-11-21",
+      "location": {
+        "club": "LASA SPORT ORGANISATION",
+        "city": "MONTREUIL"
+      },
+      "distance": "18,6 km",
+      "first_seen": "2026-10-04T09:56:47+02:00"
+    },
+    {
+      "id": "MOJA_220080",
+      "name": "TMC MESSIEURS DIMANCHE 22/11/26 - LASA SPORT 2027",
+      "date_start": "2026-11-22",
+      "date_end": "2026-11-22",
+      "location": {
+        "club": "LASA SPORT ORGANISATION",
+        "city": "MONTREUIL"
+      },
+      "distance": "18,6 km",
+      "first_seen": "2026-10-04T09:56:47+02:00"
+    },
+    {
+      "id": "MOJA_291948",
+      "name": "TMC 30-15/4 JOURNEE",
+      "date_start": "2026-11-23",
+      "date_end": "2026-11-24",
+      "location": {
+        "club": "T.C. CONFLANS STE HONORINE",
+        "city": "CONFLANS STE HONORINE"
+      },
+      "distance": "19,3 km",
+      "first_seen": "2026-10-04T09:56:47+02:00"
+    },
+    {
+      "id": "MOJA_299586",
+      "name": "TMC Journée 30.2 - 15.5",
+      "date_start": "2026-11-23",
+      "date_end": "2026-11-24",
+      "location": {
+        "club": "MARGENCY (TC)",
+        "city": "MARGENCY"
+      },
+      "distance": "17,6 km",
+      "first_seen": "2026-10-04T09:56:47+02:00"
+    },
+    {
+      "id": "MOJA_302364",
+      "name": "TMC SEMAINE JOURNEE SENIOR HOMME NC - 15/3",
+      "date_start": "2026-11-23",
+      "date_end": "2026-11-26",
+      "location": {
+        "club": "ELAN CHEVILLY LARUE",
+        "city": "CHEVILLY LARUE"
+      },
+      "distance": "13,5 km",
+      "first_seen": "2026-10-04T09:56:47+02:00"
+    },
+    {
+      "id": "MOJA_307975",
+      "name": "N°5 entre 8:00 et 17:00 ",
+      "date_start": "2026-11-23",
+      "date_end": "2026-12-11",
+      "location": {
+        "club": "LA CHATAIGNERAIE (TC)",
+        "city": "RUEIL MALMAISON"
+      },
+      "distance": "2,9 km",
+      "first_seen": "2026-10-04T09:56:47+02:00"
+    },
+    {
+      "id": "MOJA_299587",
+      "name": "TMC Journée 15.4 - 15.1",
+      "date_start": "2026-11-26",
+      "date_end": "2026-11-27",
+      "location": {
+        "club": "MARGENCY (TC)",
+        "city": "MARGENCY"
+      },
+      "distance": "17,6 km",
+      "first_seen": "2026-10-04T09:56:47+02:00"
+    },
+    {
+      "id": "MOJA_213849",
+      "name": "LES PETITS AS TC PLAISIR",
+      "date_start": "2026-11-28",
+      "date_end": "2026-12-31",
+      "location": {
+        "club": "T.C. PLAISIR",
+        "city": "PLAISIR"
+      },
+      "distance": "19,1 km",
+      "first_seen": "2026-10-04T09:56:47+02:00"
+    },
+    {
+      "id": "MOJA_220081",
+      "name": "TMC MESSIEURS SAMEDI 28/11/26 - LASA SPORT 2027",
+      "date_start": "2026-11-28",
+      "date_end": "2026-11-28",
+      "location": {
+        "club": "LASA SPORT ORGANISATION",
+        "city": "MONTREUIL"
+      },
+      "distance": "18,6 km",
+      "first_seen": "2026-10-04T09:56:47+02:00"
+    },
+    {
+      "id": "MOJA_213676",
+      "name": "ST CYR TC VERT 7/10 ans ",
+      "date_start": "2026-11-29",
+      "date_end": "2026-11-29",
+      "location": {
+        "club": "ST CYR TC",
+        "city": "ST CYR L ECOLE"
+      },
+      "distance": "12,5 km",
+      "first_seen": "2026-10-04T09:56:47+02:00"
+    },
+    {
+      "id": "MOJA_220082",
+      "name": "TMC DAMES DIMANCHE 29/11/26 - LASA SPORT 2027",
+      "date_start": "2026-11-29",
+      "date_end": "2026-11-29",
+      "location": {
+        "club": "LASA SPORT ORGANISATION",
+        "city": "MONTREUIL"
+      },
+      "distance": "18,6 km",
+      "first_seen": "2026-10-04T09:56:47+02:00"
+    },
+    {
+      "id": "MOJA_292236",
+      "name": "ASMINORANGE GALAXIE VERT Fille",
+      "date_start": "2026-11-29",
+      "date_end": "2026-11-29",
+      "location": {
+        "club": "A.S. MINORANGE",
+        "city": "GUYANCOURT"
+      },
+      "distance": "14,1 km",
+      "first_seen": "2026-10-04T09:56:47+02:00"
+    },
+    {
+      "id": "MOJA_302365",
+      "name": "TMC SEMAINE JOURNEE SENIOR HOMME NC - 15/3",
+      "date_start": "2026-11-30",
+      "date_end": "2026-12-03",
+      "location": {
+        "club": "ELAN CHEVILLY LARUE",
+        "city": "CHEVILLY LARUE"
+      },
+      "distance": "13,5 km",
+      "first_seen": "2026-10-04T09:56:47+02:00"
+    }
+  ]
 }
