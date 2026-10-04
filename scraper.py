@@ -36,7 +36,7 @@ DEFAULT_AGE_IDS = "65|110"
 # TenUp's search endpoint paginates via from/size; anything beyond ``size``
 # is silently dropped rather than erroring, so use a value comfortably above
 # any realistic result count instead of exposing pagination to callers.
-SEARCH_SIZE = 100
+SEARCH_SIZE = 100  # taille d'une page ; toutes les pages sont parcourues
 
 REPO_ROOT = Path(__file__).resolve().parent
 STORE_PATH = REPO_ROOT / "data" / "tournaments.json"
@@ -90,6 +90,7 @@ def fetch_tournaments(
     age_ids: str = DEFAULT_AGE_IDS,
     start: date | None = None,
     end: date | None = None,
+    days: int = 61,
     debug: bool = False,
     **_ignored,
 ) -> dict:
@@ -109,7 +110,7 @@ def fetch_tournaments(
         end: End of the date range (defaults to 3 months after ``start``).
     """
     start = start or date.today()
-    end = end or (start + timedelta(days=92))
+    end = end or (start + timedelta(days=days))
 
     session = requests.Session()
     location = geocode_city(city, session=session)
@@ -149,18 +150,31 @@ def fetch_tournaments(
     if debug:
         _debug_dump("outgoing search body", body)
 
-    resp = session.post(
-        SEARCH_URL,
-        json=body,
-        headers={"accept": "application/json"},
-        timeout=REQUEST_TIMEOUT,
-    )
-    if resp.status_code != 200:
-        raise RuntimeError(f"TenUp returned HTTP {resp.status_code}: {resp.text[:500]}")
+    all_cards: list[dict] = []
+    total = None
+    offset = 0
+    while True:
+        body["from"] = offset
+        resp = session.post(
+            SEARCH_URL,
+            json=body,
+            headers={"accept": "application/json"},
+            timeout=REQUEST_TIMEOUT,
+        )
+        if resp.status_code != 200:
+            raise RuntimeError(f"TenUp returned HTTP {resp.status_code}: {resp.text[:500]}")
+        page = resp.json()
+        cards = page.get("cards") or []
+        total = page.get("nbResultats", total)
+        all_cards.extend(cards)
+        if len(cards) < SEARCH_SIZE or (total is not None and len(all_cards) >= total):
+            break
+        offset += SEARCH_SIZE
 
-    payload = resp.json()
+    payload = {"nbResultats": total, "cards": all_cards}
     if debug:
         _debug_dump("search response", payload)
+    print(f"TenUp: {len(all_cards)} tournoi(s) récupéré(s) / {total} annoncé(s)", file=sys.stderr)
     return payload
 
 
@@ -416,14 +430,14 @@ def main() -> None:
     parser = argparse.ArgumentParser(description=__doc__)
     parser.add_argument(
         "--city",
-        default="Prévessin-Moëns, 01280",
+        default="Saint-Cloud, 92210",
         help='City label, e.g. "Prévessin-Moëns, 01280"',
     )
     parser.add_argument(
         "--distance",
         type=int,
-        default=50,
-        help="Search radius in kilometres (default: 50)",
+        default=20,
+        help="Search radius in kilometres (default: 20)",
     )
     parser.add_argument(
         "--age-ids",
@@ -435,6 +449,12 @@ def main() -> None:
             "Pass an empty string to disable filtering (search every age "
             "category)."
         ),
+    )
+    parser.add_argument(
+        "--days",
+        type=int,
+        default=61,
+        help="Fenêtre de recherche en jours à partir d'aujourd'hui (défaut : 61)",
     )
     parser.add_argument(
         "--debug",
@@ -454,6 +474,7 @@ def main() -> None:
         args.city,
         args.distance,
         age_ids=args.age_ids or None,
+        days=args.days,
         debug=args.debug,
     )
     tournaments = parse_tournaments(payload)
