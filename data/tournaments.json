@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "last_scrape": "2026-10-03T22:48:18+02:00",
+    "last_scrape": "2026-10-04T02:50:49+02:00",
     "tournament_count": 41,
     "scrape_params": {
       "city": "Prévessin-Moëns, 01280",
@@ -9,18 +9,6 @@
     }
   },
   "tournaments": [
-    {
-      "id": "MOJA_303899",
-      "name": "TMC VERT 11/12 13/14 MIXTE  NC à 30/4",
-      "date_start": "2026-10-03",
-      "date_end": "2026-10-03",
-      "location": {
-        "club": "TANINGES TENNIS CLUB",
-        "city": "TANINGES"
-      },
-      "distance": "42,9 km",
-      "first_seen": "2026-09-27T20:16:55+02:00"
-    },
     {
       "id": "MOJA_208985",
       "name": "TMC vert TC Rumilly",
@@ -500,6 +488,18 @@
       },
       "distance": "31,3 km",
       "first_seen": "2026-10-03T02:05:51+02:00"
+    },
+    {
+      "id": "MOJA_211186",
+      "name": "Sport 2000 Chablais Tour Vert U10",
+      "date_start": "2027-01-03",
+      "date_end": "2027-01-03",
+      "location": {
+        "club": "THONON LES BAINS TC",
+        "city": "THONON LES BAINS"
+      },
+      "distance": "31,3 km",
+      "first_seen": "2026-10-04T02:50:49+02:00"
     }
   ]
 }

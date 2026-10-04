@@ -4,13 +4,12 @@ title: Tournois TenUp
 
 # Tournois de tennis à venir (41)
 
-_Dernière mise à jour : 2026-10-03T22:48:18+02:00_  
+_Dernière mise à jour : 2026-10-04T02:50:49+02:00_  
 _Recherche : ville **Prévessin-Moëns, 01280**, rayon **50 km**._
 
 <table class="tournaments">
   <thead><tr><th>Date</th><th>Tournoi</th><th>Club</th><th>Ville</th><th>Distance</th></tr></thead>
   <tbody>
-    <tr><td>2026-10-03</td><td><a href="https://tenup.fft.fr/tournoi/MOJA_303899" target="_blank" rel="noopener noreferrer">TMC VERT 11/12 13/14 MIXTE  NC à 30/4</a></td><td>TANINGES TENNIS CLUB</td><td>TANINGES</td><td>42,9 km</td></tr>
     <tr><td>2026-10-07</td><td><a href="https://tenup.fft.fr/tournoi/MOJA_208985" target="_blank" rel="noopener noreferrer">TMC vert TC Rumilly</a></td><td>RUMILLY TC</td><td>RUMILLY</td><td>46,3 km</td></tr>
     <tr><td>2026-10-10 → 2026-10-22</td><td><a href="https://tenup.fft.fr/tournoi/MOJA_221397" target="_blank" rel="noopener noreferrer">Tournoi Jeunes Toussaint TCAV</a></td><td>ANNECY LE VIEUX TC</td><td>ANNECY LE VIEUX</td><td>40,1 km</td></tr>
     <tr><td>2026-10-14</td><td><a href="https://tenup.fft.fr/tournoi/MOJA_208986" target="_blank" rel="noopener noreferrer">TMC orange TC Rumilly</a></td><td>RUMILLY TC</td><td>RUMILLY</td><td>46,3 km</td></tr>
@@ -51,5 +50,6 @@ _Recherche : ville **Prévessin-Moëns, 01280**, rayon **50 km**._
     <tr><td>2026-12-22</td><td><a href="https://tenup.fft.fr/tournoi/MOJA_208508" target="_blank" rel="noopener noreferrer">TMC VERT MIXTE 8-12 ANS ATP-M</a></td><td>PREVESSIN-MOENS (ASSOCIATION TENNIS DE)</td><td>PREVESSIN MOENS</td><td>0,6 km</td></tr>
     <tr><td>2026-12-22 → 2027-01-02</td><td><a href="https://tenup.fft.fr/tournoi/MOJA_211231" target="_blank" rel="noopener noreferrer">Tournoi jeunes indoor</a></td><td>PRINGY TC</td><td>ANNECY</td><td>35,8 km</td></tr>
     <tr class="is-new"><td>2027-01-02</td><td><a href="https://tenup.fft.fr/tournoi/MOJA_211184" target="_blank" rel="noopener noreferrer">Sport 2000 Chablais Tour Orange</a> <span class="new-badge">NEW</span></td><td>THONON LES BAINS TC</td><td>THONON LES BAINS</td><td>31,3 km</td></tr>
+    <tr class="is-new"><td>2027-01-03</td><td><a href="https://tenup.fft.fr/tournoi/MOJA_211186" target="_blank" rel="noopener noreferrer">Sport 2000 Chablais Tour Vert U10</a> <span class="new-badge">NEW</span></td><td>THONON LES BAINS TC</td><td>THONON LES BAINS</td><td>31,3 km</td></tr>
   </tbody>
 </table>
