@@ -22,6 +22,7 @@ from __future__ import annotations
 import argparse
 import json
 import sys
+import time
 from datetime import date, datetime, timedelta
 from pathlib import Path
 from zoneinfo import ZoneInfo
@@ -31,7 +32,19 @@ import requests
 AUTOCOMPLETE_URL = "https://tenup.fft.fr/back/public/v1/autocompletion/villes"
 SEARCH_URL = "https://tenup.fft.fr/back/public/v1/tournois"
 
-DEFAULT_AGE_IDS = "65|110"
+DEFAULT_AGE_IDS = "140|160|180|200"  # 13/14, 15/16, 17/18 ans, Senior
+DEFAULT_NATURES = "SM"  # Simple Messieurs
+DEFAULT_CLASSEMENT = "30/1"
+
+EPREUVES_URL = "https://tenup.fft.fr/back/public/v1/tournois/{hid}/epreuves"
+
+# Échelons Ten'Up observés dans l'API (plus le chiffre est haut, meilleur est le classement)
+CLASSEMENT_ECHELONS = {
+    "NC": 60, "40": 65, "30/5": 70, "30/4": 80, "30/3": 90, "30/2": 100,
+    "30/1": 110, "30": 120, "15/5": 130, "15/4": 140, "15/3": 150,
+    "15/2": 160, "15/1": 170, "15": 180, "5/6": 190, "4/6": 200,
+    "3/6": 210, "0": 240, "-15": 245,
+}
 
 # TenUp's search endpoint paginates via from/size; anything beyond ``size``
 # is silently dropped rather than erroring, so use a value comfortably above
@@ -88,6 +101,7 @@ def fetch_tournaments(
     city: str,
     distance_km: int,
     age_ids: str = DEFAULT_AGE_IDS,
+    natures: str = DEFAULT_NATURES,
     start: date | None = None,
     end: date | None = None,
     days: int = 61,
@@ -118,6 +132,7 @@ def fetch_tournaments(
         _debug_dump("geocoded city", location)
 
     age_id_list = [x.strip() for x in age_ids.split("|") if x.strip()] if age_ids else []
+    nature_list = [x.strip() for x in natures.split("|") if x.strip()] if natures else []
 
     body = {
         "pratique": "TENNIS",
@@ -133,7 +148,7 @@ def fetch_tournaments(
         "dateDebut": datetime.combine(start, datetime.min.time()).isoformat() + "Z",
         "dateFin": datetime.combine(end, datetime.min.time()).isoformat() + "Z",
         "utiliserMesDonnees": False,
-        "naturesEpreuves": [],
+        "naturesEpreuves": nature_list,
         "typesEpreuves": [],
         "naturesTerrains": [],
         "categoriesJeu": [],
@@ -178,12 +193,93 @@ def fetch_tournaments(
     return payload
 
 
+def fetch_epreuves(hid: str, session: requests.Session) -> list[dict]:
+    """Return the épreuves (draws) of one tournament, with age category and ranking range."""
+    last_error = None
+    for attempt in range(3):
+        try:
+            resp = session.get(
+                EPREUVES_URL.format(hid=hid),
+                headers={"accept": "application/json"},
+                timeout=REQUEST_TIMEOUT,
+            )
+            if resp.status_code == 200:
+                return resp.json() or []
+            last_error = f"HTTP {resp.status_code}"
+        except requests.RequestException as exc:  # network hiccup: retry
+            last_error = str(exc)
+        time.sleep(2 * (attempt + 1))
+    raise RuntimeError(f"Épreuves indisponibles pour le tournoi {hid}: {last_error}")
+
+
+def filter_eligible(
+    payload: dict,
+    *,
+    natures: str = DEFAULT_NATURES,
+    age_ids: str | None = DEFAULT_AGE_IDS,
+    classement: str = DEFAULT_CLASSEMENT,
+    include_galaxie: bool = False,
+) -> tuple[dict, dict[str, list[dict]]]:
+    """Keep only tournaments having at least one épreuve the player can enter.
+
+    An épreuve matches when its nature (SM...) and age category are in the
+    requested lists, it is not a Galaxie épreuve (unless allowed), and the
+    player's ranking lies between the épreuve's minimum and maximum ranking.
+    """
+    if classement not in CLASSEMENT_ECHELONS:
+        raise ValueError(f"Classement inconnu : {classement!r}")
+    echelon = CLASSEMENT_ECHELONS[classement]
+    nature_set = {x.strip() for x in (natures or "").split("|") if x.strip()}
+    age_set = {int(x) for x in (age_ids or "").split("|") if x.strip()}
+
+    session = requests.Session()
+    kept_cards, matches = [], {}
+    for card in payload.get("cards") or []:
+        tid = card.get("idHomologation") or ""
+        hid = tid.split("_")[-1]
+        if not hid.isdigit():
+            continue
+        good = []
+        for ep in fetch_epreuves(hid, session):
+            if nature_set and ep.get("codeNatureCategorieEpreuve") not in nature_set:
+                continue
+            if age_set and ep.get("idCategorieAge") not in age_set:
+                continue
+            if not include_galaxie and (ep.get("homologation") or {}).get("galaxie"):
+                continue
+            lo, hi = ep.get("echelonMin"), ep.get("echelonMax")
+            if lo is None or hi is None or not (lo <= echelon <= hi):
+                continue
+            good.append(ep)
+        if good:
+            kept_cards.append(card)
+            matches[tid] = good
+        time.sleep(0.15)  # rester discret vis-à-vis de Ten'Up
+
+    print(
+        f"Filtre épreuves : {len(kept_cards)} tournoi(s) éligible(s) sur {len(payload.get('cards') or [])}",
+        file=sys.stderr,
+    )
+    return {"nbResultats": len(kept_cards), "cards": kept_cards}, matches
+
+
+def _format_epreuves(eps: list[dict]) -> str:
+    bits = []
+    for ep in eps:
+        cmin = (ep.get("classementMin") or "").strip()
+        cmax = (ep.get("classementMax") or "").strip()
+        bits.append(f"{ep.get('libelleCategorieAge') or '?'} {cmin}→{cmax}")
+    return " ; ".join(dict.fromkeys(bits))
+
+
 def _debug_dump(label: str, obj) -> None:
     print(f"[debug] {label}:", file=sys.stderr)
     print(json.dumps(obj, indent=2, ensure_ascii=False), file=sys.stderr)
 
 
-def parse_tournaments(payload: dict, age_id: str | None = None) -> list[dict]:
+def parse_tournaments(
+    payload: dict, age_id: str | None = None, matches: dict | None = None
+) -> list[dict]:
     """Extract a flat list of tournament summaries from the search response.
 
     Each returned record uses the tournament's ``idHomologation`` (e.g.
@@ -213,6 +309,7 @@ def parse_tournaments(payload: dict, age_id: str | None = None) -> list[dict]:
                     "city": card.get("ville"),
                 },
                 "distance": _format_distance(card.get("distance")),
+                "epreuves": _format_epreuves((matches or {}).get(card.get("idHomologation"), [])),
             }
         )
     return out
@@ -272,7 +369,7 @@ def refresh_store(
         if item.get("id"):
             existing[item["id"]] = item
 
-    merged: dict[str, dict] = dict(existing)
+    merged: dict[str, dict] = {}
     for item in new_tournaments:
         tid = item.get("id")
         if not tid:
@@ -332,8 +429,12 @@ def render_markdown(store: dict, *, now: datetime | None = None) -> str:
             bits.append(f"ville **{params['city']}**")
         if params.get("distance_km") is not None:
             bits.append(f"rayon **{params['distance_km']} km**")
-        if params.get("age_ids") and params["age_ids"] != DEFAULT_AGE_IDS:
-            bits.append(f"catégorie d'âge **{params['age_ids']}**")
+        if params.get("classement"):
+            bits.append(f"éligible **{params['classement']}**")
+        if params.get("natures"):
+            bits.append(f"épreuves **{params['natures']}**")
+        bits.append("13/14 ans, 15/16 ans, 17/18 ans et Seniors" if params.get("age_ids") == DEFAULT_AGE_IDS
+                    else f"catégories d'âge **{params.get('age_ids') or 'toutes'}**")
         if bits:
             lines.append("_Recherche : " + ", ".join(bits) + "._")
     lines.append("")
@@ -346,7 +447,7 @@ def render_markdown(store: dict, *, now: datetime | None = None) -> str:
     lines.append(
         "  <thead><tr>"
         "<th>Date</th><th>Tournoi</th><th>Club</th>"
-        "<th>Ville</th><th>Distance</th>"
+        "<th>Ville</th><th>Distance</th><th>Épreuves éligibles</th>"
         "</tr></thead>"
     )
     lines.append("  <tbody>")
@@ -359,6 +460,7 @@ def render_markdown(store: dict, *, now: datetime | None = None) -> str:
             "<td>{club}</td>"
             "<td>{city}</td>"
             "<td>{distance}</td>"
+            "<td>{epreuves}</td>"
             "</tr>".format(
                 cls=row_class,
                 date=_html_escape(_format_date_range(t)),
@@ -367,6 +469,7 @@ def render_markdown(store: dict, *, now: datetime | None = None) -> str:
                 club=_html_escape((t.get("location") or {}).get("club") or ""),
                 city=_html_escape((t.get("location") or {}).get("city") or ""),
                 distance=_html_escape(t.get("distance") or ""),
+                epreuves=_html_escape(t.get("epreuves") or ""),
             )
         )
     lines.append("  </tbody>")
@@ -451,6 +554,24 @@ def main() -> None:
         ),
     )
     parser.add_argument(
+        "--natures",
+        type=str,
+        default=DEFAULT_NATURES,
+        help='Natures d\'épreuve, séparées par | (défaut "SM" = simple messieurs)',
+    )
+    parser.add_argument(
+        "--classement",
+        type=str,
+        default=DEFAULT_CLASSEMENT,
+        help='Classement du joueur, ex. "30/1" : garde les épreuves dont la plage le contient',
+    )
+    parser.add_argument(
+        "--inclure-galaxie",
+        default=False,
+        action="store_true",
+        help="Garder les épreuves Galaxie (exclues par défaut)",
+    )
+    parser.add_argument(
         "--days",
         type=int,
         default=61,
@@ -474,10 +595,18 @@ def main() -> None:
         args.city,
         args.distance,
         age_ids=args.age_ids or None,
+        natures=args.natures,
         days=args.days,
         debug=args.debug,
     )
-    tournaments = parse_tournaments(payload)
+    payload, matches = filter_eligible(
+        payload,
+        natures=args.natures,
+        age_ids=args.age_ids or None,
+        classement=args.classement,
+        include_galaxie=args.inclure_galaxie,
+    )
+    tournaments = parse_tournaments(payload, matches=matches)
 
     if args.print_only:
         print(json.dumps(tournaments, indent=2, ensure_ascii=False))
@@ -491,6 +620,8 @@ def main() -> None:
             "city": args.city,
             "distance_km": args.distance,
             "age_ids": args.age_ids or None,
+            "natures": args.natures,
+            "classement": args.classement,
         },
     )
     save_store(store)
