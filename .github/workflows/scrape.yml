@@ -2,7 +2,7 @@ name: Scrape TenUp
 
 on:
   schedule:
-    - cron: "0 0/4 * * *"
+    - cron: "0 5 * * *"   # tous les jours vers 7h (heure de Paris, été)
   workflow_dispatch:
 
 concurrency:
@@ -14,13 +14,11 @@ jobs:
     runs-on: ubuntu-latest
     timeout-minutes: 10
     permissions:
-      contents: read
+      contents: write
       issues: write
     steps:
       - name: Checkout
         uses: actions/checkout@v4
-        with:
-          token: ${{ secrets.GH_PAT }}
 
       - name: Set up Python
         uses: actions/setup-python@v5
@@ -42,13 +40,14 @@ jobs:
           fi
 
       - name: Run scraper
-        run: python scraper.py
+        run: python scraper.py --city "Saint-Cloud, 92210" --distance 20 --age-ids "" --days 61
 
       - name: Count new tournaments
         id: diff
         run: |
           jq -r '.tournaments[].id' data/tournaments.json | sort -u > /tmp/new_ids
-          NEW_COUNT=$(comm -13 /tmp/old_ids /tmp/new_ids | wc -l | tr -d ' ')
+          comm -13 /tmp/old_ids /tmp/new_ids > /tmp/added_ids
+          NEW_COUNT=$(wc -l < /tmp/added_ids | tr -d ' ')
           echo "new_count=$NEW_COUNT" >> "$GITHUB_OUTPUT"
           echo "Found $NEW_COUNT new tournament(s)."
 
@@ -57,12 +56,23 @@ jobs:
         env:
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           NEW_COUNT: ${{ steps.diff.outputs.new_count }}
+          PAGE_URL: https://${{ github.repository_owner }}.github.io/${{ github.event.repository.name }}/
         run: |
+          {
+            echo "$NEW_COUNT nouveau(x) tournoi(s) depuis le dernier passage."
+            echo ""
+            jq -r --rawfile ids /tmp/added_ids '
+              ($ids | split("\n") | map(select(length > 0))) as $new
+              | .tournaments[]
+              | select(.id as $i | $new | index($i))
+              | "- \(.date_start) | [\(.name)](https://tenup.fft.fr/tournoi/\(.id)) | \(.location.club) | \(.distance)"
+            ' data/tournaments.json
+            echo ""
+            echo "Liste complète : $PAGE_URL"
+          } > /tmp/issue_body.md
           gh issue create \
-            --title "🎾 $NEW_COUNT nouveau(x) tournoi(s) détecté(s)" \
-            --body "$NEW_COUNT nouveau(x) tournoi(s) depuis le dernier scrape.
-
-          👉 https://softeering.github.io/tenup-scraper/"
+            --title "$NEW_COUNT nouveau(x) tournoi(s) Ten'Up" \
+            --body-file /tmp/issue_body.md
 
       - name: Commit & push changes
         run: |
