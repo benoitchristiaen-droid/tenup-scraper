@@ -40,7 +40,15 @@ jobs:
           fi
 
       - name: Run scraper
-        run: python scraper.py --city "Saint-Cloud, 92210" --distance 20 --age-ids "" --days 61
+        # Réglages : classement de Nils, simple messieurs, 13/14, 15/16, 17/18 ans et Seniors
+        run: >-
+          python scraper.py
+          --city "Saint-Cloud, 92210"
+          --distance 20
+          --days 61
+          --classement "30/1"
+          --natures "SM"
+          --age-ids "140|160|180|200"
 
       - name: Count new tournaments
         id: diff
@@ -65,7 +73,7 @@ jobs:
               ($ids | split("\n") | map(select(length > 0))) as $new
               | .tournaments[]
               | select(.id as $i | $new | index($i))
-              | "- \(.date_start) | [\(.name)](https://tenup.fft.fr/tournoi/\(.id)) | \(.location.club) | \(.distance)"
+              | "- \(.date_start) | [\(.name)](https://tenup.fft.fr/tournoi/\(.id)) | \(.location.club) | \(.distance) | \(.epreuves // "")"
             ' data/tournaments.json
             echo ""
             echo "Liste complète : $PAGE_URL"
