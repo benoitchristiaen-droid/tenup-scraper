@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "last_scrape": "2026-10-04T10:30:57+02:00",
-    "tournament_count": 96,
+    "last_scrape": "2026-10-05T13:56:30+02:00",
+    "tournament_count": 98,
     "scrape_params": {
       "city": "Saint-Cloud, 92210",
       "distance_km": 20,
@@ -12,32 +12,6 @@
     }
   },
   "tournaments": [
-    {
-      "id": "MOJA_220063",
-      "name": "TMC MESSIEURS DIMANCHE 04/10/26 - LASA SPORT 2027",
-      "date_start": "2026-10-04",
-      "date_end": "2026-10-04",
-      "location": {
-        "club": "LASA SPORT ORGANISATION",
-        "city": "MONTREUIL"
-      },
-      "distance": "18,6 km",
-      "epreuves": "Senior NC→15/1",
-      "first_seen": "2026-10-04T09:56:47+02:00"
-    },
-    {
-      "id": "MOJA_300161",
-      "name": "TMC PUTEAUX 13/14 ans",
-      "date_start": "2026-10-04",
-      "date_end": "2026-10-04",
-      "location": {
-        "club": "LE PETIT SMASH",
-        "city": "PUTEAUX"
-      },
-      "distance": "6,1 km",
-      "epreuves": "13/14 ans NC→N1",
-      "first_seen": "2026-10-04T09:56:47+02:00"
-    },
     {
       "id": "MOJA_308331",
       "name": "Oct1 : 23h en Sénior, à 7h en +40, journée +35",
@@ -89,6 +63,19 @@
       "distance": "5,4 km",
       "epreuves": "Senior NC→30",
       "first_seen": "2026-10-04T09:56:47+02:00"
+    },
+    {
+      "id": "MOJA_311785",
+      "name": "Tournoi Vert Jeunes 11/18 ans ",
+      "date_start": "2026-10-10",
+      "date_end": "2026-10-11",
+      "location": {
+        "club": "TENNISPORT",
+        "city": "GIF SUR YVETTE"
+      },
+      "distance": "15,8 km",
+      "epreuves": "15/16 ans NC→N1 ; 13/14 ans NC→N1",
+      "first_seen": "2026-10-05T13:56:30+02:00"
     },
     {
       "id": "MOJA_220065",
@@ -403,6 +390,19 @@
       "first_seen": "2026-10-04T09:56:47+02:00"
     },
     {
+      "id": "MOJA_311771",
+      "name": "Tournoi Vert Jeunes 11/18 ans",
+      "date_start": "2026-10-17",
+      "date_end": "2026-10-18",
+      "location": {
+        "club": "TENNISPORT",
+        "city": "GIF SUR YVETTE"
+      },
+      "distance": "15,8 km",
+      "epreuves": "13/14 ans NC→N1",
+      "first_seen": "2026-10-05T13:56:30+02:00"
+    },
+    {
       "id": "MOJA_208330",
       "name": "L'Haÿween SD + SM (40 à 15/1)",
       "date_start": "2026-10-18",
@@ -555,7 +555,7 @@
         "city": "ST BRICE SOUS FORET"
       },
       "distance": "19,6 km",
-      "epreuves": "Senior 30/5→30/1",
+      "epreuves": "Senior 30/5→30",
       "first_seen": "2026-10-04T09:56:47+02:00"
     },
     {
@@ -648,6 +648,19 @@
       "distance": "1,4 km",
       "epreuves": "Senior 30/4→30/1",
       "first_seen": "2026-10-04T09:56:47+02:00"
+    },
+    {
+      "id": "MOJA_311795",
+      "name": "Tournoi Vert Jeunes 11/18 ans",
+      "date_start": "2026-10-19",
+      "date_end": "2026-10-24",
+      "location": {
+        "club": "TENNISPORT",
+        "city": "GIF SUR YVETTE"
+      },
+      "distance": "15,8 km",
+      "epreuves": "13/14 ans NC→N1 ; 15/16 ans NC→N1",
+      "first_seen": "2026-10-05T13:56:30+02:00"
     },
     {
       "id": "MOJA_306172",
@@ -1025,6 +1038,19 @@
       "distance": "5,2 km",
       "epreuves": "Senior 30/1→15/3",
       "first_seen": "2026-10-04T09:56:47+02:00"
+    },
+    {
+      "id": "MOJA_308211",
+      "name": "Stade Français Octobre 2 Jeune élite",
+      "date_start": "2026-10-26",
+      "date_end": "2026-10-29",
+      "location": {
+        "club": "STADE FRANCAIS",
+        "city": "MARNES LA COQUETTE"
+      },
+      "distance": "2,2 km",
+      "epreuves": "15/16 ans NC→15/2 ; 13/14 ans NC→15/5",
+      "first_seen": "2026-10-05T13:56:30+02:00"
     },
     {
       "id": "MOJA_310315",
