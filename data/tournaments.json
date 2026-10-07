@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "last_scrape": "2026-10-06T13:37:16+02:00",
-    "tournament_count": 100,
+    "last_scrape": "2026-10-07T13:27:13+02:00",
+    "tournament_count": 108,
     "scrape_params": {
       "city": "Saint-Cloud, 92210",
       "distance_km": 20,
@@ -50,19 +50,6 @@
       "distance": "5,4 km",
       "epreuves": "Senior NC→30",
       "first_seen": "2026-10-04T09:56:47+02:00"
-    },
-    {
-      "id": "MOJA_311785",
-      "name": "Tournoi Vert Jeunes 11/18 ans ",
-      "date_start": "2026-10-10",
-      "date_end": "2026-10-11",
-      "location": {
-        "club": "TENNISPORT",
-        "city": "GIF SUR YVETTE"
-      },
-      "distance": "15,8 km",
-      "epreuves": "15/16 ans NC→N1 ; 13/14 ans NC→N1",
-      "first_seen": "2026-10-05T13:56:30+02:00"
     },
     {
       "id": "MOJA_220065",
@@ -154,6 +141,19 @@
       "distance": "12,9 km",
       "epreuves": "Senior NC→30/1",
       "first_seen": "2026-10-04T09:56:47+02:00"
+    },
+    {
+      "id": "MOJA_308761",
+      "name": "TMC Hommes 30/1 15/4",
+      "date_start": "2026-10-16",
+      "date_end": "2026-10-18",
+      "location": {
+        "club": "PIERRELAYE (CS)",
+        "city": "PIERRELAYE"
+      },
+      "distance": "18,6 km",
+      "epreuves": "Senior 30/1→15/4",
+      "first_seen": "2026-10-07T13:27:13+02:00"
     },
     {
       "id": "MOJA_196943",
@@ -676,6 +676,19 @@
       "first_seen": "2026-10-04T09:56:47+02:00"
     },
     {
+      "id": "MOJA_312362",
+      "name": "TMC 13/14 ans et 15/16 ans ",
+      "date_start": "2026-10-20",
+      "date_end": "2026-10-20",
+      "location": {
+        "club": "LE PETIT SMASH",
+        "city": "PUTEAUX"
+      },
+      "distance": "6,1 km",
+      "epreuves": "13/14 ans NC→N1 ; 15/16 ans NC→N1",
+      "first_seen": "2026-10-07T13:27:13+02:00"
+    },
+    {
       "id": "MOJA_292952",
       "name": "Tournoi 4ème série Herblay LA RESIDENCE",
       "date_start": "2026-10-21",
@@ -1014,6 +1027,19 @@
       "first_seen": "2026-10-04T09:56:47+02:00"
     },
     {
+      "id": "MOJA_312057",
+      "name": "TOURNOI 11/14 NC à 30 et 15/16 ans 40 à 15/1",
+      "date_start": "2026-10-25",
+      "date_end": "2026-10-30",
+      "location": {
+        "club": "AS CERCLE DU BOIS DE BOULOGNE",
+        "city": "PARIS 16"
+      },
+      "distance": "4,4 km",
+      "epreuves": "15/16 ans NC→15/1 ; 13/14 ans NC→N1",
+      "first_seen": "2026-10-07T13:27:13+02:00"
+    },
+    {
       "id": "MOJA_306481",
       "name": "Tournoi Toussaint TC Antony GPJeunes 92",
       "date_start": "2026-10-26",
@@ -1066,6 +1092,19 @@
       "first_seen": "2026-10-06T13:37:16+02:00"
     },
     {
+      "id": "MOJA_312060",
+      "name": "TMC 15/16 ans garçons 15/4 15/1",
+      "date_start": "2026-10-26",
+      "date_end": "2026-10-27",
+      "location": {
+        "club": "AS CERCLE DU BOIS DE BOULOGNE",
+        "city": "PARIS 16"
+      },
+      "distance": "4,4 km",
+      "epreuves": "15/16 ans NC→N1",
+      "first_seen": "2026-10-07T13:27:13+02:00"
+    },
+    {
       "id": "MOJA_310315",
       "name": "TMC 13/14 ANS",
       "date_start": "2026-10-27",
@@ -1077,6 +1116,19 @@
       "distance": "6,1 km",
       "epreuves": "13/14 ans NC→N1",
       "first_seen": "2026-10-04T09:56:47+02:00"
+    },
+    {
+      "id": "MOJA_312086",
+      "name": "TOURNOI garçons 11/14 NC à 30 et 15/16 40 à 15/1",
+      "date_start": "2026-10-27",
+      "date_end": "2026-10-30",
+      "location": {
+        "club": "AS CERCLE DU BOIS DE BOULOGNE",
+        "city": "PARIS 16"
+      },
+      "distance": "4,4 km",
+      "epreuves": "13/14 ans NC→30 ; 15/16 ans 40→15/1",
+      "first_seen": "2026-10-07T13:27:13+02:00"
     },
     {
       "id": "MOJA_300780",
@@ -1118,6 +1170,19 @@
       "first_seen": "2026-10-04T09:56:47+02:00"
     },
     {
+      "id": "MOJA_308763",
+      "name": "TMC Hommes 4S",
+      "date_start": "2026-10-30",
+      "date_end": "2026-11-01",
+      "location": {
+        "club": "PIERRELAYE (CS)",
+        "city": "PIERRELAYE"
+      },
+      "distance": "18,6 km",
+      "epreuves": "Senior 40→30/1",
+      "first_seen": "2026-10-07T13:27:13+02:00"
+    },
+    {
       "id": "MOJA_309571",
       "name": "TMC ADULTES 30/4 à 30/1",
       "date_start": "2026-10-30",
@@ -1142,6 +1207,19 @@
       "distance": "18,6 km",
       "epreuves": "Senior NC→15/1",
       "first_seen": "2026-10-04T09:56:47+02:00"
+    },
+    {
+      "id": "MOJA_313143",
+      "name": "TMC HOMME JOURNEE ",
+      "date_start": "2026-10-31",
+      "date_end": "2026-10-31",
+      "location": {
+        "club": "LE PETIT SMASH",
+        "city": "PARIS 16"
+      },
+      "distance": "5,4 km",
+      "epreuves": "Senior NC→30",
+      "first_seen": "2026-10-07T13:27:13+02:00"
     },
     {
       "id": "MOJA_220032",
@@ -1220,6 +1298,19 @@
       "distance": "18,6 km",
       "epreuves": "Senior NC→15/1",
       "first_seen": "2026-10-04T09:56:47+02:00"
+    },
+    {
+      "id": "MOJA_311865",
+      "name": "TMC 11/12 ET 13/14 ANS ",
+      "date_start": "2026-11-11",
+      "date_end": "2026-11-11",
+      "location": {
+        "club": "LE PETIT SMASH",
+        "city": "PUTEAUX"
+      },
+      "distance": "6,1 km",
+      "epreuves": "13/14 ans NC→N1",
+      "first_seen": "2026-10-07T13:27:13+02:00"
     },
     {
       "id": "MOJA_220077",
@@ -1311,6 +1402,19 @@
       "distance": "18,6 km",
       "epreuves": "Senior NC→15/1",
       "first_seen": "2026-10-06T13:37:16+02:00"
+    },
+    {
+      "id": "MOJA_220084",
+      "name": "TMC MESSIEURS DIMANCHE 06/12/26 - LASA SPORT 2027",
+      "date_start": "2026-12-06",
+      "date_end": "2026-12-06",
+      "location": {
+        "club": "LASA SPORT ORGANISATION",
+        "city": "MONTREUIL"
+      },
+      "distance": "18,6 km",
+      "epreuves": "Senior NC→15/1",
+      "first_seen": "2026-10-07T13:27:13+02:00"
     }
   ]
 }
