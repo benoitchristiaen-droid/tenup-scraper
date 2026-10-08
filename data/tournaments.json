@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "last_scrape": "2026-10-07T13:27:13+02:00",
-    "tournament_count": 108,
+    "last_scrape": "2026-10-08T13:42:09+02:00",
+    "tournament_count": 116,
     "scrape_params": {
       "city": "Saint-Cloud, 92210",
       "distance_km": 20,
@@ -624,6 +624,19 @@
       "first_seen": "2026-10-04T09:56:47+02:00"
     },
     {
+      "id": "MOJA_310232",
+      "name": "TMC DE LA TOUSSAINT 11/14 ANS DE CLICHY - TOURNOI JEUNES",
+      "date_start": "2026-10-19",
+      "date_end": "2026-10-23",
+      "location": {
+        "club": "CLICHY (CS)",
+        "city": "CLICHY"
+      },
+      "distance": "9,8 km",
+      "epreuves": "13/14 ans NC→N1",
+      "first_seen": "2026-10-08T13:42:09+02:00"
+    },
+    {
       "id": "MOJA_310320",
       "name": "TMC 30/4-30/1",
       "date_start": "2026-10-19",
@@ -648,6 +661,19 @@
       "distance": "15,8 km",
       "epreuves": "13/14 ans NC→N1 ; 15/16 ans NC→N1",
       "first_seen": "2026-10-05T13:56:30+02:00"
+    },
+    {
+      "id": "MOJA_312096",
+      "name": "TCPJ Toussaint :Horaires des matchs en description",
+      "date_start": "2026-10-19",
+      "date_end": "2026-11-01",
+      "location": {
+        "club": "TENNIS CLUB PARISIEN DE JOINVILLE",
+        "city": "PARIS 12"
+      },
+      "distance": "17,6 km",
+      "epreuves": "13/14 ans NC→30/1 ; Senior NC→30/1",
+      "first_seen": "2026-10-08T13:42:09+02:00"
     },
     {
       "id": "MOJA_306172",
@@ -845,6 +871,19 @@
       "first_seen": "2026-10-04T09:56:47+02:00"
     },
     {
+      "id": "MOJA_310111",
+      "name": "TMC Messieurs 18:00 - 22:00   30/1",
+      "date_start": "2026-10-23",
+      "date_end": "2026-10-23",
+      "location": {
+        "club": "LA CHATAIGNERAIE (TC)",
+        "city": "RUEIL MALMAISON"
+      },
+      "distance": "2,9 km",
+      "epreuves": "Senior 30/1→30/1",
+      "first_seen": "2026-10-08T13:42:09+02:00"
+    },
+    {
       "id": "MOJA_213065",
       "name": "grand tournoi d'automne",
       "date_start": "2026-10-24",
@@ -937,7 +976,7 @@
     },
     {
       "id": "MOJA_300500",
-      "name": "TCIM - Tournois 13/14 ans - Toussaint",
+      "name": "TCIM - Tournoi 13/14 ans - Toussaint - GPJeunes 92",
       "date_start": "2026-10-24",
       "date_end": "2026-11-01",
       "location": {
@@ -999,6 +1038,19 @@
       "distance": "14,8 km",
       "epreuves": "Senior 30/1→15/4",
       "first_seen": "2026-10-04T09:56:47+02:00"
+    },
+    {
+      "id": "MOJA_312270",
+      "name": "TMC 4 ème série",
+      "date_start": "2026-10-24",
+      "date_end": "2026-10-25",
+      "location": {
+        "club": "TC DUGNY",
+        "city": "DUGNY"
+      },
+      "distance": "18,9 km",
+      "epreuves": "Senior 30/5→30/1",
+      "first_seen": "2026-10-08T13:42:09+02:00"
     },
     {
       "id": "MOJA_288860",
@@ -1170,6 +1222,19 @@
       "first_seen": "2026-10-04T09:56:47+02:00"
     },
     {
+      "id": "MOJA_310118",
+      "name": "TMC Messieurs 18:00 - 22:00  30/2...30/1",
+      "date_start": "2026-10-29",
+      "date_end": "2026-10-29",
+      "location": {
+        "club": "LA CHATAIGNERAIE (TC)",
+        "city": "RUEIL MALMAISON"
+      },
+      "distance": "2,9 km",
+      "epreuves": "Senior 30/2→30/1",
+      "first_seen": "2026-10-08T13:42:09+02:00"
+    },
+    {
       "id": "MOJA_308763",
       "name": "TMC Hommes 4S",
       "date_start": "2026-10-30",
@@ -1246,6 +1311,19 @@
       "distance": "18,6 km",
       "epreuves": "Senior NC→15/1",
       "first_seen": "2026-10-04T09:56:47+02:00"
+    },
+    {
+      "id": "MOJA_312098",
+      "name": "Novembre : 23h en Sénior, à 7h en +40, journée +35",
+      "date_start": "2026-11-02",
+      "date_end": "2026-11-15",
+      "location": {
+        "club": "TENNIS CLUB PARISIEN DE JOINVILLE",
+        "city": "PARIS 12"
+      },
+      "distance": "17,6 km",
+      "epreuves": "Senior NC→30/1",
+      "first_seen": "2026-10-08T13:42:09+02:00"
     },
     {
       "id": "MOJA_307969",
@@ -1339,6 +1417,19 @@
       "first_seen": "2026-10-04T09:56:47+02:00"
     },
     {
+      "id": "MOJA_312100",
+      "name": "Nov2 : 23h en Sénior, à 7h en +40, journée +35",
+      "date_start": "2026-11-16",
+      "date_end": "2026-11-29",
+      "location": {
+        "club": "TENNIS CLUB PARISIEN DE JOINVILLE",
+        "city": "PARIS 12"
+      },
+      "distance": "17,6 km",
+      "epreuves": "Senior NC→30/1",
+      "first_seen": "2026-10-08T13:42:09+02:00"
+    },
+    {
       "id": "MOJA_220079",
       "name": "TMC MESSIEURS SAMEDI 21/11/26 - LASA SPORT 2027",
       "date_start": "2026-11-21",
@@ -1389,6 +1480,19 @@
       "distance": "18,6 km",
       "epreuves": "Senior NC→15/1",
       "first_seen": "2026-10-04T09:56:47+02:00"
+    },
+    {
+      "id": "MOJA_312102",
+      "name": "Dec1 : 23h en Sénior, à 7h en +40, journée +35",
+      "date_start": "2026-11-30",
+      "date_end": "2026-12-13",
+      "location": {
+        "club": "TENNIS CLUB PARISIEN DE JOINVILLE",
+        "city": "PARIS 12"
+      },
+      "distance": "17,6 km",
+      "epreuves": "Senior NC→30/1",
+      "first_seen": "2026-10-08T13:42:09+02:00"
     },
     {
       "id": "MOJA_220083",
