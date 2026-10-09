@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "last_scrape": "2026-10-08T13:42:09+02:00",
-    "tournament_count": 116,
+    "last_scrape": "2026-10-09T13:35:51+02:00",
+    "tournament_count": 117,
     "scrape_params": {
       "city": "Saint-Cloud, 92210",
       "distance_km": 20,
@@ -1480,6 +1480,19 @@
       "distance": "18,6 km",
       "epreuves": "Senior NC→15/1",
       "first_seen": "2026-10-04T09:56:47+02:00"
+    },
+    {
+      "id": "MOJA_313831",
+      "name": "TMC Morangis SOIREE Messieurs 30/3 à 30/1",
+      "date_start": "2026-11-28",
+      "date_end": "2026-11-28",
+      "location": {
+        "club": "T.M. MORANGIS",
+        "city": "MORANGIS"
+      },
+      "distance": "18,6 km",
+      "epreuves": "Senior 30/3→30/1",
+      "first_seen": "2026-10-09T13:35:51+02:00"
     },
     {
       "id": "MOJA_312102",
