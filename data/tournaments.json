@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "last_scrape": "2026-10-12T14:35:09+02:00",
-    "tournament_count": 117,
+    "last_scrape": "2026-10-14T11:52:34+02:00",
+    "tournament_count": 124,
     "scrape_params": {
       "city": "Saint-Cloud, 92210",
       "distance_km": 20,
@@ -624,6 +624,32 @@
       "first_seen": "2026-10-08T13:42:09+02:00"
     },
     {
+      "id": "MOJA_314266",
+      "name": "TMC H salésienne  30/1 15/3 ",
+      "date_start": "2026-10-19",
+      "date_end": "2026-10-23",
+      "location": {
+        "club": "SALESIENNE DE PARIS 17EME",
+        "city": "PARIS 17"
+      },
+      "distance": "8,0 km",
+      "epreuves": "Senior 30/1→15/3",
+      "first_seen": "2026-10-14T11:52:34+02:00"
+    },
+    {
+      "id": "MOJA_314267",
+      "name": "TMC 15/16  G et F Salésienne Octobre 30/2 15/3",
+      "date_start": "2026-10-19",
+      "date_end": "2026-10-23",
+      "location": {
+        "club": "SALESIENNE DE PARIS 17EME",
+        "city": "PARIS 17"
+      },
+      "distance": "8,0 km",
+      "epreuves": "15/16 ans 30/2→15/3",
+      "first_seen": "2026-10-14T11:52:34+02:00"
+    },
+    {
       "id": "MOJA_306172",
       "name": "UMT Stade Français Octobre 1 Jeune 4° série ",
       "date_start": "2026-10-20",
@@ -726,6 +752,19 @@
       "distance": "19,3 km",
       "epreuves": "Senior 30/4→30/1",
       "first_seen": "2026-10-04T09:56:47+02:00"
+    },
+    {
+      "id": "MOJA_314860",
+      "name": "TMC 13/14 ans Garçons",
+      "date_start": "2026-10-21",
+      "date_end": "2026-10-23",
+      "location": {
+        "club": "MEUDON TENNIS (AS)",
+        "city": "MEUDON"
+      },
+      "distance": "5,4 km",
+      "epreuves": "13/14 ans 40→30",
+      "first_seen": "2026-10-14T11:52:34+02:00"
     },
     {
       "id": "MOJA_290876",
@@ -1235,6 +1274,19 @@
       "first_seen": "2026-10-04T09:56:47+02:00"
     },
     {
+      "id": "MOJA_300161",
+      "name": "TMC PUTEAUX 13/14 ans",
+      "date_start": "2026-10-31",
+      "date_end": "2026-10-31",
+      "location": {
+        "club": "LE PETIT SMASH",
+        "city": "PUTEAUX"
+      },
+      "distance": "6,1 km",
+      "epreuves": "13/14 ans NC→N1",
+      "first_seen": "2026-10-14T11:52:34+02:00"
+    },
+    {
       "id": "MOJA_312584",
       "name": "TMC Hommes",
       "date_start": "2026-10-31",
@@ -1532,6 +1584,45 @@
       "distance": "18,6 km",
       "epreuves": "Senior NC→15/1",
       "first_seen": "2026-10-07T13:27:13+02:00"
+    },
+    {
+      "id": "MOJA_220085",
+      "name": "TMC MESSIEURS SAMEDI 12/12/26 - LASA SPORT 2027",
+      "date_start": "2026-12-12",
+      "date_end": "2026-12-12",
+      "location": {
+        "club": "LASA SPORT ORGANISATION",
+        "city": "MONTREUIL"
+      },
+      "distance": "18,6 km",
+      "epreuves": "Senior NC→15/1",
+      "first_seen": "2026-10-14T11:52:34+02:00"
+    },
+    {
+      "id": "MOJA_313832",
+      "name": "TMC Morangis SOIREE Messieurs 30/3 à 30",
+      "date_start": "2026-12-12",
+      "date_end": "2026-12-12",
+      "location": {
+        "club": "T.M. MORANGIS",
+        "city": "MORANGIS"
+      },
+      "distance": "18,6 km",
+      "epreuves": "Senior 30/3→30",
+      "first_seen": "2026-10-14T11:52:34+02:00"
+    },
+    {
+      "id": "MOJA_220086",
+      "name": "TMC MESSIEURS DIMANCHE 13/12/26 - LASA SPORT 2027",
+      "date_start": "2026-12-13",
+      "date_end": "2026-12-13",
+      "location": {
+        "club": "LASA SPORT ORGANISATION",
+        "city": "MONTREUIL"
+      },
+      "distance": "18,6 km",
+      "epreuves": "Senior NC→15/1",
+      "first_seen": "2026-10-14T11:52:34+02:00"
     }
   ]
 }
