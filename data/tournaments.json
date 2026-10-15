@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "last_scrape": "2026-10-14T11:52:34+02:00",
-    "tournament_count": 124,
+    "last_scrape": "2026-10-15T11:33:21+02:00",
+    "tournament_count": 129,
     "scrape_params": {
       "city": "Saint-Cloud, 92210",
       "distance_km": 20,
@@ -555,7 +555,7 @@
         "city": "ORSAY"
       },
       "distance": "18,2 km",
-      "epreuves": "13/14 ans 30/3→15/5",
+      "epreuves": "13/14 ans 30/4→30",
       "first_seen": "2026-10-04T09:56:47+02:00"
     },
     {
@@ -1053,6 +1053,19 @@
       "first_seen": "2026-10-08T13:42:09+02:00"
     },
     {
+      "id": "MOJA_315930",
+      "name": "JSA TENNIS TMC NC-30/1",
+      "date_start": "2026-10-24",
+      "date_end": "2026-10-24",
+      "location": {
+        "club": "J.S.A. Tennis Club",
+        "city": "MAISONS ALFORT"
+      },
+      "distance": "17,1 km",
+      "epreuves": "Senior NC→30/1",
+      "first_seen": "2026-10-15T11:33:21+02:00"
+    },
+    {
       "id": "MOJA_288860",
       "name": "TMC  Messieurs  16:00 - 20:00  de  30/2...30/1",
       "date_start": "2026-10-25",
@@ -1090,6 +1103,19 @@
       "distance": "4,4 km",
       "epreuves": "15/16 ans NC→15/1 ; 13/14 ans NC→N1",
       "first_seen": "2026-10-07T13:27:13+02:00"
+    },
+    {
+      "id": "MOJA_315934",
+      "name": "JSA TENNIS TMC NC-30/1",
+      "date_start": "2026-10-25",
+      "date_end": "2026-10-25",
+      "location": {
+        "club": "J.S.A. Tennis Club",
+        "city": "MAISONS ALFORT"
+      },
+      "distance": "17,1 km",
+      "epreuves": "Senior NC→30/1",
+      "first_seen": "2026-10-15T11:33:21+02:00"
     },
     {
       "id": "MOJA_306481",
@@ -1157,6 +1183,19 @@
       "first_seen": "2026-10-07T13:27:13+02:00"
     },
     {
+      "id": "MOJA_315935",
+      "name": "JSA TENNIS TMC NC-30/1",
+      "date_start": "2026-10-26",
+      "date_end": "2026-10-26",
+      "location": {
+        "club": "J.S.A. Tennis Club",
+        "city": "MAISONS ALFORT"
+      },
+      "distance": "17,1 km",
+      "epreuves": "Senior NC→30/1",
+      "first_seen": "2026-10-15T11:33:21+02:00"
+    },
+    {
       "id": "MOJA_310315",
       "name": "TMC 13/14 ANS",
       "date_start": "2026-10-27",
@@ -1181,6 +1220,19 @@
       "distance": "4,4 km",
       "epreuves": "13/14 ans NC→30 ; 15/16 ans 40→15/1",
       "first_seen": "2026-10-07T13:27:13+02:00"
+    },
+    {
+      "id": "MOJA_315951",
+      "name": "TMC JEUNES JSA TENNIS NC-30/1",
+      "date_start": "2026-10-27",
+      "date_end": "2026-10-27",
+      "location": {
+        "club": "J.S.A. Tennis Club",
+        "city": "MAISONS ALFORT"
+      },
+      "distance": "17,1 km",
+      "epreuves": "13/14 ans NC→30/1",
+      "first_seen": "2026-10-15T11:33:21+02:00"
     },
     {
       "id": "MOJA_300780",
@@ -1350,6 +1402,19 @@
       "distance": "17,6 km",
       "epreuves": "Senior NC→30/1",
       "first_seen": "2026-10-08T13:42:09+02:00"
+    },
+    {
+      "id": "MOJA_315876",
+      "name": "Tournoi Automne senior 30/4-15/1 JOURNEE TC ANTONY",
+      "date_start": "2026-11-02",
+      "date_end": "2026-12-18",
+      "location": {
+        "club": "ANTONY (TC)",
+        "city": "ANTONY"
+      },
+      "distance": "12,8 km",
+      "epreuves": "Senior 30/4→15/1",
+      "first_seen": "2026-10-15T11:33:21+02:00"
     },
     {
       "id": "MOJA_307969",
