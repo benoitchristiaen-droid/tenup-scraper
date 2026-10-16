@@ -2,9 +2,9 @@
 title: Tournois TenUp
 ---
 
-# Tournois de tennis à venir (129)
+# Tournois de tennis à venir (130)
 
-_Dernière mise à jour : 2026-10-15T11:33:21+02:00_  
+_Dernière mise à jour : 2026-10-16T11:26:23+02:00_  
 _Recherche : ville **Saint-Cloud, 92210**, rayon **20 km**, éligible **30/1**, épreuves **SM**, 13/14 ans, 15/16 ans et Seniors, hors tournois en journée (sauf week-end et vacances zone C)._
 
 <table class="tournaments">
@@ -128,6 +128,7 @@ _Recherche : ville **Saint-Cloud, 92210**, rayon **20 km**, éligible **30/1**, 
     <tr><td>2026-11-15</td><td><a href="https://tenup.fft.fr/tournoi/MOJA_313709" target="_blank" rel="noopener noreferrer">TMC 11/12 et 13/14 ans</a></td><td>LE PETIT SMASH</td><td>PUTEAUX</td><td>6,1 km</td><td>13/14 ans NC→N1</td></tr>
     <tr><td>2026-11-16 → 2026-11-29</td><td><a href="https://tenup.fft.fr/tournoi/MOJA_312100" target="_blank" rel="noopener noreferrer">Nov2 : 23h en Sénior, à 7h en +40, journée +35</a></td><td>TENNIS CLUB PARISIEN DE JOINVILLE</td><td>PARIS 12</td><td>17,6 km</td><td>Senior NC→30/1</td></tr>
     <tr><td>2026-11-21</td><td><a href="https://tenup.fft.fr/tournoi/MOJA_220079" target="_blank" rel="noopener noreferrer">TMC MESSIEURS SAMEDI 21/11/26 - LASA SPORT 2027</a></td><td>LASA SPORT ORGANISATION</td><td>MONTREUIL</td><td>18,6 km</td><td>Senior NC→15/1</td></tr>
+    <tr class="is-new"><td>2026-11-21</td><td><a href="https://tenup.fft.fr/tournoi/MOJA_317155" target="_blank" rel="noopener noreferrer">TMC Morangis SOIREE Messieurs 30/2 à 15/5</a> <span class="new-badge">NEW</span></td><td>T.M. MORANGIS</td><td>MORANGIS</td><td>18,6 km</td><td>Senior 30/2→15/5</td></tr>
     <tr><td>2026-11-22</td><td><a href="https://tenup.fft.fr/tournoi/MOJA_220080" target="_blank" rel="noopener noreferrer">TMC MESSIEURS DIMANCHE 22/11/26 - LASA SPORT 2027</a></td><td>LASA SPORT ORGANISATION</td><td>MONTREUIL</td><td>18,6 km</td><td>Senior NC→15/1</td></tr>
     <tr><td>2026-11-22</td><td><a href="https://tenup.fft.fr/tournoi/MOJA_313711" target="_blank" rel="noopener noreferrer">TMC 13/14 ANS</a></td><td>LE PETIT SMASH</td><td>PUTEAUX</td><td>6,1 km</td><td>13/14 ans NC→N1</td></tr>
     <tr><td>2026-11-28 → 2026-12-31</td><td><a href="https://tenup.fft.fr/tournoi/MOJA_213849" target="_blank" rel="noopener noreferrer">LES PETITS AS TC PLAISIR</a></td><td>T.C. PLAISIR</td><td>PLAISIR</td><td>19,1 km</td><td>13/14 ans NC→N1</td></tr>
