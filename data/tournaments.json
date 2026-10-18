@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "last_scrape": "2026-10-17T10:56:35+02:00",
-    "tournament_count": 124,
+    "last_scrape": "2026-10-18T11:15:14+02:00",
+    "tournament_count": 107,
     "scrape_params": {
       "city": "Saint-Cloud, 92210",
       "distance_km": 20,
@@ -12,240 +12,6 @@
     }
   },
   "tournaments": [
-    {
-      "id": "MOJA_196943",
-      "name": "Tournoi 4e-3e Séries de la Toussaint US Villejuif",
-      "date_start": "2026-10-17",
-      "date_end": "2026-11-01",
-      "location": {
-        "club": "US VILLEJUIF",
-        "city": "VILLEJUIF"
-      },
-      "distance": "11,7 km",
-      "epreuves": "Senior NC→15/1",
-      "first_seen": "2026-10-04T09:56:47+02:00"
-    },
-    {
-      "id": "MOJA_213430",
-      "name": "Tournoi Jeunes 11/18 ans",
-      "date_start": "2026-10-17",
-      "date_end": "2026-10-24",
-      "location": {
-        "club": "T.C. VILLENNES",
-        "city": "VILLENNES SUR SEINE"
-      },
-      "distance": "18,7 km",
-      "epreuves": "13/14 ans NC→N1",
-      "first_seen": "2026-10-04T09:56:47+02:00"
-    },
-    {
-      "id": "MOJA_213495",
-      "name": "tournoi jeune d'automne de Minorange",
-      "date_start": "2026-10-17",
-      "date_end": "2026-11-01",
-      "location": {
-        "club": "A.S. MINORANGE",
-        "city": "GUYANCOURT"
-      },
-      "distance": "14,1 km",
-      "epreuves": "13/14 ans NC→N1 ; 15/16 ans NC→N1",
-      "first_seen": "2026-10-04T09:56:47+02:00"
-    },
-    {
-      "id": "MOJA_218961",
-      "name": "TCH - Tournoi Adultes NC à 0 ",
-      "date_start": "2026-10-17",
-      "date_end": "2026-11-02",
-      "location": {
-        "club": "T.C. HOUILLES",
-        "city": "HOUILLES"
-      },
-      "distance": "8,6 km",
-      "epreuves": "Senior NC→0",
-      "first_seen": "2026-10-04T09:56:47+02:00"
-    },
-    {
-      "id": "MOJA_219712",
-      "name": "TOURNOI AVG TENNIS ",
-      "date_start": "2026-10-17",
-      "date_end": "2026-11-01",
-      "location": {
-        "club": "VILLENEUVE-LA-GARENNE (AMICALE)",
-        "city": "VILLENEUVE LA GARENNE"
-      },
-      "distance": "13,2 km",
-      "epreuves": "Senior NC→0",
-      "first_seen": "2026-10-04T09:56:47+02:00"
-    },
-    {
-      "id": "MOJA_220066",
-      "name": "TMC MESSIEURS SAMEDI 17/10/26 - LASA SPORT 2027",
-      "date_start": "2026-10-17",
-      "date_end": "2026-10-17",
-      "location": {
-        "club": "LASA SPORT ORGANISATION",
-        "city": "MONTREUIL"
-      },
-      "distance": "18,6 km",
-      "epreuves": "Senior NC→15/1",
-      "first_seen": "2026-10-04T09:56:47+02:00"
-    },
-    {
-      "id": "MOJA_221210",
-      "name": "Tournoi GPJ Tennis Club Gennevillois",
-      "date_start": "2026-10-17",
-      "date_end": "2026-10-25",
-      "location": {
-        "club": "GENNEVILLOIS (TC)",
-        "city": "GENNEVILLIERS"
-      },
-      "distance": "11,4 km",
-      "epreuves": "13/14 ans NC→N1",
-      "first_seen": "2026-10-04T09:56:47+02:00"
-    },
-    {
-      "id": "MOJA_288117",
-      "name": "TOURNOI OPEN JEUNES DU MONTMORENCY TENNIS CLUB",
-      "date_start": "2026-10-17",
-      "date_end": "2026-10-23",
-      "location": {
-        "club": "MONTMORENCY TC",
-        "city": "MONTMORENCY"
-      },
-      "distance": "17,7 km",
-      "epreuves": "15/16 ans NC→N1 ; 13/14 ans NC→N1",
-      "first_seen": "2026-10-04T09:56:47+02:00"
-    },
-    {
-      "id": "MOJA_289767",
-      "name": "OPEN TOUSSAINT COLOMBES TENNIS CLUB",
-      "date_start": "2026-10-17",
-      "date_end": "2026-11-01",
-      "location": {
-        "club": "COLOMBES (TC)",
-        "city": "COLOMBES"
-      },
-      "distance": "8,8 km",
-      "epreuves": "Senior NC→N1",
-      "first_seen": "2026-10-04T09:56:47+02:00"
-    },
-    {
-      "id": "MOJA_292936",
-      "name": "Tournoi Pré Qualification Petits As Herblay",
-      "date_start": "2026-10-17",
-      "date_end": "2026-11-01",
-      "location": {
-        "club": "HERBLAY (AST)",
-        "city": "HERBLAY"
-      },
-      "distance": "17,6 km",
-      "epreuves": "13/14 ans NC→N1",
-      "first_seen": "2026-10-04T09:56:47+02:00"
-    },
-    {
-      "id": "MOJA_292937",
-      "name": "Tournoi Jeunes Herblay",
-      "date_start": "2026-10-17",
-      "date_end": "2026-11-01",
-      "location": {
-        "club": "HERBLAY (AST)",
-        "city": "HERBLAY"
-      },
-      "distance": "17,6 km",
-      "epreuves": "15/16 ans NC→N1",
-      "first_seen": "2026-10-04T09:56:47+02:00"
-    },
-    {
-      "id": "MOJA_299608",
-      "name": "Tournoi Open 15/16 ans du TCBB",
-      "date_start": "2026-10-17",
-      "date_end": "2026-11-01",
-      "location": {
-        "club": "BOULOGNE BILLANCOURT (TC)",
-        "city": "BOULOGNE BILLANCOURT"
-      },
-      "distance": "1,9 km",
-      "epreuves": "15/16 ans NC→N1",
-      "first_seen": "2026-10-04T09:56:47+02:00"
-    },
-    {
-      "id": "MOJA_301041",
-      "name": "TMC 13/14 ANS DE STAINS 30/3 - 15/5 ",
-      "date_start": "2026-10-17",
-      "date_end": "2026-10-18",
-      "location": {
-        "club": "ESPERANCE SPORTIVE STAINS",
-        "city": "STAINS"
-      },
-      "distance": "17,9 km",
-      "epreuves": "13/14 ans 30/3→15/5",
-      "first_seen": "2026-10-04T09:56:47+02:00"
-    },
-    {
-      "id": "MOJA_301322",
-      "name": "Jeunes Toussaint AT Neuilly 2026",
-      "date_start": "2026-10-17",
-      "date_end": "2026-10-25",
-      "location": {
-        "club": "NEUILLY (AT)",
-        "city": "NEUILLY SUR SEINE"
-      },
-      "distance": "5,7 km",
-      "epreuves": "15/16 ans NC→N1",
-      "first_seen": "2026-10-04T09:56:47+02:00"
-    },
-    {
-      "id": "MOJA_305717",
-      "name": "Pré qualif open Stade Francais, TCP",
-      "date_start": "2026-10-17",
-      "date_end": "2026-10-24",
-      "location": {
-        "club": "TENNIS CLUB DE PARIS",
-        "city": "PARIS 16"
-      },
-      "distance": "3,8 km",
-      "epreuves": "13/14 ans NC→N1",
-      "first_seen": "2026-10-04T09:56:47+02:00"
-    },
-    {
-      "id": "MOJA_305832",
-      "name": "CHATILLON (TCMC)",
-      "date_start": "2026-10-17",
-      "date_end": "2026-10-24",
-      "location": {
-        "club": "CHATILLONNAIS (TCM)",
-        "city": "CHATILLON"
-      },
-      "distance": "7,3 km",
-      "epreuves": "13/14 ans NC→N1",
-      "first_seen": "2026-10-04T09:56:47+02:00"
-    },
-    {
-      "id": "MOJA_308572",
-      "name": "Tournoi Jeunes toussaint 2026",
-      "date_start": "2026-10-17",
-      "date_end": "2026-10-24",
-      "location": {
-        "club": "PARIS UNIVERSITE CLUB",
-        "city": "PARIS 13"
-      },
-      "distance": "10,4 km",
-      "epreuves": "13/14 ans NC→N1",
-      "first_seen": "2026-10-04T09:56:47+02:00"
-    },
-    {
-      "id": "MOJA_311771",
-      "name": "Tournoi Vert Jeunes 11/18 ans",
-      "date_start": "2026-10-17",
-      "date_end": "2026-10-18",
-      "location": {
-        "club": "TENNISPORT",
-        "city": "GIF SUR YVETTE"
-      },
-      "distance": "15,8 km",
-      "epreuves": "13/14 ans NC→N1",
-      "first_seen": "2026-10-05T13:56:30+02:00"
-    },
     {
       "id": "MOJA_208330",
       "name": "L'Haÿween SD + SM (40 à 15/1)",
@@ -518,19 +284,6 @@
       "distance": "1,4 km",
       "epreuves": "Senior 30/4→30/1",
       "first_seen": "2026-10-04T09:56:47+02:00"
-    },
-    {
-      "id": "MOJA_311795",
-      "name": "Tournoi Vert Jeunes 11/18 ans",
-      "date_start": "2026-10-19",
-      "date_end": "2026-10-24",
-      "location": {
-        "club": "TENNISPORT",
-        "city": "GIF SUR YVETTE"
-      },
-      "distance": "15,8 km",
-      "epreuves": "13/14 ans NC→N1 ; 15/16 ans NC→N1",
-      "first_seen": "2026-10-05T13:56:30+02:00"
     },
     {
       "id": "MOJA_312096",
@@ -1623,6 +1376,32 @@
       "distance": "18,6 km",
       "epreuves": "Senior NC→15/1",
       "first_seen": "2026-10-14T11:52:34+02:00"
+    },
+    {
+      "id": "MOJA_290779",
+      "name": "2ème CNCT l'Haÿ-les-Roses SD (30 à n°1) et SM (NC à 4/6)",
+      "date_start": "2026-12-17",
+      "date_end": "2027-01-03",
+      "location": {
+        "club": "C.A.L. TC L'HAY LES ROSES",
+        "city": "L HAY LES ROSES"
+      },
+      "distance": "12,4 km",
+      "epreuves": "Senior NC→4/6",
+      "first_seen": "2026-10-18T11:15:14+02:00"
+    },
+    {
+      "id": "MOJA_300453",
+      "name": "open CT CHAVILLE",
+      "date_start": "2026-12-17",
+      "date_end": "2027-01-05",
+      "location": {
+        "club": "CHAVILLE (CT)",
+        "city": "CHAVILLE"
+      },
+      "distance": "5,8 km",
+      "epreuves": "Senior NC→N1",
+      "first_seen": "2026-10-18T11:15:14+02:00"
     }
   ]
 }
