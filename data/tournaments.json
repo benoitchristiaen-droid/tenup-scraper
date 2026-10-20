@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "last_scrape": "2026-10-19T12:24:54+02:00",
-    "tournament_count": 96,
+    "last_scrape": "2026-10-20T11:45:00+02:00",
+    "tournament_count": 88,
     "scrape_params": {
       "city": "Saint-Cloud, 92210",
       "distance_km": 20,
@@ -12,175 +12,6 @@
     }
   },
   "tournaments": [
-    {
-      "id": "MOJA_288825",
-      "name": "Grand Prix Jeunes TOUSSAINT",
-      "date_start": "2026-10-19",
-      "date_end": "2026-10-30",
-      "location": {
-        "club": "LA CHATAIGNERAIE (TC)",
-        "city": "RUEIL MALMAISON"
-      },
-      "distance": "2,9 km",
-      "epreuves": "15/16 ans NC→N1 ; 13/14 ans NC→N1",
-      "first_seen": "2026-10-04T09:56:47+02:00"
-    },
-    {
-      "id": "MOJA_300486",
-      "name": "TMC AAE St Brice 4èmeS Messieurs ",
-      "date_start": "2026-10-19",
-      "date_end": "2026-10-20",
-      "location": {
-        "club": "SAINT BRICE (AAE)",
-        "city": "ST BRICE SOUS FORET"
-      },
-      "distance": "19,6 km",
-      "epreuves": "Senior 30/5→30",
-      "first_seen": "2026-10-04T09:56:47+02:00"
-    },
-    {
-      "id": "MOJA_300762",
-      "name": "TMC Jeunes",
-      "date_start": "2026-10-19",
-      "date_end": "2026-10-21",
-      "location": {
-        "club": "A.A.S. FRESNES",
-        "city": "FRESNES"
-      },
-      "distance": "13,5 km",
-      "epreuves": "13/14 ans 30/2→15/4",
-      "first_seen": "2026-10-04T09:56:47+02:00"
-    },
-    {
-      "id": "MOJA_302269",
-      "name": "TOURNOI JEUNES DE STAINS ",
-      "date_start": "2026-10-19",
-      "date_end": "2026-11-01",
-      "location": {
-        "club": "ESPERANCE SPORTIVE STAINS",
-        "city": "STAINS"
-      },
-      "distance": "17,9 km",
-      "epreuves": "15/16 ans NC→N1 ; 13/14 ans NC→N1",
-      "first_seen": "2026-10-04T09:56:47+02:00"
-    },
-    {
-      "id": "MOJA_305244",
-      "name": "11/18 ans Clamart",
-      "date_start": "2026-10-19",
-      "date_end": "2026-10-23",
-      "location": {
-        "club": "CLAMART (TC)",
-        "city": "CLAMART"
-      },
-      "distance": "6,7 km",
-      "epreuves": "13/14 ans NC→N1 ; 15/16 ans NC→N1",
-      "first_seen": "2026-10-04T09:56:47+02:00"
-    },
-    {
-      "id": "MOJA_306203",
-      "name": "TMC Messieurs 30/3 à 30/1 - Après midi 14h à 19h30",
-      "date_start": "2026-10-19",
-      "date_end": "2026-10-19",
-      "location": {
-        "club": "ARSENAL CHATILLON (TC)",
-        "city": "CHATILLON"
-      },
-      "distance": "8,2 km",
-      "epreuves": "Senior 30/3→30/1",
-      "first_seen": "2026-10-04T09:56:47+02:00"
-    },
-    {
-      "id": "MOJA_306357",
-      "name": "TMC garçons 11/12 - 13/14 et 17/18 ans TC Orsay",
-      "date_start": "2026-10-19",
-      "date_end": "2026-10-22",
-      "location": {
-        "club": "T.C. ORSAY",
-        "city": "ORSAY"
-      },
-      "distance": "18,2 km",
-      "epreuves": "13/14 ans 30/4→30",
-      "first_seen": "2026-10-04T09:56:47+02:00"
-    },
-    {
-      "id": "MOJA_307867",
-      "name": "TMC JEUNES 30/1-15/3",
-      "date_start": "2026-10-19",
-      "date_end": "2026-10-20",
-      "location": {
-        "club": "T.C. LE CHESNAY TRIANON",
-        "city": "LE CHESNAY"
-      },
-      "distance": "7,5 km",
-      "epreuves": "15/16 ans 30/1→15/3",
-      "first_seen": "2026-10-04T09:56:47+02:00"
-    },
-    {
-      "id": "MOJA_310232",
-      "name": "TMC DE LA TOUSSAINT 11/14 ANS DE CLICHY - TOURNOI JEUNES",
-      "date_start": "2026-10-19",
-      "date_end": "2026-10-23",
-      "location": {
-        "club": "CLICHY (CS)",
-        "city": "CLICHY"
-      },
-      "distance": "9,8 km",
-      "epreuves": "13/14 ans NC→N1",
-      "first_seen": "2026-10-08T13:42:09+02:00"
-    },
-    {
-      "id": "MOJA_310320",
-      "name": "TMC 30/4-30/1",
-      "date_start": "2026-10-19",
-      "date_end": "2026-10-23",
-      "location": {
-        "club": "GARCHES TENNIS CLUB",
-        "city": "GARCHES"
-      },
-      "distance": "1,4 km",
-      "epreuves": "Senior 30/4→30/1",
-      "first_seen": "2026-10-04T09:56:47+02:00"
-    },
-    {
-      "id": "MOJA_312096",
-      "name": "TCPJ Toussaint :Horaires des matchs en description",
-      "date_start": "2026-10-19",
-      "date_end": "2026-11-01",
-      "location": {
-        "club": "TENNIS CLUB PARISIEN DE JOINVILLE",
-        "city": "PARIS 12"
-      },
-      "distance": "17,6 km",
-      "epreuves": "13/14 ans NC→30/1 ; Senior NC→30/1",
-      "first_seen": "2026-10-08T13:42:09+02:00"
-    },
-    {
-      "id": "MOJA_314266",
-      "name": "TMC H salésienne  30/1 15/3 ",
-      "date_start": "2026-10-19",
-      "date_end": "2026-10-23",
-      "location": {
-        "club": "SALESIENNE DE PARIS 17EME",
-        "city": "PARIS 17"
-      },
-      "distance": "8,0 km",
-      "epreuves": "Senior 30/1→15/3",
-      "first_seen": "2026-10-14T11:52:34+02:00"
-    },
-    {
-      "id": "MOJA_314267",
-      "name": "TMC 15/16  G et F Salésienne Octobre 30/2 15/3",
-      "date_start": "2026-10-19",
-      "date_end": "2026-10-23",
-      "location": {
-        "club": "SALESIENNE DE PARIS 17EME",
-        "city": "PARIS 17"
-      },
-      "distance": "8,0 km",
-      "epreuves": "15/16 ans 30/2→15/3",
-      "first_seen": "2026-10-14T11:52:34+02:00"
-    },
     {
       "id": "MOJA_306172",
       "name": "UMT Stade Français Octobre 1 Jeune 4° série ",
@@ -700,19 +531,6 @@
       "distance": "9,2 km",
       "epreuves": "Senior 30/5→30",
       "first_seen": "2026-10-06T13:37:16+02:00"
-    },
-    {
-      "id": "MOJA_312060",
-      "name": "TMC 15/16 ans garçons 15/4 15/1",
-      "date_start": "2026-10-26",
-      "date_end": "2026-10-27",
-      "location": {
-        "club": "AS CERCLE DU BOIS DE BOULOGNE",
-        "city": "PARIS 16"
-      },
-      "distance": "4,4 km",
-      "epreuves": "15/16 ans NC→N1",
-      "first_seen": "2026-10-07T13:27:13+02:00"
     },
     {
       "id": "MOJA_315935",
@@ -1259,6 +1077,84 @@
       "distance": "5,8 km",
       "epreuves": "Senior NC→N1",
       "first_seen": "2026-10-18T11:15:14+02:00"
+    },
+    {
+      "id": "MOJA_212188",
+      "name": "TOURNOI TC LES LILAS",
+      "date_start": "2026-12-19",
+      "date_end": "2027-01-03",
+      "location": {
+        "club": "TC LES LILAS",
+        "city": "LES LILAS"
+      },
+      "distance": "16,1 km",
+      "epreuves": "Senior NC→N1",
+      "first_seen": "2026-10-20T11:45:00+02:00"
+    },
+    {
+      "id": "MOJA_213006",
+      "name": "Tournoi 11/18 ans F/G",
+      "date_start": "2026-12-19",
+      "date_end": "2027-01-03",
+      "location": {
+        "club": "T.C. CROISSY SUR SEINE",
+        "city": "CROISSY SUR SEINE"
+      },
+      "distance": "7,1 km",
+      "epreuves": "15/16 ans NC→N1 ; 13/14 ans NC→N1",
+      "first_seen": "2026-10-20T11:45:00+02:00"
+    },
+    {
+      "id": "MOJA_213291",
+      "name": "TCH - Tournoi Open Jeunes 2027",
+      "date_start": "2026-12-19",
+      "date_end": "2027-01-03",
+      "location": {
+        "club": "T.C. HOUILLES",
+        "city": "HOUILLES"
+      },
+      "distance": "8,6 km",
+      "epreuves": "13/14 ans NC→N1 ; 15/16 ans NC→N1",
+      "first_seen": "2026-10-20T11:45:00+02:00"
+    },
+    {
+      "id": "MOJA_213725",
+      "name": "tournoi de noël",
+      "date_start": "2026-12-19",
+      "date_end": "2027-01-03",
+      "location": {
+        "club": "T.C. VELIZY VILLACOUBLAY",
+        "city": "VELIZY VILLACOUBLAY"
+      },
+      "distance": "8,2 km",
+      "epreuves": "Senior NC→N1",
+      "first_seen": "2026-10-20T11:45:00+02:00"
+    },
+    {
+      "id": "MOJA_220087",
+      "name": "TMC MESSIEURS SAMEDI 19/12/26 - LASA SPORT 2027",
+      "date_start": "2026-12-19",
+      "date_end": "2026-12-19",
+      "location": {
+        "club": "LASA SPORT ORGANISATION",
+        "city": "MONTREUIL"
+      },
+      "distance": "18,6 km",
+      "epreuves": "Senior NC→15/1",
+      "first_seen": "2026-10-20T11:45:00+02:00"
+    },
+    {
+      "id": "MOJA_317157",
+      "name": "TMC Morangis SOIREE Messieurs 30/4 à 30/1",
+      "date_start": "2026-12-19",
+      "date_end": "2026-12-19",
+      "location": {
+        "club": "T.M. MORANGIS",
+        "city": "MORANGIS"
+      },
+      "distance": "18,6 km",
+      "epreuves": "Senior 30/4→30/1",
+      "first_seen": "2026-10-20T11:45:00+02:00"
     }
   ]
 }
