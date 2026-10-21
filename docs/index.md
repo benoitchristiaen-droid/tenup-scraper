@@ -2,17 +2,14 @@
 title: Tournois TenUp
 ---
 
-# Tournois de tennis à venir (88)
+# Tournois de tennis à venir (90)
 
-_Dernière mise à jour : 2026-10-20T11:45:00+02:00_  
+_Dernière mise à jour : 2026-10-21T11:46:15+02:00_  
 _Recherche : ville **Saint-Cloud, 92210**, rayon **20 km**, éligible **30/1**, épreuves **SM**, 13/14 ans, 15/16 ans et Seniors, hors tournois en journée (sauf week-end et vacances zone C)._
 
 <table class="tournaments">
   <thead><tr><th>Date</th><th>Tournoi</th><th>Club</th><th>Ville</th><th>Distance</th><th>Épreuves éligibles</th></tr></thead>
   <tbody>
-    <tr><td>2026-10-20 → 2026-10-23</td><td><a href="https://tenup.fft.fr/tournoi/MOJA_306172" target="_blank" rel="noopener noreferrer">UMT Stade Français Octobre 1 Jeune 4° série</a></td><td>STADE FRANCAIS</td><td>MARNES LA COQUETTE</td><td>2,2 km</td><td>13/14 ans NC→30/1</td></tr>
-    <tr><td>2026-10-20 → 2026-10-24</td><td><a href="https://tenup.fft.fr/tournoi/MOJA_311096" target="_blank" rel="noopener noreferrer">Tournoi jeune du Tir</a></td><td>AS CERCLE DU BOIS DE BOULOGNE</td><td>PARIS 16</td><td>4,4 km</td><td>13/14 ans NC→30</td></tr>
-    <tr><td>2026-10-20</td><td><a href="https://tenup.fft.fr/tournoi/MOJA_312362" target="_blank" rel="noopener noreferrer">TMC 13/14 ans et 15/16 ans</a></td><td>LE PETIT SMASH</td><td>PUTEAUX</td><td>6,1 km</td><td>13/14 ans NC→N1 ; 15/16 ans NC→N1</td></tr>
     <tr><td>2026-10-21 → 2026-11-01</td><td><a href="https://tenup.fft.fr/tournoi/MOJA_292952" target="_blank" rel="noopener noreferrer">Tournoi 4ème série Herblay LA RESIDENCE</a></td><td>HERBLAY (AST)</td><td>HERBLAY</td><td>17,6 km</td><td>Senior NC→30/1</td></tr>
     <tr><td>2026-10-21 → 2026-11-01</td><td><a href="https://tenup.fft.fr/tournoi/MOJA_299740" target="_blank" rel="noopener noreferrer">Tournoi Jeunes de la Toussaint</a></td><td>MARGENCY (TC)</td><td>MARGENCY</td><td>17,6 km</td><td>13/14 ans NC→N1 ; 15/16 ans NC→N1</td></tr>
     <tr><td>2026-10-21 → 2026-10-25</td><td><a href="https://tenup.fft.fr/tournoi/MOJA_306175" target="_blank" rel="noopener noreferrer">UMT Stade Français Octobre 1 Jeune Open</a></td><td>STADE FRANCAIS</td><td>MARNES LA COQUETTE</td><td>2,2 km</td><td>13/14 ans NC→N1</td></tr>
@@ -98,5 +95,10 @@ _Recherche : ville **Saint-Cloud, 92210**, rayon **20 km**, éligible **30/1**, 
     <tr class="is-new"><td>2026-12-19 → 2027-01-03</td><td><a href="https://tenup.fft.fr/tournoi/MOJA_213725" target="_blank" rel="noopener noreferrer">tournoi de noël</a> <span class="new-badge">NEW</span></td><td>T.C. VELIZY VILLACOUBLAY</td><td>VELIZY VILLACOUBLAY</td><td>8,2 km</td><td>Senior NC→N1</td></tr>
     <tr class="is-new"><td>2026-12-19</td><td><a href="https://tenup.fft.fr/tournoi/MOJA_220087" target="_blank" rel="noopener noreferrer">TMC MESSIEURS SAMEDI 19/12/26 - LASA SPORT 2027</a> <span class="new-badge">NEW</span></td><td>LASA SPORT ORGANISATION</td><td>MONTREUIL</td><td>18,6 km</td><td>Senior NC→15/1</td></tr>
     <tr class="is-new"><td>2026-12-19</td><td><a href="https://tenup.fft.fr/tournoi/MOJA_317157" target="_blank" rel="noopener noreferrer">TMC Morangis SOIREE Messieurs 30/4 à 30/1</a> <span class="new-badge">NEW</span></td><td>T.M. MORANGIS</td><td>MORANGIS</td><td>18,6 km</td><td>Senior 30/4→30/1</td></tr>
+    <tr class="is-new"><td>2026-12-20</td><td><a href="https://tenup.fft.fr/tournoi/MOJA_219402" target="_blank" rel="noopener noreferrer">TMC 15/16 garçons 30/4-30/1</a> <span class="new-badge">NEW</span></td><td>TC PANTIN</td><td>PANTIN</td><td>15,6 km</td><td>15/16 ans 30/4→30/1</td></tr>
+    <tr class="is-new"><td>2026-12-20</td><td><a href="https://tenup.fft.fr/tournoi/MOJA_220088" target="_blank" rel="noopener noreferrer">TMC MESSIEURS DIMANCHE 20/12/26 - LASA SPORT 2027</a> <span class="new-badge">NEW</span></td><td>LASA SPORT ORGANISATION</td><td>MONTREUIL</td><td>18,6 km</td><td>Senior NC→15/1</td></tr>
+    <tr class="is-new"><td>2026-12-20 → 2027-01-10</td><td><a href="https://tenup.fft.fr/tournoi/MOJA_306520" target="_blank" rel="noopener noreferrer">Tournoi Orsay limité à 15/1</a> <span class="new-badge">NEW</span></td><td>T.C. ORSAY</td><td>ORSAY</td><td>18,2 km</td><td>Senior NC→15/1</td></tr>
+    <tr class="is-new"><td>2026-12-20 → 2027-01-03</td><td><a href="https://tenup.fft.fr/tournoi/MOJA_311384" target="_blank" rel="noopener noreferrer">AMIOT-COLOMBES-OPEN 13/14 ans petits as - Tournoi JEUNES</a> <span class="new-badge">NEW</span></td><td>AMIOT TENNIS CLUB COLOMBES</td><td>COLOMBES</td><td>8,8 km</td><td>13/14 ans NC→N1</td></tr>
+    <tr class="is-new"><td>2026-12-20 → 2027-01-03</td><td><a href="https://tenup.fft.fr/tournoi/MOJA_311409" target="_blank" rel="noopener noreferrer">AMIOT-COLOMBES-OPEN 11/12-15/16 et 17/18 ANS - Tournoi JEUNES</a> <span class="new-badge">NEW</span></td><td>AMIOT TENNIS CLUB COLOMBES</td><td>COLOMBES</td><td>8,8 km</td><td>15/16 ans NC→N1</td></tr>
   </tbody>
 </table>
