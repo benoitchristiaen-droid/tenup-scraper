@@ -2,18 +2,14 @@
 title: Tournois TenUp
 ---
 
-# Tournois de tennis à venir (87)
+# Tournois de tennis à venir (85)
 
-_Dernière mise à jour : 2026-10-22T11:45:38+02:00_  
+_Dernière mise à jour : 2026-10-23T11:42:51+02:00_  
 _Recherche : ville **Saint-Cloud, 92210**, rayon **20 km**, éligible **30/1**, épreuves **SM**, 13/14 ans, 15/16 ans et Seniors, hors tournois en journée (sauf week-end et vacances zone C)._
 
 <table class="tournaments">
   <thead><tr><th>Date</th><th>Tournoi</th><th>Club</th><th>Ville</th><th>Distance</th><th>Épreuves éligibles</th></tr></thead>
   <tbody>
-    <tr><td>2026-10-22</td><td><a href="https://tenup.fft.fr/tournoi/MOJA_290876" target="_blank" rel="noopener noreferrer">TMC JEUNES NC - 30/1</a></td><td>T.C. VELIZY VILLACOUBLAY</td><td>VELIZY VILLACOUBLAY</td><td>8,2 km</td><td>13/14 ans NC→30/1 ; 15/16 ans NC→30/1</td></tr>
-    <tr><td>2026-10-22 → 2026-10-24</td><td><a href="https://tenup.fft.fr/tournoi/MOJA_304388" target="_blank" rel="noopener noreferrer">TMC SM 30/3 à 30/1 (3 matchs) oct2026</a></td><td>T.C.M. BOIS D'ARCY</td><td>BOIS D ARCY</td><td>14,4 km</td><td>Senior 30/3→30/1</td></tr>
-    <tr><td>2026-10-22 → 2026-10-23</td><td><a href="https://tenup.fft.fr/tournoi/MOJA_306082" target="_blank" rel="noopener noreferrer">TMC 13/14 ANS GARCONS 30/3-30/1</a></td><td>CORMEILLAIS (ACS)</td><td>CORMEILLES EN PARISIS</td><td>14,4 km</td><td>13/14 ans 30/4→30/1</td></tr>
-    <tr><td>2026-10-22</td><td><a href="https://tenup.fft.fr/tournoi/MOJA_308008" target="_blank" rel="noopener noreferrer">TMC HOMMES SOIREE</a></td><td>LE PETIT SMASH</td><td>PARIS 16</td><td>5,4 km</td><td>Senior 30/2→15/4</td></tr>
     <tr><td>2026-10-23</td><td><a href="https://tenup.fft.fr/tournoi/MOJA_288862" target="_blank" rel="noopener noreferrer">TMC Morangis JOURNEE Messieurs 30/3 à 30</a></td><td>T.M. MORANGIS</td><td>MORANGIS</td><td>18,6 km</td><td>Senior 30/3→30</td></tr>
     <tr><td>2026-10-23 → 2026-10-25</td><td><a href="https://tenup.fft.fr/tournoi/MOJA_301045" target="_blank" rel="noopener noreferrer">TMC 15/16 ANS FILLES ET GARCONS ES STAINS</a></td><td>ESPERANCE SPORTIVE STAINS</td><td>STAINS</td><td>17,9 km</td><td>15/16 ans 30/1→15/2</td></tr>
     <tr><td>2026-10-23</td><td><a href="https://tenup.fft.fr/tournoi/MOJA_308006" target="_blank" rel="noopener noreferrer">TMC HOMMES SOIREE</a></td><td>LE PETIT SMASH</td><td>PARIS 16</td><td>5,4 km</td><td>Senior NC→30</td></tr>
@@ -90,6 +86,7 @@ _Recherche : ville **Saint-Cloud, 92210**, rayon **20 km**, éligible **30/1**, 
     <tr><td>2026-12-19 → 2027-01-03</td><td><a href="https://tenup.fft.fr/tournoi/MOJA_213725" target="_blank" rel="noopener noreferrer">tournoi de noël</a></td><td>T.C. VELIZY VILLACOUBLAY</td><td>VELIZY VILLACOUBLAY</td><td>8,2 km</td><td>Senior NC→N1</td></tr>
     <tr><td>2026-12-19</td><td><a href="https://tenup.fft.fr/tournoi/MOJA_220087" target="_blank" rel="noopener noreferrer">TMC MESSIEURS SAMEDI 19/12/26 - LASA SPORT 2027</a></td><td>LASA SPORT ORGANISATION</td><td>MONTREUIL</td><td>18,6 km</td><td>Senior NC→15/1</td></tr>
     <tr><td>2026-12-19</td><td><a href="https://tenup.fft.fr/tournoi/MOJA_317157" target="_blank" rel="noopener noreferrer">TMC Morangis SOIREE Messieurs 30/4 à 30/1</a></td><td>T.M. MORANGIS</td><td>MORANGIS</td><td>18,6 km</td><td>Senior 30/4→30/1</td></tr>
+    <tr class="is-new"><td>2026-12-19 → 2026-12-20</td><td><a href="https://tenup.fft.fr/tournoi/MOJA_318372" target="_blank" rel="noopener noreferrer">TMC 30/3 30/1</a> <span class="new-badge">NEW</span></td><td>C.O. SACLAY</td><td>SACLAY</td><td>13,7 km</td><td>Senior 30/3→30/1</td></tr>
     <tr class="is-new"><td>2026-12-19 → 2026-12-22</td><td><a href="https://tenup.fft.fr/tournoi/MOJA_318422" target="_blank" rel="noopener noreferrer">TMC 13/14 ans garçons NC à 30</a> <span class="new-badge">NEW</span></td><td>A.S. MINORANGE</td><td>GUYANCOURT</td><td>14,1 km</td><td>13/14 ans NC→30</td></tr>
     <tr class="is-new"><td>2026-12-20</td><td><a href="https://tenup.fft.fr/tournoi/MOJA_219402" target="_blank" rel="noopener noreferrer">TMC 15/16 garçons 30/4-30/1</a> <span class="new-badge">NEW</span></td><td>TC PANTIN</td><td>PANTIN</td><td>15,6 km</td><td>15/16 ans 30/4→30/1</td></tr>
     <tr class="is-new"><td>2026-12-20</td><td><a href="https://tenup.fft.fr/tournoi/MOJA_220088" target="_blank" rel="noopener noreferrer">TMC MESSIEURS DIMANCHE 20/12/26 - LASA SPORT 2027</a> <span class="new-badge">NEW</span></td><td>LASA SPORT ORGANISATION</td><td>MONTREUIL</td><td>18,6 km</td><td>Senior NC→15/1</td></tr>
@@ -97,5 +94,6 @@ _Recherche : ville **Saint-Cloud, 92210**, rayon **20 km**, éligible **30/1**, 
     <tr class="is-new"><td>2026-12-20 → 2027-01-03</td><td><a href="https://tenup.fft.fr/tournoi/MOJA_311384" target="_blank" rel="noopener noreferrer">AMIOT-COLOMBES-OPEN 13/14 ans petits as - Tournoi JEUNES</a> <span class="new-badge">NEW</span></td><td>AMIOT TENNIS CLUB COLOMBES</td><td>COLOMBES</td><td>8,8 km</td><td>13/14 ans NC→N1</td></tr>
     <tr class="is-new"><td>2026-12-20 → 2027-01-03</td><td><a href="https://tenup.fft.fr/tournoi/MOJA_311409" target="_blank" rel="noopener noreferrer">AMIOT-COLOMBES-OPEN 11/12-15/16 et 17/18 ANS - Tournoi JEUNES</a> <span class="new-badge">NEW</span></td><td>AMIOT TENNIS CLUB COLOMBES</td><td>COLOMBES</td><td>8,8 km</td><td>15/16 ans NC→N1</td></tr>
     <tr class="is-new"><td>2026-12-21 → 2026-12-22</td><td><a href="https://tenup.fft.fr/tournoi/MOJA_211400" target="_blank" rel="noopener noreferrer">TMC 15/16 GARCONS DE VILLENNES</a> <span class="new-badge">NEW</span></td><td>T.C. VILLENNES</td><td>VILLENNES SUR SEINE</td><td>18,7 km</td><td>15/16 ans 30/4→30</td></tr>
+    <tr class="is-new"><td>2026-12-22</td><td><a href="https://tenup.fft.fr/tournoi/MOJA_317173" target="_blank" rel="noopener noreferrer">TMC Morangis JOURNEE Messieurs 30/3 à 30/1</a> <span class="new-badge">NEW</span></td><td>T.M. MORANGIS</td><td>MORANGIS</td><td>18,6 km</td><td>Senior 30/3→30/1</td></tr>
   </tbody>
 </table>

@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "last_scrape": "2026-10-22T11:45:38+02:00",
-    "tournament_count": 87,
+    "last_scrape": "2026-10-23T11:42:51+02:00",
+    "tournament_count": 85,
     "scrape_params": {
       "city": "Saint-Cloud, 92210",
       "distance_km": 20,
@@ -12,58 +12,6 @@
     }
   },
   "tournaments": [
-    {
-      "id": "MOJA_290876",
-      "name": "TMC JEUNES NC - 30/1",
-      "date_start": "2026-10-22",
-      "date_end": "2026-10-22",
-      "location": {
-        "club": "T.C. VELIZY VILLACOUBLAY",
-        "city": "VELIZY VILLACOUBLAY"
-      },
-      "distance": "8,2 km",
-      "epreuves": "13/14 ans NC→30/1 ; 15/16 ans NC→30/1",
-      "first_seen": "2026-10-04T09:56:47+02:00"
-    },
-    {
-      "id": "MOJA_304388",
-      "name": "TMC SM 30/3 à 30/1 (3 matchs) oct2026",
-      "date_start": "2026-10-22",
-      "date_end": "2026-10-24",
-      "location": {
-        "club": "T.C.M. BOIS D'ARCY",
-        "city": "BOIS D ARCY"
-      },
-      "distance": "14,4 km",
-      "epreuves": "Senior 30/3→30/1",
-      "first_seen": "2026-10-04T09:56:47+02:00"
-    },
-    {
-      "id": "MOJA_306082",
-      "name": "TMC 13/14 ANS GARCONS 30/3-30/1",
-      "date_start": "2026-10-22",
-      "date_end": "2026-10-23",
-      "location": {
-        "club": "CORMEILLAIS (ACS)",
-        "city": "CORMEILLES EN PARISIS"
-      },
-      "distance": "14,4 km",
-      "epreuves": "13/14 ans 30/4→30/1",
-      "first_seen": "2026-10-06T13:37:16+02:00"
-    },
-    {
-      "id": "MOJA_308008",
-      "name": "TMC HOMMES SOIREE",
-      "date_start": "2026-10-22",
-      "date_end": "2026-10-22",
-      "location": {
-        "club": "LE PETIT SMASH",
-        "city": "PARIS 16"
-      },
-      "distance": "5,4 km",
-      "epreuves": "Senior 30/2→15/4",
-      "first_seen": "2026-10-04T09:56:47+02:00"
-    },
     {
       "id": "MOJA_288862",
       "name": "TMC Morangis JOURNEE Messieurs 30/3 à 30",
@@ -1053,6 +1001,19 @@
       "first_seen": "2026-10-20T11:45:00+02:00"
     },
     {
+      "id": "MOJA_318372",
+      "name": "TMC 30/3 30/1",
+      "date_start": "2026-12-19",
+      "date_end": "2026-12-20",
+      "location": {
+        "club": "C.O. SACLAY",
+        "city": "SACLAY"
+      },
+      "distance": "13,7 km",
+      "epreuves": "Senior 30/3→30/1",
+      "first_seen": "2026-10-23T11:42:51+02:00"
+    },
+    {
       "id": "MOJA_318422",
       "name": "TMC 13/14 ans garçons NC à 30",
       "date_start": "2026-12-19",
@@ -1142,6 +1103,19 @@
       "distance": "18,7 km",
       "epreuves": "15/16 ans 30/4→30",
       "first_seen": "2026-10-22T11:45:38+02:00"
+    },
+    {
+      "id": "MOJA_317173",
+      "name": "TMC Morangis JOURNEE Messieurs 30/3 à 30/1",
+      "date_start": "2026-12-22",
+      "date_end": "2026-12-22",
+      "location": {
+        "club": "T.M. MORANGIS",
+        "city": "MORANGIS"
+      },
+      "distance": "18,6 km",
+      "epreuves": "Senior 30/3→30/1",
+      "first_seen": "2026-10-23T11:42:51+02:00"
     }
   ]
 }
