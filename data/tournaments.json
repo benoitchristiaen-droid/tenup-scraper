@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "last_scrape": "2026-10-25T10:31:39+01:00",
-    "tournament_count": 66,
+    "last_scrape": "2026-10-26T11:38:47+01:00",
+    "tournament_count": 64,
     "scrape_params": {
       "city": "Saint-Cloud, 92210",
       "distance_km": 20,
@@ -12,58 +12,6 @@
     }
   },
   "tournaments": [
-    {
-      "id": "MOJA_288860",
-      "name": "TMC  Messieurs  16:00 - 20:00  de  30/2...30/1",
-      "date_start": "2026-10-25",
-      "date_end": "2026-10-25",
-      "location": {
-        "club": "LA CHATAIGNERAIE (TC)",
-        "city": "RUEIL MALMAISON"
-      },
-      "distance": "2,9 km",
-      "epreuves": "Senior 30/2→30/1",
-      "first_seen": "2026-10-04T09:56:47+02:00"
-    },
-    {
-      "id": "MOJA_290864",
-      "name": "TMC 4ème série",
-      "date_start": "2026-10-25",
-      "date_end": "2026-10-25",
-      "location": {
-        "club": "T.C. VELIZY VILLACOUBLAY",
-        "city": "VELIZY VILLACOUBLAY"
-      },
-      "distance": "8,2 km",
-      "epreuves": "Senior NC→30/1",
-      "first_seen": "2026-10-04T09:56:47+02:00"
-    },
-    {
-      "id": "MOJA_312057",
-      "name": "TOURNOI 11/14 NC à 30 et 15/16 ans 40 à 15/1",
-      "date_start": "2026-10-25",
-      "date_end": "2026-10-30",
-      "location": {
-        "club": "AS CERCLE DU BOIS DE BOULOGNE",
-        "city": "PARIS 16"
-      },
-      "distance": "4,4 km",
-      "epreuves": "15/16 ans NC→15/1 ; 13/14 ans NC→N1",
-      "first_seen": "2026-10-07T13:27:13+02:00"
-    },
-    {
-      "id": "MOJA_315934",
-      "name": "JSA TENNIS TMC NC-30/1",
-      "date_start": "2026-10-25",
-      "date_end": "2026-10-25",
-      "location": {
-        "club": "J.S.A. Tennis Club",
-        "city": "MAISONS ALFORT"
-      },
-      "distance": "17,1 km",
-      "epreuves": "Senior NC→30/1",
-      "first_seen": "2026-10-15T11:33:21+02:00"
-    },
     {
       "id": "MOJA_306481",
       "name": "Tournoi Toussaint TC Antony GPJeunes 92",
@@ -455,6 +403,19 @@
       "first_seen": "2026-10-11T13:07:11+02:00"
     },
     {
+      "id": "MOJA_319085",
+      "name": "TMC 30/3-30/1 Hommes 11h/16h",
+      "date_start": "2026-11-15",
+      "date_end": "2026-11-15",
+      "location": {
+        "club": "SURESNES (TC)",
+        "city": "RUEIL MALMAISON"
+      },
+      "distance": "1,9 km",
+      "epreuves": "Senior 30/3→30/1",
+      "first_seen": "2026-10-26T11:38:47+01:00"
+    },
+    {
       "id": "MOJA_312100",
       "name": "Nov2 : 23h en Sénior, à 7h en +40, journée +35",
       "date_start": "2026-11-16",
@@ -778,6 +739,19 @@
       "distance": "14,1 km",
       "epreuves": "13/14 ans NC→30",
       "first_seen": "2026-10-22T11:45:38+02:00"
+    },
+    {
+      "id": "MOJA_319412",
+      "name": "Open 4e série seniors, +50 ans, simple et double  ",
+      "date_start": "2026-12-19",
+      "date_end": "2027-01-03",
+      "location": {
+        "club": "CORMEILLAIS (ACS)",
+        "city": "CORMEILLES EN PARISIS"
+      },
+      "distance": "14,4 km",
+      "epreuves": "Senior NC→30/1",
+      "first_seen": "2026-10-26T11:38:47+01:00"
     },
     {
       "id": "MOJA_219402",
