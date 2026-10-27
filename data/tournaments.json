@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "last_scrape": "2026-10-26T11:38:47+01:00",
-    "tournament_count": 64,
+    "last_scrape": "2026-10-27T11:09:09+01:00",
+    "tournament_count": 62,
     "scrape_params": {
       "city": "Saint-Cloud, 92210",
       "distance_km": 20,
@@ -12,71 +12,6 @@
     }
   },
   "tournaments": [
-    {
-      "id": "MOJA_306481",
-      "name": "Tournoi Toussaint TC Antony GPJeunes 92",
-      "date_start": "2026-10-26",
-      "date_end": "2026-10-30",
-      "location": {
-        "club": "ANTONY (TC)",
-        "city": "ANTONY"
-      },
-      "distance": "12,8 km",
-      "epreuves": "13/14 ans 30/1→15/3",
-      "first_seen": "2026-10-04T09:56:47+02:00"
-    },
-    {
-      "id": "MOJA_307816",
-      "name": "TMC 30/1-15/3",
-      "date_start": "2026-10-26",
-      "date_end": "2026-10-29",
-      "location": {
-        "club": "BOUGIVAL TENNIS CLUB EN SEINE",
-        "city": "BOUGIVAL"
-      },
-      "distance": "5,2 km",
-      "epreuves": "Senior 30/1→15/3",
-      "first_seen": "2026-10-04T09:56:47+02:00"
-    },
-    {
-      "id": "MOJA_308211",
-      "name": "Stade Français Octobre 2 Jeune élite",
-      "date_start": "2026-10-26",
-      "date_end": "2026-10-29",
-      "location": {
-        "club": "STADE FRANCAIS",
-        "city": "MARNES LA COQUETTE"
-      },
-      "distance": "2,2 km",
-      "epreuves": "15/16 ans NC→15/2 ; 13/14 ans NC→15/5",
-      "first_seen": "2026-10-05T13:56:30+02:00"
-    },
-    {
-      "id": "MOJA_312022",
-      "name": "TMC 30/5 à 30 du CAM ",
-      "date_start": "2026-10-26",
-      "date_end": "2026-10-28",
-      "location": {
-        "club": "MONTROUGE (CA)",
-        "city": "MONTROUGE"
-      },
-      "distance": "9,2 km",
-      "epreuves": "Senior 30/5→30",
-      "first_seen": "2026-10-06T13:37:16+02:00"
-    },
-    {
-      "id": "MOJA_315935",
-      "name": "JSA TENNIS TMC NC-30/1",
-      "date_start": "2026-10-26",
-      "date_end": "2026-10-26",
-      "location": {
-        "club": "J.S.A. Tennis Club",
-        "city": "MAISONS ALFORT"
-      },
-      "distance": "17,1 km",
-      "epreuves": "Senior NC→30/1",
-      "first_seen": "2026-10-15T11:33:21+02:00"
-    },
     {
       "id": "MOJA_310315",
       "name": "TMC 13/14 ANS",
@@ -245,6 +180,19 @@
       "distance": "5,4 km",
       "epreuves": "Senior NC→30",
       "first_seen": "2026-10-07T13:27:13+02:00"
+    },
+    {
+      "id": "MOJA_319944",
+      "name": "Tmc nc-30/1",
+      "date_start": "2026-10-31",
+      "date_end": "2026-10-31",
+      "location": {
+        "club": "J.S.A. Tennis Club",
+        "city": "MAISONS ALFORT"
+      },
+      "distance": "17,1 km",
+      "epreuves": "Senior NC→30/1",
+      "first_seen": "2026-10-27T11:09:09+01:00"
     },
     {
       "id": "MOJA_220032",
@@ -741,6 +689,19 @@
       "first_seen": "2026-10-22T11:45:38+02:00"
     },
     {
+      "id": "MOJA_319407",
+      "name": "Tournoi de Noël de l'US Créteil",
+      "date_start": "2026-12-19",
+      "date_end": "2027-01-03",
+      "location": {
+        "club": "US CRETEIL",
+        "city": "CRETEIL"
+      },
+      "distance": "18,2 km",
+      "epreuves": "13/14 ans NC→15/1 ; Senior NC→30/1 ; 15/16 ans NC→15/1",
+      "first_seen": "2026-10-27T11:09:09+01:00"
+    },
+    {
       "id": "MOJA_319412",
       "name": "Open 4e série seniors, +50 ans, simple et double  ",
       "date_start": "2026-12-19",
@@ -843,6 +804,19 @@
       "distance": "18,6 km",
       "epreuves": "Senior 30/3→30/1",
       "first_seen": "2026-10-23T11:42:51+02:00"
+    },
+    {
+      "id": "MOJA_317158",
+      "name": "TMC Morangis SOIREE Messieurs 30/3 à 30",
+      "date_start": "2026-12-26",
+      "date_end": "2026-12-26",
+      "location": {
+        "club": "T.M. MORANGIS",
+        "city": "MORANGIS"
+      },
+      "distance": "18,6 km",
+      "epreuves": "Senior 30/3→30",
+      "first_seen": "2026-10-27T11:09:09+01:00"
     }
   ]
 }
