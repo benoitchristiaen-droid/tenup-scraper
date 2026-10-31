@@ -4,14 +4,12 @@ title: Tournois TenUp
 
 # Tournois de tennis à venir (62)
 
-_Dernière mise à jour : 2026-10-30T12:07:23+01:00_  
+_Dernière mise à jour : 2026-10-31T11:41:52+01:00_  
 _Recherche : ville **Saint-Cloud, 92210**, rayon **20 km**, éligible **30/1**, épreuves **SM**, 13/14 ans, 15/16 ans et Seniors, hors tournois en journée (sauf week-end et vacances zone C)._
 
 <table class="tournaments">
   <thead><tr><th>Date</th><th>Tournoi</th><th>Club</th><th>Ville</th><th>Distance</th><th>Épreuves éligibles</th></tr></thead>
   <tbody>
-    <tr><td>2026-10-30 → 2026-11-01</td><td><a href="https://tenup.fft.fr/tournoi/MOJA_308763" target="_blank" rel="noopener noreferrer">TMC Hommes 4S</a></td><td>PIERRELAYE (CS)</td><td>PIERRELAYE</td><td>18,6 km</td><td>Senior NC→30/1</td></tr>
-    <tr><td>2026-10-30</td><td><a href="https://tenup.fft.fr/tournoi/MOJA_309571" target="_blank" rel="noopener noreferrer">TMC ADULTES 30/4 à 30/1</a></td><td>T.C. GIF SUR YVETTE</td><td>GIF SUR YVETTE</td><td>18,3 km</td><td>Senior 30/4→30/1</td></tr>
     <tr><td>2026-10-31</td><td><a href="https://tenup.fft.fr/tournoi/MOJA_220073" target="_blank" rel="noopener noreferrer">TMC MESSIEURS SAMEDI 31/10/26 - LASA SPORT 2027</a></td><td>LASA SPORT ORGANISATION</td><td>MONTREUIL</td><td>18,6 km</td><td>Senior NC→15/1</td></tr>
     <tr><td>2026-10-31</td><td><a href="https://tenup.fft.fr/tournoi/MOJA_300161" target="_blank" rel="noopener noreferrer">TMC PUTEAUX 13/14 ans</a></td><td>LE PETIT SMASH</td><td>PUTEAUX</td><td>6,1 km</td><td>13/14 ans NC→N1</td></tr>
     <tr><td>2026-10-31 → 2026-11-01</td><td><a href="https://tenup.fft.fr/tournoi/MOJA_312584" target="_blank" rel="noopener noreferrer">TMC Hommes</a></td><td>T.C. VOISINS LE BRETONNEUX</td><td>VOISINS LE BRETONNEUX</td><td>15,8 km</td><td>Senior NC→30/1</td></tr>
@@ -45,10 +43,12 @@ _Recherche : ville **Saint-Cloud, 92210**, rayon **20 km**, éligible **30/1**, 
     <tr><td>2026-11-30 → 2026-12-13</td><td><a href="https://tenup.fft.fr/tournoi/MOJA_312102" target="_blank" rel="noopener noreferrer">Dec1 : 23h en Sénior, à 7h en +40, journée +35</a></td><td>TENNIS CLUB PARISIEN DE JOINVILLE</td><td>PARIS 12</td><td>17,6 km</td><td>Senior NC→30/1</td></tr>
     <tr><td>2026-12-05</td><td><a href="https://tenup.fft.fr/tournoi/MOJA_220083" target="_blank" rel="noopener noreferrer">TMC MESSIEURS SAMEDI 05/12/26 - LASA SPORT 2027</a></td><td>LASA SPORT ORGANISATION</td><td>MONTREUIL</td><td>18,6 km</td><td>Senior NC→15/1</td></tr>
     <tr><td>2026-12-06</td><td><a href="https://tenup.fft.fr/tournoi/MOJA_220084" target="_blank" rel="noopener noreferrer">TMC MESSIEURS DIMANCHE 06/12/26 - LASA SPORT 2027</a></td><td>LASA SPORT ORGANISATION</td><td>MONTREUIL</td><td>18,6 km</td><td>Senior NC→15/1</td></tr>
+    <tr class="is-new"><td>2026-12-06</td><td><a href="https://tenup.fft.fr/tournoi/MOJA_320825" target="_blank" rel="noopener noreferrer">TMC 13/14 ans</a> <span class="new-badge">NEW</span></td><td>LE PETIT SMASH</td><td>PUTEAUX</td><td>6,1 km</td><td>13/14 ans NC→N1</td></tr>
     <tr><td>2026-12-12</td><td><a href="https://tenup.fft.fr/tournoi/MOJA_220085" target="_blank" rel="noopener noreferrer">TMC MESSIEURS SAMEDI 12/12/26 - LASA SPORT 2027</a></td><td>LASA SPORT ORGANISATION</td><td>MONTREUIL</td><td>18,6 km</td><td>Senior NC→15/1</td></tr>
     <tr><td>2026-12-12</td><td><a href="https://tenup.fft.fr/tournoi/MOJA_313832" target="_blank" rel="noopener noreferrer">TMC Morangis SOIREE Messieurs 30/3 à 30</a></td><td>T.M. MORANGIS</td><td>MORANGIS</td><td>18,6 km</td><td>Senior 30/3→30</td></tr>
     <tr><td>2026-12-13</td><td><a href="https://tenup.fft.fr/tournoi/MOJA_220086" target="_blank" rel="noopener noreferrer">TMC MESSIEURS DIMANCHE 13/12/26 - LASA SPORT 2027</a></td><td>LASA SPORT ORGANISATION</td><td>MONTREUIL</td><td>18,6 km</td><td>Senior NC→15/1</td></tr>
     <tr><td>2026-12-13 → 2026-12-27</td><td><a href="https://tenup.fft.fr/tournoi/MOJA_318605" target="_blank" rel="noopener noreferrer">TOURNOI DE NOEL DE CLICHY de NC à 15/5 Séniors dames et messieurs</a></td><td>CLICHY (CS)</td><td>CLICHY</td><td>9,8 km</td><td>Senior NC→15/5</td></tr>
+    <tr class="is-new"><td>2026-12-13</td><td><a href="https://tenup.fft.fr/tournoi/MOJA_320826" target="_blank" rel="noopener noreferrer">TMC 11/12 et 13/14 ans</a> <span class="new-badge">NEW</span></td><td>LE PETIT SMASH</td><td>PUTEAUX</td><td>6,1 km</td><td>13/14 ans NC→N1</td></tr>
     <tr><td>2026-12-17 → 2027-01-03</td><td><a href="https://tenup.fft.fr/tournoi/MOJA_290779" target="_blank" rel="noopener noreferrer">2ème CNCT l'Haÿ-les-Roses SD (30 à n°1) et SM (NC à 4/6)</a></td><td>C.A.L. TC L'HAY LES ROSES</td><td>L HAY LES ROSES</td><td>12,4 km</td><td>Senior NC→4/6</td></tr>
     <tr><td>2026-12-17 → 2027-01-05</td><td><a href="https://tenup.fft.fr/tournoi/MOJA_300453" target="_blank" rel="noopener noreferrer">open CT CHAVILLE</a></td><td>CHAVILLE (CT)</td><td>CHAVILLE</td><td>5,8 km</td><td>Senior NC→N1</td></tr>
     <tr><td>2026-12-19 → 2027-01-03</td><td><a href="https://tenup.fft.fr/tournoi/MOJA_212188" target="_blank" rel="noopener noreferrer">TOURNOI TC LES LILAS</a></td><td>TC LES LILAS</td><td>LES LILAS</td><td>16,1 km</td><td>Senior NC→N1</td></tr>
