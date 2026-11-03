@@ -2,16 +2,14 @@
 title: Tournois TenUp
 ---
 
-# Tournois de tennis à venir (56)
+# Tournois de tennis à venir (59)
 
-_Dernière mise à jour : 2026-11-02T13:58:24+01:00_  
+_Dernière mise à jour : 2026-11-03T13:29:21+01:00_  
 _Recherche : ville **Saint-Cloud, 92210**, rayon **20 km**, éligible **30/1**, épreuves **SM**, 13/14 ans, 15/16 ans et Seniors, hors tournois en journée (sauf week-end et vacances zone C)._
 
 <table class="tournaments">
   <thead><tr><th>Date</th><th>Tournoi</th><th>Club</th><th>Ville</th><th>Distance</th><th>Épreuves éligibles</th></tr></thead>
   <tbody>
-    <tr><td>2026-11-02 → 2026-11-15</td><td><a href="https://tenup.fft.fr/tournoi/MOJA_312098" target="_blank" rel="noopener noreferrer">Novembre : 23h en Sénior, à 7h en +40, journée +35</a></td><td>TENNIS CLUB PARISIEN DE JOINVILLE</td><td>PARIS 12</td><td>17,6 km</td><td>Senior NC→30/1</td></tr>
-    <tr><td>2026-11-02 → 2026-12-18</td><td><a href="https://tenup.fft.fr/tournoi/MOJA_315876" target="_blank" rel="noopener noreferrer">Tournoi Automne senior 30/4-15/1 JOURNEE TC ANTONY</a></td><td>ANTONY (TC)</td><td>ANTONY</td><td>12,8 km</td><td>Senior 30/4→15/1</td></tr>
     <tr><td>2026-11-03 → 2026-11-27</td><td><a href="https://tenup.fft.fr/tournoi/MOJA_307969" target="_blank" rel="noopener noreferrer">N°4 entre 8:00 et 17:00</a></td><td>LA CHATAIGNERAIE (TC)</td><td>RUEIL MALMAISON</td><td>2,9 km</td><td>Senior 30/2→15/3</td></tr>
     <tr><td>2026-11-07</td><td><a href="https://tenup.fft.fr/tournoi/MOJA_220075" target="_blank" rel="noopener noreferrer">TMC MESSIEURS SAMEDI 07/11/26 - LASA SPORT 2027</a></td><td>LASA SPORT ORGANISATION</td><td>MONTREUIL</td><td>18,6 km</td><td>Senior NC→15/1</td></tr>
     <tr><td>2026-11-07</td><td><a href="https://tenup.fft.fr/tournoi/MOJA_313735" target="_blank" rel="noopener noreferrer">TMC HOMMES SOIREE</a></td><td>LE PETIT SMASH</td><td>PARIS 16</td><td>5,4 km</td><td>Senior NC→N1</td></tr>
@@ -62,9 +60,14 @@ _Recherche : ville **Saint-Cloud, 92210**, rayon **20 km**, éligible **30/1**, 
     <tr><td>2026-12-20 → 2027-01-03</td><td><a href="https://tenup.fft.fr/tournoi/MOJA_311409" target="_blank" rel="noopener noreferrer">AMIOT-COLOMBES-OPEN 11/12-15/16 et 17/18 ANS - Tournoi JEUNES</a></td><td>AMIOT TENNIS CLUB COLOMBES</td><td>COLOMBES</td><td>8,8 km</td><td>15/16 ans NC→N1</td></tr>
     <tr><td>2026-12-21 → 2026-12-22</td><td><a href="https://tenup.fft.fr/tournoi/MOJA_211400" target="_blank" rel="noopener noreferrer">TMC 15/16 GARCONS DE VILLENNES</a></td><td>T.C. VILLENNES</td><td>VILLENNES SUR SEINE</td><td>18,7 km</td><td>15/16 ans 30/4→30</td></tr>
     <tr><td>2026-12-22</td><td><a href="https://tenup.fft.fr/tournoi/MOJA_317173" target="_blank" rel="noopener noreferrer">TMC Morangis JOURNEE Messieurs 30/3 à 30/1</a></td><td>T.M. MORANGIS</td><td>MORANGIS</td><td>18,6 km</td><td>Senior 30/3→30/1</td></tr>
+    <tr class="is-new"><td>2026-12-26 → 2027-01-03</td><td><a href="https://tenup.fft.fr/tournoi/MOJA_302946" target="_blank" rel="noopener noreferrer">TCIM - Tournoi de Noël de NC à 30 senior</a> <span class="new-badge">NEW</span></td><td>ISSY-LES-MOULINEAUX (TC)</td><td>ISSY LES MOULINEAUX</td><td>5,0 km</td><td>Senior NC→30</td></tr>
     <tr><td>2026-12-26</td><td><a href="https://tenup.fft.fr/tournoi/MOJA_317158" target="_blank" rel="noopener noreferrer">TMC Morangis SOIREE Messieurs 30/3 à 30</a></td><td>T.M. MORANGIS</td><td>MORANGIS</td><td>18,6 km</td><td>Senior 30/3→30</td></tr>
     <tr><td>2026-12-27 → 2026-12-30</td><td><a href="https://tenup.fft.fr/tournoi/MOJA_318012" target="_blank" rel="noopener noreferrer">TMC SENIORS MESSIEURS NC À 30/1</a></td><td>A.S. MINORANGE</td><td>GUYANCOURT</td><td>14,1 km</td><td>Senior NC→30/1</td></tr>
     <tr><td>2026-12-27 → 2026-12-30</td><td><a href="https://tenup.fft.fr/tournoi/MOJA_318424" target="_blank" rel="noopener noreferrer">TMC 13/14 filles</a></td><td>A.S. MINORANGE</td><td>GUYANCOURT</td><td>14,1 km</td><td>13/14 ans NC→30/1</td></tr>
     <tr class="is-new"><td>2026-12-29</td><td><a href="https://tenup.fft.fr/tournoi/MOJA_319859" target="_blank" rel="noopener noreferrer">TMC 13/16ANS CHAMBOURCY 30/2-30/1</a> <span class="new-badge">NEW</span></td><td>A.S.M. CHAMBOURCY</td><td>CHAMBOURCY</td><td>14,7 km</td><td>15/16 ans 30/2→30/1</td></tr>
+    <tr class="is-new"><td>2027-01-02 → 2027-02-05</td><td><a href="https://tenup.fft.fr/tournoi/MOJA_220033" target="_blank" rel="noopener noreferrer">TOURNOI - MASTERS LASA SPORT 2027 E5</a> <span class="new-badge">NEW</span></td><td>LASA SPORT ORGANISATION</td><td>MONTREUIL</td><td>18,6 km</td><td>Senior NC→4/6</td></tr>
+    <tr class="is-new"><td>2027-01-02</td><td><a href="https://tenup.fft.fr/tournoi/MOJA_220089" target="_blank" rel="noopener noreferrer">TMC MESSIEURS SAMEDI 02/01/27 - LASA SPORT 2027</a> <span class="new-badge">NEW</span></td><td>LASA SPORT ORGANISATION</td><td>MONTREUIL</td><td>18,6 km</td><td>Senior NC→15/1</td></tr>
+    <tr class="is-new"><td>2027-01-02</td><td><a href="https://tenup.fft.fr/tournoi/MOJA_317163" target="_blank" rel="noopener noreferrer">TMC Morangis SOIREE Messieurs 30/3 à 30</a> <span class="new-badge">NEW</span></td><td>T.M. MORANGIS</td><td>MORANGIS</td><td>18,6 km</td><td>Senior 30/3→30</td></tr>
+    <tr class="is-new"><td>2027-01-02 → 2027-01-03</td><td><a href="https://tenup.fft.fr/tournoi/MOJA_320984" target="_blank" rel="noopener noreferrer">TMC HOMME TRAPPES NC-30/1</a> <span class="new-badge">NEW</span></td><td>TRAPPES PASSING SHOT</td><td>TRAPPES</td><td>18,9 km</td><td>Senior NC→30/1</td></tr>
   </tbody>
 </table>
