@@ -2,9 +2,9 @@
 title: Tournois TenUp
 ---
 
-# Tournois de tennis à venir (62)
+# Tournois de tennis à venir (63)
 
-_Dernière mise à jour : 2026-11-04T13:40:26+01:00_  
+_Dernière mise à jour : 2026-11-05T13:51:50+01:00_  
 _Recherche : ville **Saint-Cloud, 92210**, rayon **20 km**, éligible **30/1**, épreuves **SM**, 13/14 ans, 15/16 ans et Seniors, hors tournois en journée (sauf week-end et vacances zone C)._
 
 <table class="tournaments">
@@ -61,16 +61,17 @@ _Recherche : ville **Saint-Cloud, 92210**, rayon **20 km**, éligible **30/1**, 
     <tr class="is-new"><td>2026-12-20 → 2027-01-03</td><td><a href="https://tenup.fft.fr/tournoi/MOJA_322136" target="_blank" rel="noopener noreferrer">Tournoi Séniors 4ème série</a> <span class="new-badge">NEW</span></td><td>BOURG LA REINE (AS)</td><td>BOURG LA REINE</td><td>11,0 km</td><td>Senior NC→30/1</td></tr>
     <tr><td>2026-12-21 → 2026-12-22</td><td><a href="https://tenup.fft.fr/tournoi/MOJA_211400" target="_blank" rel="noopener noreferrer">TMC 15/16 GARCONS DE VILLENNES</a></td><td>T.C. VILLENNES</td><td>VILLENNES SUR SEINE</td><td>18,7 km</td><td>15/16 ans 30/4→30</td></tr>
     <tr><td>2026-12-22</td><td><a href="https://tenup.fft.fr/tournoi/MOJA_317173" target="_blank" rel="noopener noreferrer">TMC Morangis JOURNEE Messieurs 30/3 à 30/1</a></td><td>T.M. MORANGIS</td><td>MORANGIS</td><td>18,6 km</td><td>Senior 30/3→30/1</td></tr>
-    <tr class="is-new"><td>2026-12-26 → 2027-01-03</td><td><a href="https://tenup.fft.fr/tournoi/MOJA_302946" target="_blank" rel="noopener noreferrer">TCIM - Tournoi de Noël de NC à 30 senior</a> <span class="new-badge">NEW</span></td><td>ISSY-LES-MOULINEAUX (TC)</td><td>ISSY LES MOULINEAUX</td><td>5,0 km</td><td>Senior NC→30</td></tr>
+    <tr><td>2026-12-26 → 2027-01-03</td><td><a href="https://tenup.fft.fr/tournoi/MOJA_302946" target="_blank" rel="noopener noreferrer">TCIM - Tournoi de Noël de NC à 30 senior</a></td><td>ISSY-LES-MOULINEAUX (TC)</td><td>ISSY LES MOULINEAUX</td><td>5,0 km</td><td>Senior NC→30</td></tr>
     <tr><td>2026-12-26</td><td><a href="https://tenup.fft.fr/tournoi/MOJA_317158" target="_blank" rel="noopener noreferrer">TMC Morangis SOIREE Messieurs 30/3 à 30</a></td><td>T.M. MORANGIS</td><td>MORANGIS</td><td>18,6 km</td><td>Senior 30/3→30</td></tr>
     <tr><td>2026-12-27 → 2026-12-30</td><td><a href="https://tenup.fft.fr/tournoi/MOJA_318012" target="_blank" rel="noopener noreferrer">TMC SENIORS MESSIEURS NC À 30/1</a></td><td>A.S. MINORANGE</td><td>GUYANCOURT</td><td>14,1 km</td><td>Senior NC→30/1</td></tr>
     <tr><td>2026-12-27 → 2026-12-30</td><td><a href="https://tenup.fft.fr/tournoi/MOJA_318424" target="_blank" rel="noopener noreferrer">TMC 13/14 filles</a></td><td>A.S. MINORANGE</td><td>GUYANCOURT</td><td>14,1 km</td><td>13/14 ans NC→30/1</td></tr>
-    <tr class="is-new"><td>2026-12-29</td><td><a href="https://tenup.fft.fr/tournoi/MOJA_319859" target="_blank" rel="noopener noreferrer">TMC 13/16ANS CHAMBOURCY 30/2-30/1</a> <span class="new-badge">NEW</span></td><td>A.S.M. CHAMBOURCY</td><td>CHAMBOURCY</td><td>14,7 km</td><td>15/16 ans 30/2→30/1</td></tr>
-    <tr class="is-new"><td>2027-01-02 → 2027-02-05</td><td><a href="https://tenup.fft.fr/tournoi/MOJA_220033" target="_blank" rel="noopener noreferrer">TOURNOI - MASTERS LASA SPORT 2027 E5</a> <span class="new-badge">NEW</span></td><td>LASA SPORT ORGANISATION</td><td>MONTREUIL</td><td>18,6 km</td><td>Senior NC→4/6</td></tr>
-    <tr class="is-new"><td>2027-01-02</td><td><a href="https://tenup.fft.fr/tournoi/MOJA_220089" target="_blank" rel="noopener noreferrer">TMC MESSIEURS SAMEDI 02/01/27 - LASA SPORT 2027</a> <span class="new-badge">NEW</span></td><td>LASA SPORT ORGANISATION</td><td>MONTREUIL</td><td>18,6 km</td><td>Senior NC→15/1</td></tr>
-    <tr class="is-new"><td>2027-01-02</td><td><a href="https://tenup.fft.fr/tournoi/MOJA_317163" target="_blank" rel="noopener noreferrer">TMC Morangis SOIREE Messieurs 30/3 à 30</a> <span class="new-badge">NEW</span></td><td>T.M. MORANGIS</td><td>MORANGIS</td><td>18,6 km</td><td>Senior 30/3→30</td></tr>
-    <tr class="is-new"><td>2027-01-02 → 2027-01-03</td><td><a href="https://tenup.fft.fr/tournoi/MOJA_320984" target="_blank" rel="noopener noreferrer">TMC HOMME TRAPPES NC-30/1</a> <span class="new-badge">NEW</span></td><td>TRAPPES PASSING SHOT</td><td>TRAPPES</td><td>18,9 km</td><td>Senior NC→30/1</td></tr>
+    <tr><td>2026-12-29</td><td><a href="https://tenup.fft.fr/tournoi/MOJA_319859" target="_blank" rel="noopener noreferrer">TMC 13/16ANS CHAMBOURCY 30/2-30/1</a></td><td>A.S.M. CHAMBOURCY</td><td>CHAMBOURCY</td><td>14,7 km</td><td>15/16 ans 30/2→30/1</td></tr>
+    <tr><td>2027-01-02 → 2027-02-05</td><td><a href="https://tenup.fft.fr/tournoi/MOJA_220033" target="_blank" rel="noopener noreferrer">TOURNOI - MASTERS LASA SPORT 2027 E5</a></td><td>LASA SPORT ORGANISATION</td><td>MONTREUIL</td><td>18,6 km</td><td>Senior NC→4/6</td></tr>
+    <tr><td>2027-01-02</td><td><a href="https://tenup.fft.fr/tournoi/MOJA_220089" target="_blank" rel="noopener noreferrer">TMC MESSIEURS SAMEDI 02/01/27 - LASA SPORT 2027</a></td><td>LASA SPORT ORGANISATION</td><td>MONTREUIL</td><td>18,6 km</td><td>Senior NC→15/1</td></tr>
+    <tr><td>2027-01-02</td><td><a href="https://tenup.fft.fr/tournoi/MOJA_317163" target="_blank" rel="noopener noreferrer">TMC Morangis SOIREE Messieurs 30/3 à 30</a></td><td>T.M. MORANGIS</td><td>MORANGIS</td><td>18,6 km</td><td>Senior 30/3→30</td></tr>
+    <tr><td>2027-01-02 → 2027-01-03</td><td><a href="https://tenup.fft.fr/tournoi/MOJA_320984" target="_blank" rel="noopener noreferrer">TMC HOMME TRAPPES NC-30/1</a></td><td>TRAPPES PASSING SHOT</td><td>TRAPPES</td><td>18,9 km</td><td>Senior NC→30/1</td></tr>
     <tr class="is-new"><td>2027-01-03</td><td><a href="https://tenup.fft.fr/tournoi/MOJA_220090" target="_blank" rel="noopener noreferrer">TMC MESSIEURS DIMANCHE 03/01/27 - LASA SPORT 2027</a> <span class="new-badge">NEW</span></td><td>LASA SPORT ORGANISATION</td><td>MONTREUIL</td><td>18,6 km</td><td>Senior NC→15/1</td></tr>
     <tr class="is-new"><td>2027-01-03</td><td><a href="https://tenup.fft.fr/tournoi/MOJA_310049" target="_blank" rel="noopener noreferrer">TMC Messieurs 4ème série TC JOSASSIEN</a> <span class="new-badge">NEW</span></td><td>T.C. JOSASSIEN</td><td>JOUY EN JOSAS</td><td>9,9 km</td><td>Senior NC→30/1</td></tr>
+    <tr class="is-new"><td>2027-01-04 → 2027-01-22</td><td><a href="https://tenup.fft.fr/tournoi/MOJA_318252" target="_blank" rel="noopener noreferrer">TOURNOI EN JOURNEE LUNDI A VENDREDI 9H - 16H</a> <span class="new-badge">NEW</span></td><td>HERBLAY (AST)</td><td>HERBLAY</td><td>17,6 km</td><td>Senior NC→N1</td></tr>
   </tbody>
 </table>

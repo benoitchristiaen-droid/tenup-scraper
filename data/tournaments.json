@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "last_scrape": "2026-11-04T13:40:26+01:00",
-    "tournament_count": 62,
+    "last_scrape": "2026-11-05T13:51:50+01:00",
+    "tournament_count": 63,
     "scrape_params": {
       "city": "Saint-Cloud, 92210",
       "distance_km": 20,
@@ -817,6 +817,19 @@
       "distance": "9,9 km",
       "epreuves": "Senior NC→30/1",
       "first_seen": "2026-11-04T13:40:26+01:00"
+    },
+    {
+      "id": "MOJA_318252",
+      "name": "TOURNOI EN JOURNEE LUNDI A VENDREDI 9H - 16H",
+      "date_start": "2027-01-04",
+      "date_end": "2027-01-22",
+      "location": {
+        "club": "HERBLAY (AST)",
+        "city": "HERBLAY"
+      },
+      "distance": "17,6 km",
+      "epreuves": "Senior NC→N1",
+      "first_seen": "2026-11-05T13:51:50+01:00"
     }
   ]
 }
