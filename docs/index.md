@@ -2,18 +2,14 @@
 title: Tournois TenUp
 ---
 
-# Tournois de tennis à venir (72)
+# Tournois de tennis à venir (68)
 
-_Dernière mise à jour : 2026-11-07T12:25:39+01:00_  
+_Dernière mise à jour : 2026-11-08T12:37:07+01:00_  
 _Recherche : ville **Saint-Cloud, 92210**, rayon **20 km**, éligible **30/1**, épreuves **SM**, 13/14 ans, 15/16 ans et Seniors, hors tournois en journée (sauf week-end et vacances zone C)._
 
 <table class="tournaments">
   <thead><tr><th>Date</th><th>Tournoi</th><th>Club</th><th>Ville</th><th>Distance</th><th>Épreuves éligibles</th></tr></thead>
   <tbody>
-    <tr><td>2026-11-07</td><td><a href="https://tenup.fft.fr/tournoi/MOJA_220075" target="_blank" rel="noopener noreferrer">TMC MESSIEURS SAMEDI 07/11/26 - LASA SPORT 2027</a></td><td>LASA SPORT ORGANISATION</td><td>MONTREUIL</td><td>18,6 km</td><td>Senior NC→15/1</td></tr>
-    <tr><td>2026-11-07</td><td><a href="https://tenup.fft.fr/tournoi/MOJA_313735" target="_blank" rel="noopener noreferrer">TMC HOMMES SOIREE</a></td><td>LE PETIT SMASH</td><td>PARIS 16</td><td>5,4 km</td><td>Senior NC→N1</td></tr>
-    <tr><td>2026-11-07 → 2026-11-08</td><td><a href="https://tenup.fft.fr/tournoi/MOJA_320258" target="_blank" rel="noopener noreferrer">tmc Nc à 30 Sénior Homme Gif/Yvette</a></td><td>TENNISPORT</td><td>GIF SUR YVETTE</td><td>15,8 km</td><td>Senior NC→30</td></tr>
-    <tr><td>2026-11-07 → 2026-11-08</td><td><a href="https://tenup.fft.fr/tournoi/MOJA_320264" target="_blank" rel="noopener noreferrer">tournoi jeune 11/18 ans Gif/Yvette</a></td><td>TENNISPORT</td><td>GIF SUR YVETTE</td><td>15,8 km</td><td>13/14 ans NC→30/1 ; 15/16 ans NC→30/1</td></tr>
     <tr><td>2026-11-08</td><td><a href="https://tenup.fft.fr/tournoi/MOJA_220076" target="_blank" rel="noopener noreferrer">TMC MESSIEURS DIMANCHE 08/11/26 - LASA SPORT 2027</a></td><td>LASA SPORT ORGANISATION</td><td>MONTREUIL</td><td>18,6 km</td><td>Senior NC→15/1</td></tr>
     <tr><td>2026-11-11</td><td><a href="https://tenup.fft.fr/tournoi/MOJA_220071" target="_blank" rel="noopener noreferrer">TMC MESSIEURS MERCREDI 11/11/26 - LASA SPORT 2027</a></td><td>LASA SPORT ORGANISATION</td><td>MONTREUIL</td><td>18,6 km</td><td>Senior NC→15/1</td></tr>
     <tr><td>2026-11-11</td><td><a href="https://tenup.fft.fr/tournoi/MOJA_311865" target="_blank" rel="noopener noreferrer">TMC 11/12 ET 13/14 ANS</a></td><td>LE PETIT SMASH</td><td>PUTEAUX</td><td>6,1 km</td><td>13/14 ans NC→N1</td></tr>
@@ -77,7 +73,7 @@ _Recherche : ville **Saint-Cloud, 92210**, rayon **20 km**, éligible **30/1**, 
     <tr><td>2027-01-02 → 2027-01-03</td><td><a href="https://tenup.fft.fr/tournoi/MOJA_320984" target="_blank" rel="noopener noreferrer">TMC HOMME TRAPPES NC-30/1</a></td><td>TRAPPES PASSING SHOT</td><td>TRAPPES</td><td>18,9 km</td><td>Senior NC→30/1</td></tr>
     <tr><td>2027-01-03</td><td><a href="https://tenup.fft.fr/tournoi/MOJA_220090" target="_blank" rel="noopener noreferrer">TMC MESSIEURS DIMANCHE 03/01/27 - LASA SPORT 2027</a></td><td>LASA SPORT ORGANISATION</td><td>MONTREUIL</td><td>18,6 km</td><td>Senior NC→15/1</td></tr>
     <tr><td>2027-01-03</td><td><a href="https://tenup.fft.fr/tournoi/MOJA_310049" target="_blank" rel="noopener noreferrer">TMC Messieurs 4ème série TC JOSASSIEN</a></td><td>T.C. JOSASSIEN</td><td>JOUY EN JOSAS</td><td>9,9 km</td><td>Senior NC→30/1</td></tr>
-    <tr class="is-new"><td>2027-01-04 → 2027-01-22</td><td><a href="https://tenup.fft.fr/tournoi/MOJA_318252" target="_blank" rel="noopener noreferrer">TOURNOI EN JOURNEE LUNDI A VENDREDI 9H - 16H</a> <span class="new-badge">NEW</span></td><td>HERBLAY (AST)</td><td>HERBLAY</td><td>17,6 km</td><td>Senior NC→N1</td></tr>
+    <tr><td>2027-01-04 → 2027-01-22</td><td><a href="https://tenup.fft.fr/tournoi/MOJA_318252" target="_blank" rel="noopener noreferrer">TOURNOI EN JOURNEE LUNDI A VENDREDI 9H - 16H</a></td><td>HERBLAY (AST)</td><td>HERBLAY</td><td>17,6 km</td><td>Senior NC→N1</td></tr>
     <tr class="is-new"><td>2027-01-04 → 2027-01-17</td><td><a href="https://tenup.fft.fr/tournoi/MOJA_322647" target="_blank" rel="noopener noreferrer">Janv1 : 23h en Sénior, à 7h en +40, journée +35</a> <span class="new-badge">NEW</span></td><td>TENNIS CLUB PARISIEN DE JOINVILLE</td><td>PARIS 12</td><td>17,6 km</td><td>Senior NC→30/1</td></tr>
     <tr class="is-new"><td>2027-01-04 → 2027-08-31</td><td><a href="https://tenup.fft.fr/tournoi/MOJA_322854" target="_blank" rel="noopener noreferrer">Tournoi des capitaines tennis entreprise (réservé)</a> <span class="new-badge">NEW</span></td><td>CD HAUTS DE SEINE</td><td>RUEIL MALMAISON</td><td>4,4 km</td><td>Senior NC→15/1</td></tr>
     <tr class="is-new"><td>2027-01-04 → 2027-08-31</td><td><a href="https://tenup.fft.fr/tournoi/MOJA_323074" target="_blank" rel="noopener noreferrer">Tournoi indiv tennis entreprise tous classements (réservé aux équipes TE92)</a> <span class="new-badge">NEW</span></td><td>CD HAUTS DE SEINE</td><td>RUEIL MALMAISON</td><td>4,4 km</td><td>Senior NC→15/1</td></tr>
