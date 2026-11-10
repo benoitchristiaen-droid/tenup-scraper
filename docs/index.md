@@ -2,9 +2,9 @@
 title: Tournois TenUp
 ---
 
-# Tournois de tennis à venir (68)
+# Tournois de tennis à venir (73)
 
-_Dernière mise à jour : 2026-11-09T14:29:18+01:00_  
+_Dernière mise à jour : 2026-11-10T14:08:35+01:00_  
 _Recherche : ville **Saint-Cloud, 92210**, rayon **20 km**, éligible **30/1**, épreuves **SM**, 13/14 ans, 15/16 ans et Seniors, hors tournois en journée (sauf week-end et vacances zone C)._
 
 <table class="tournaments">
@@ -60,11 +60,15 @@ _Recherche : ville **Saint-Cloud, 92210**, rayon **20 km**, éligible **30/1**, 
     <tr><td>2026-12-21 → 2027-01-03</td><td><a href="https://tenup.fft.fr/tournoi/MOJA_320933" target="_blank" rel="noopener noreferrer">Tournoi jeune Paris Jean Bouin Noel</a></td><td>PARIS JEAN BOUIN</td><td>PARIS 16</td><td>3,3 km</td><td>13/14 ans NC→N1</td></tr>
     <tr><td>2026-12-21 → 2027-01-03</td><td><a href="https://tenup.fft.fr/tournoi/MOJA_322644" target="_blank" rel="noopener noreferrer">TCPJ Noël : Horaires des matchs en description</a></td><td>TENNIS CLUB PARISIEN DE JOINVILLE</td><td>PARIS 12</td><td>17,6 km</td><td>13/14 ans NC→30/1 ; Senior NC→30/1</td></tr>
     <tr class="is-new"><td>2026-12-21 → 2026-12-22</td><td><a href="https://tenup.fft.fr/tournoi/MOJA_323408" target="_blank" rel="noopener noreferrer">Cachan Jeunes Noel</a> <span class="new-badge">NEW</span></td><td>SPORTING TENNIS CACHAN</td><td>CACHAN</td><td>11,1 km</td><td>13/14 ans NC→30/1</td></tr>
+    <tr class="is-new"><td>2026-12-21 → 2026-12-24</td><td><a href="https://tenup.fft.fr/tournoi/MOJA_323669" target="_blank" rel="noopener noreferrer">TMC de Noël</a> <span class="new-badge">NEW</span></td><td>A.A.S. FRESNES</td><td>FRESNES</td><td>13,5 km</td><td>Senior 30/2→15/5</td></tr>
+    <tr class="is-new"><td>2026-12-21</td><td><a href="https://tenup.fft.fr/tournoi/MOJA_324029" target="_blank" rel="noopener noreferrer">TMC NOËL  30/2...30/1 - de 17:00 à 21:00</a> <span class="new-badge">NEW</span></td><td>LA CHATAIGNERAIE (TC)</td><td>RUEIL MALMAISON</td><td>2,9 km</td><td>Senior 30/2→30/1</td></tr>
+    <tr class="is-new"><td>2026-12-21 → 2026-12-24</td><td><a href="https://tenup.fft.fr/tournoi/MOJA_324709" target="_blank" rel="noopener noreferrer">TMC 13/14 ANS TC GARENNOIS</a> <span class="new-badge">NEW</span></td><td>GARENNOIS (TC)</td><td>NANTERRE</td><td>5,9 km</td><td>13/14 ans 30/3→30/1</td></tr>
     <tr><td>2026-12-22</td><td><a href="https://tenup.fft.fr/tournoi/MOJA_317173" target="_blank" rel="noopener noreferrer">TMC Morangis JOURNEE Messieurs 30/3 à 30/1</a></td><td>T.M. MORANGIS</td><td>MORANGIS</td><td>18,6 km</td><td>Senior 30/3→30/1</td></tr>
     <tr><td>2026-12-26 → 2027-01-03</td><td><a href="https://tenup.fft.fr/tournoi/MOJA_302946" target="_blank" rel="noopener noreferrer">TCIM - Tournoi de Noël de NC à 30 senior</a></td><td>ISSY-LES-MOULINEAUX (TC)</td><td>ISSY LES MOULINEAUX</td><td>5,0 km</td><td>Senior NC→30</td></tr>
     <tr><td>2026-12-26</td><td><a href="https://tenup.fft.fr/tournoi/MOJA_317158" target="_blank" rel="noopener noreferrer">TMC Morangis SOIREE Messieurs 30/3 à 30</a></td><td>T.M. MORANGIS</td><td>MORANGIS</td><td>18,6 km</td><td>Senior 30/3→30</td></tr>
     <tr><td>2026-12-27 → 2026-12-30</td><td><a href="https://tenup.fft.fr/tournoi/MOJA_318012" target="_blank" rel="noopener noreferrer">TMC SENIORS MESSIEURS NC À 30/1</a></td><td>A.S. MINORANGE</td><td>GUYANCOURT</td><td>14,1 km</td><td>Senior NC→30/1</td></tr>
     <tr><td>2026-12-27 → 2026-12-30</td><td><a href="https://tenup.fft.fr/tournoi/MOJA_318424" target="_blank" rel="noopener noreferrer">TMC 13/14 filles</a></td><td>A.S. MINORANGE</td><td>GUYANCOURT</td><td>14,1 km</td><td>13/14 ans NC→30/1</td></tr>
+    <tr class="is-new"><td>2026-12-28</td><td><a href="https://tenup.fft.fr/tournoi/MOJA_324058" target="_blank" rel="noopener noreferrer">TMC NOËL  30/3...30/1 - de 17:00 à 21:00</a> <span class="new-badge">NEW</span></td><td>LA CHATAIGNERAIE (TC)</td><td>RUEIL MALMAISON</td><td>2,9 km</td><td>Senior 30/3→30/1</td></tr>
     <tr><td>2026-12-29</td><td><a href="https://tenup.fft.fr/tournoi/MOJA_319859" target="_blank" rel="noopener noreferrer">TMC 13/16ANS CHAMBOURCY 30/2-30/1</a></td><td>A.S.M. CHAMBOURCY</td><td>CHAMBOURCY</td><td>14,7 km</td><td>15/16 ans 30/2→30/1</td></tr>
     <tr><td>2026-12-29 → 2026-12-30</td><td><a href="https://tenup.fft.fr/tournoi/MOJA_323498" target="_blank" rel="noopener noreferrer">TMC  30/2 a 15/4  ES Stains</a></td><td>ESPERANCE SPORTIVE STAINS</td><td>STAINS</td><td>17,9 km</td><td>Senior 30/2→15/4</td></tr>
     <tr><td>2027-01-02 → 2027-02-05</td><td><a href="https://tenup.fft.fr/tournoi/MOJA_220033" target="_blank" rel="noopener noreferrer">TOURNOI - MASTERS LASA SPORT 2027 E5</a></td><td>LASA SPORT ORGANISATION</td><td>MONTREUIL</td><td>18,6 km</td><td>Senior NC→4/6</td></tr>
@@ -78,5 +82,6 @@ _Recherche : ville **Saint-Cloud, 92210**, rayon **20 km**, éligible **30/1**, 
     <tr><td>2027-01-04 → 2027-08-31</td><td><a href="https://tenup.fft.fr/tournoi/MOJA_322854" target="_blank" rel="noopener noreferrer">Tournoi des capitaines tennis entreprise (réservé)</a></td><td>CD HAUTS DE SEINE</td><td>RUEIL MALMAISON</td><td>4,4 km</td><td>Senior NC→15/1</td></tr>
     <tr><td>2027-01-04 → 2027-08-31</td><td><a href="https://tenup.fft.fr/tournoi/MOJA_323074" target="_blank" rel="noopener noreferrer">Tournoi indiv tennis entreprise tous classements (réservé aux équipes TE92)</a></td><td>CD HAUTS DE SEINE</td><td>RUEIL MALMAISON</td><td>4,4 km</td><td>Senior NC→15/1</td></tr>
     <tr><td>2027-01-04 → 2027-08-31</td><td><a href="https://tenup.fft.fr/tournoi/MOJA_323095" target="_blank" rel="noopener noreferrer">Tournoi indiv tennis entreprise NC/4e série (réservé au TE 92)</a></td><td>CD HAUTS DE SEINE</td><td>RUEIL MALMAISON</td><td>4,4 km</td><td>Senior NC→30/1</td></tr>
+    <tr class="is-new"><td>2027-01-09</td><td><a href="https://tenup.fft.fr/tournoi/MOJA_220091" target="_blank" rel="noopener noreferrer">TMC MESSIEURS SAMEDI 09/01/27 - LASA SPORT 2027</a> <span class="new-badge">NEW</span></td><td>LASA SPORT ORGANISATION</td><td>MONTREUIL</td><td>18,6 km</td><td>Senior NC→15/1</td></tr>
   </tbody>
 </table>
