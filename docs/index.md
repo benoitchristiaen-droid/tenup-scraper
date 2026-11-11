@@ -2,9 +2,9 @@
 title: Tournois TenUp
 ---
 
-# Tournois de tennis à venir (73)
+# Tournois de tennis à venir (75)
 
-_Dernière mise à jour : 2026-11-10T14:08:35+01:00_  
+_Dernière mise à jour : 2026-11-11T13:18:06+01:00_  
 _Recherche : ville **Saint-Cloud, 92210**, rayon **20 km**, éligible **30/1**, épreuves **SM**, 13/14 ans, 15/16 ans et Seniors, hors tournois en journée (sauf week-end et vacances zone C)._
 
 <table class="tournaments">
@@ -20,6 +20,7 @@ _Recherche : ville **Saint-Cloud, 92210**, rayon **20 km**, éligible **30/1**, 
     <tr><td>2026-11-21</td><td><a href="https://tenup.fft.fr/tournoi/MOJA_220079" target="_blank" rel="noopener noreferrer">TMC MESSIEURS SAMEDI 21/11/26 - LASA SPORT 2027</a></td><td>LASA SPORT ORGANISATION</td><td>MONTREUIL</td><td>18,6 km</td><td>Senior NC→15/1</td></tr>
     <tr><td>2026-11-21</td><td><a href="https://tenup.fft.fr/tournoi/MOJA_313743" target="_blank" rel="noopener noreferrer">TMC HOMME SOIREE</a></td><td>LE PETIT SMASH</td><td>PARIS 16</td><td>5,4 km</td><td>Senior NC→N1</td></tr>
     <tr><td>2026-11-21</td><td><a href="https://tenup.fft.fr/tournoi/MOJA_317155" target="_blank" rel="noopener noreferrer">TMC Morangis SOIREE Messieurs 30/2 à 15/5</a></td><td>T.M. MORANGIS</td><td>MORANGIS</td><td>18,6 km</td><td>Senior 30/2→15/5</td></tr>
+    <tr class="is-new"><td>2026-11-21 → 2026-11-22</td><td><a href="https://tenup.fft.fr/tournoi/MOJA_326127" target="_blank" rel="noopener noreferrer">TMC Messieurs Nc à 30 Gif/Yvette Carole Vergn</a> <span class="new-badge">NEW</span></td><td>TENNISPORT</td><td>GIF SUR YVETTE</td><td>15,8 km</td><td>Senior NC→30</td></tr>
     <tr><td>2026-11-22</td><td><a href="https://tenup.fft.fr/tournoi/MOJA_220080" target="_blank" rel="noopener noreferrer">TMC MESSIEURS DIMANCHE 22/11/26 - LASA SPORT 2027</a></td><td>LASA SPORT ORGANISATION</td><td>MONTREUIL</td><td>18,6 km</td><td>Senior NC→15/1</td></tr>
     <tr><td>2026-11-22</td><td><a href="https://tenup.fft.fr/tournoi/MOJA_313711" target="_blank" rel="noopener noreferrer">TMC 13/14 ANS</a></td><td>LE PETIT SMASH</td><td>PUTEAUX</td><td>6,1 km</td><td>13/14 ans NC→N1</td></tr>
     <tr><td>2026-11-28 → 2026-12-31</td><td><a href="https://tenup.fft.fr/tournoi/MOJA_213849" target="_blank" rel="noopener noreferrer">LES PETITS AS TC PLAISIR</a></td><td>T.C. PLAISIR</td><td>PLAISIR</td><td>19,1 km</td><td>13/14 ans NC→N1</td></tr>
@@ -83,5 +84,6 @@ _Recherche : ville **Saint-Cloud, 92210**, rayon **20 km**, éligible **30/1**, 
     <tr><td>2027-01-04 → 2027-08-31</td><td><a href="https://tenup.fft.fr/tournoi/MOJA_323074" target="_blank" rel="noopener noreferrer">Tournoi indiv tennis entreprise tous classements (réservé aux équipes TE92)</a></td><td>CD HAUTS DE SEINE</td><td>RUEIL MALMAISON</td><td>4,4 km</td><td>Senior NC→15/1</td></tr>
     <tr><td>2027-01-04 → 2027-08-31</td><td><a href="https://tenup.fft.fr/tournoi/MOJA_323095" target="_blank" rel="noopener noreferrer">Tournoi indiv tennis entreprise NC/4e série (réservé au TE 92)</a></td><td>CD HAUTS DE SEINE</td><td>RUEIL MALMAISON</td><td>4,4 km</td><td>Senior NC→30/1</td></tr>
     <tr class="is-new"><td>2027-01-09</td><td><a href="https://tenup.fft.fr/tournoi/MOJA_220091" target="_blank" rel="noopener noreferrer">TMC MESSIEURS SAMEDI 09/01/27 - LASA SPORT 2027</a> <span class="new-badge">NEW</span></td><td>LASA SPORT ORGANISATION</td><td>MONTREUIL</td><td>18,6 km</td><td>Senior NC→15/1</td></tr>
+    <tr class="is-new"><td>2027-01-10</td><td><a href="https://tenup.fft.fr/tournoi/MOJA_220092" target="_blank" rel="noopener noreferrer">TMC MESSIEURS DIMANCHE 10/01/27 - LASA SPORT 2027</a> <span class="new-badge">NEW</span></td><td>LASA SPORT ORGANISATION</td><td>MONTREUIL</td><td>18,6 km</td><td>Senior NC→15/1</td></tr>
   </tbody>
 </table>
