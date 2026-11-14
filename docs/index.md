@@ -2,9 +2,9 @@
 title: Tournois TenUp
 ---
 
-# Tournois de tennis à venir (76)
+# Tournois de tennis à venir (78)
 
-_Dernière mise à jour : 2026-11-13T13:43:59+01:00_  
+_Dernière mise à jour : 2026-11-14T12:52:41+01:00_  
 _Recherche : ville **Saint-Cloud, 92210**, rayon **20 km**, éligible **30/1**, épreuves **SM**, 13/14 ans, 15/16 ans et Seniors, hors tournois en journée (sauf week-end et vacances zone C)._
 
 <table class="tournaments">
@@ -62,6 +62,8 @@ _Recherche : ville **Saint-Cloud, 92210**, rayon **20 km**, éligible **30/1**, 
     <tr><td>2026-12-21 → 2026-12-24</td><td><a href="https://tenup.fft.fr/tournoi/MOJA_323669" target="_blank" rel="noopener noreferrer">TMC de Noël</a></td><td>A.A.S. FRESNES</td><td>FRESNES</td><td>13,5 km</td><td>Senior 30/2→15/5</td></tr>
     <tr><td>2026-12-21</td><td><a href="https://tenup.fft.fr/tournoi/MOJA_324029" target="_blank" rel="noopener noreferrer">TMC NOËL  30/2...30/1 - de 17:00 à 21:00</a></td><td>LA CHATAIGNERAIE (TC)</td><td>RUEIL MALMAISON</td><td>2,9 km</td><td>Senior 30/2→30/1</td></tr>
     <tr><td>2026-12-21 → 2026-12-24</td><td><a href="https://tenup.fft.fr/tournoi/MOJA_324709" target="_blank" rel="noopener noreferrer">TMC 13/14 ANS TC GARENNOIS</a></td><td>GARENNOIS (TC)</td><td>NANTERRE</td><td>5,9 km</td><td>13/14 ans 30/3→30/1</td></tr>
+    <tr class="is-new"><td>2026-12-21 → 2026-12-22</td><td><a href="https://tenup.fft.fr/tournoi/MOJA_325320" target="_blank" rel="noopener noreferrer">Tennis Padel Conflans - TMC 15/16ans G - 21-22/26</a> <span class="new-badge">NEW</span></td><td>T.C. CONFLANS STE HONORINE</td><td>CONFLANS STE HONORINE</td><td>19,3 km</td><td>15/16 ans 30/2→15/4</td></tr>
+    <tr class="is-new"><td>2026-12-21 → 2026-12-23</td><td><a href="https://tenup.fft.fr/tournoi/MOJA_325322" target="_blank" rel="noopener noreferrer">Tennis Padel Conflans TMC 30/2 15/4 H 21 au 23/12</a> <span class="new-badge">NEW</span></td><td>T.C. CONFLANS STE HONORINE</td><td>CONFLANS STE HONORINE</td><td>19,3 km</td><td>Senior 30/2→15/4</td></tr>
     <tr><td>2026-12-22</td><td><a href="https://tenup.fft.fr/tournoi/MOJA_317173" target="_blank" rel="noopener noreferrer">TMC Morangis JOURNEE Messieurs 30/3 à 30/1</a></td><td>T.M. MORANGIS</td><td>MORANGIS</td><td>18,6 km</td><td>Senior 30/3→30/1</td></tr>
     <tr><td>2026-12-26 → 2027-01-03</td><td><a href="https://tenup.fft.fr/tournoi/MOJA_302946" target="_blank" rel="noopener noreferrer">TCIM - Tournoi de Noël de NC à 30 senior</a></td><td>ISSY-LES-MOULINEAUX (TC)</td><td>ISSY LES MOULINEAUX</td><td>5,0 km</td><td>Senior NC→30</td></tr>
     <tr><td>2026-12-26</td><td><a href="https://tenup.fft.fr/tournoi/MOJA_317158" target="_blank" rel="noopener noreferrer">TMC Morangis SOIREE Messieurs 30/3 à 30</a></td><td>T.M. MORANGIS</td><td>MORANGIS</td><td>18,6 km</td><td>Senior 30/3→30</td></tr>
