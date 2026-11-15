@@ -2,15 +2,14 @@
 title: Tournois TenUp
 ---
 
-# Tournois de tennis à venir (78)
+# Tournois de tennis à venir (77)
 
-_Dernière mise à jour : 2026-11-14T12:52:41+01:00_  
+_Dernière mise à jour : 2026-11-15T13:23:06+01:00_  
 _Recherche : ville **Saint-Cloud, 92210**, rayon **20 km**, éligible **30/1**, épreuves **SM**, 13/14 ans, 15/16 ans et Seniors, hors tournois en journée (sauf week-end et vacances zone C)._
 
 <table class="tournaments">
   <thead><tr><th>Date</th><th>Tournoi</th><th>Club</th><th>Ville</th><th>Distance</th><th>Épreuves éligibles</th></tr></thead>
   <tbody>
-    <tr><td>2026-11-14</td><td><a href="https://tenup.fft.fr/tournoi/MOJA_220077" target="_blank" rel="noopener noreferrer">TMC MESSIEURS SAMEDI 14/11/26 - LASA SPORT 2027</a></td><td>LASA SPORT ORGANISATION</td><td>MONTREUIL</td><td>18,6 km</td><td>Senior NC→15/1</td></tr>
     <tr><td>2026-11-15</td><td><a href="https://tenup.fft.fr/tournoi/MOJA_220078" target="_blank" rel="noopener noreferrer">TMC MESSIEURS DIMANCHE 15/11/26 - LASA SPORT 2027</a></td><td>LASA SPORT ORGANISATION</td><td>MONTREUIL</td><td>18,6 km</td><td>Senior NC→15/1</td></tr>
     <tr><td>2026-11-15</td><td><a href="https://tenup.fft.fr/tournoi/MOJA_313709" target="_blank" rel="noopener noreferrer">TMC 11/12 et 13/14 ans</a></td><td>LE PETIT SMASH</td><td>PUTEAUX</td><td>6,1 km</td><td>13/14 ans NC→N1</td></tr>
     <tr><td>2026-11-15</td><td><a href="https://tenup.fft.fr/tournoi/MOJA_319085" target="_blank" rel="noopener noreferrer">TMC 30/3-30/1 Hommes 11h/16h</a></td><td>SURESNES (TC)</td><td>RUEIL MALMAISON</td><td>1,9 km</td><td>Senior 30/3→30/1</td></tr>
@@ -69,7 +68,7 @@ _Recherche : ville **Saint-Cloud, 92210**, rayon **20 km**, éligible **30/1**, 
     <tr><td>2026-12-26</td><td><a href="https://tenup.fft.fr/tournoi/MOJA_317158" target="_blank" rel="noopener noreferrer">TMC Morangis SOIREE Messieurs 30/3 à 30</a></td><td>T.M. MORANGIS</td><td>MORANGIS</td><td>18,6 km</td><td>Senior 30/3→30</td></tr>
     <tr class="is-new"><td>2026-12-27 → 2026-12-30</td><td><a href="https://tenup.fft.fr/tournoi/MOJA_318012" target="_blank" rel="noopener noreferrer">TMC SENIORS MESSIEURS NC À 30/1</a> <span class="new-badge">NEW</span></td><td>A.S. MINORANGE</td><td>GUYANCOURT</td><td>14,1 km</td><td>Senior NC→30/1</td></tr>
     <tr><td>2026-12-27 → 2026-12-30</td><td><a href="https://tenup.fft.fr/tournoi/MOJA_318424" target="_blank" rel="noopener noreferrer">TMC 13/14 filles</a></td><td>A.S. MINORANGE</td><td>GUYANCOURT</td><td>14,1 km</td><td>13/14 ans NC→30/1</td></tr>
-    <tr class="is-new"><td>2026-12-27 → 2026-12-30</td><td><a href="https://tenup.fft.fr/tournoi/MOJA_324579" target="_blank" rel="noopener noreferrer">TMC LAST26 - Messieurs - 30/3 à 30</a> <span class="new-badge">NEW</span></td><td>T.C. VILLEPREUX</td><td>VILLEPREUX</td><td>15,5 km</td><td>Senior 30/3→30</td></tr>
+    <tr><td>2026-12-27 → 2026-12-30</td><td><a href="https://tenup.fft.fr/tournoi/MOJA_324579" target="_blank" rel="noopener noreferrer">TMC LAST26 - Messieurs - 30/3 à 30</a></td><td>T.C. VILLEPREUX</td><td>VILLEPREUX</td><td>15,5 km</td><td>Senior 30/3→30</td></tr>
     <tr><td>2026-12-28</td><td><a href="https://tenup.fft.fr/tournoi/MOJA_324058" target="_blank" rel="noopener noreferrer">TMC NOËL  30/3...30/1 - de 17:00 à 21:00</a></td><td>LA CHATAIGNERAIE (TC)</td><td>RUEIL MALMAISON</td><td>2,9 km</td><td>Senior 30/3→30/1</td></tr>
     <tr class="is-new"><td>2026-12-28 → 2026-12-30</td><td><a href="https://tenup.fft.fr/tournoi/MOJA_326464" target="_blank" rel="noopener noreferrer">TMC 4ème série de Noël du CAM</a> <span class="new-badge">NEW</span></td><td>MONTROUGE (CA)</td><td>MONTROUGE</td><td>9,2 km</td><td>Senior 30/5→30/1</td></tr>
     <tr><td>2026-12-29</td><td><a href="https://tenup.fft.fr/tournoi/MOJA_319859" target="_blank" rel="noopener noreferrer">TMC 13/16ANS CHAMBOURCY 30/2-30/1</a></td><td>A.S.M. CHAMBOURCY</td><td>CHAMBOURCY</td><td>14,7 km</td><td>15/16 ans 30/2→30/1</td></tr>
@@ -78,7 +77,7 @@ _Recherche : ville **Saint-Cloud, 92210**, rayon **20 km**, éligible **30/1**, 
     <tr><td>2027-01-02</td><td><a href="https://tenup.fft.fr/tournoi/MOJA_220089" target="_blank" rel="noopener noreferrer">TMC MESSIEURS SAMEDI 02/01/27 - LASA SPORT 2027</a></td><td>LASA SPORT ORGANISATION</td><td>MONTREUIL</td><td>18,6 km</td><td>Senior NC→15/1</td></tr>
     <tr><td>2027-01-02</td><td><a href="https://tenup.fft.fr/tournoi/MOJA_317163" target="_blank" rel="noopener noreferrer">TMC Morangis SOIREE Messieurs 30/3 à 30</a></td><td>T.M. MORANGIS</td><td>MORANGIS</td><td>18,6 km</td><td>Senior 30/3→30</td></tr>
     <tr><td>2027-01-02 → 2027-01-03</td><td><a href="https://tenup.fft.fr/tournoi/MOJA_320984" target="_blank" rel="noopener noreferrer">TMC HOMME TRAPPES NC-30/1</a></td><td>TRAPPES PASSING SHOT</td><td>TRAPPES</td><td>18,9 km</td><td>Senior NC→30/1</td></tr>
-    <tr class="is-new"><td>2027-01-02 → 2027-01-03</td><td><a href="https://tenup.fft.fr/tournoi/MOJA_324584" target="_blank" rel="noopener noreferrer">TMC CROWN27 - Messieurs - 30/1 à 15/5</a> <span class="new-badge">NEW</span></td><td>T.C. VILLEPREUX</td><td>VILLEPREUX</td><td>15,5 km</td><td>Senior 30/1→15/5</td></tr>
+    <tr><td>2027-01-02 → 2027-01-03</td><td><a href="https://tenup.fft.fr/tournoi/MOJA_324584" target="_blank" rel="noopener noreferrer">TMC CROWN27 - Messieurs - 30/1 à 15/5</a></td><td>T.C. VILLEPREUX</td><td>VILLEPREUX</td><td>15,5 km</td><td>Senior 30/1→15/5</td></tr>
     <tr><td>2027-01-03</td><td><a href="https://tenup.fft.fr/tournoi/MOJA_220090" target="_blank" rel="noopener noreferrer">TMC MESSIEURS DIMANCHE 03/01/27 - LASA SPORT 2027</a></td><td>LASA SPORT ORGANISATION</td><td>MONTREUIL</td><td>18,6 km</td><td>Senior NC→15/1</td></tr>
     <tr><td>2027-01-03</td><td><a href="https://tenup.fft.fr/tournoi/MOJA_310049" target="_blank" rel="noopener noreferrer">TMC Messieurs 4ème série TC JOSASSIEN</a></td><td>T.C. JOSASSIEN</td><td>JOUY EN JOSAS</td><td>9,9 km</td><td>Senior NC→30/1</td></tr>
     <tr><td>2027-01-04 → 2027-01-22</td><td><a href="https://tenup.fft.fr/tournoi/MOJA_318252" target="_blank" rel="noopener noreferrer">TOURNOI EN JOURNEE LUNDI A VENDREDI 9H - 16H</a></td><td>HERBLAY (AST)</td><td>HERBLAY</td><td>17,6 km</td><td>Senior NC→N1</td></tr>
