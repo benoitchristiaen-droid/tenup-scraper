@@ -2,9 +2,9 @@
 title: Tournois TenUp
 ---
 
-# Tournois de tennis à venir (83)
+# Tournois de tennis à venir (84)
 
-_Dernière mise à jour : 2026-11-17T14:58:28+01:00_  
+_Dernière mise à jour : 2026-11-18T14:35:38+01:00_  
 _Recherche : ville **Saint-Cloud, 92210**, rayon **20 km**, éligible **30/1**, épreuves **SM**, 13/14 ans, 15/16 ans et Seniors, hors tournois en journée (sauf week-end et vacances zone C)._
 
 <table class="tournaments">
@@ -60,15 +60,15 @@ _Recherche : ville **Saint-Cloud, 92210**, rayon **20 km**, éligible **30/1**, 
     <tr><td>2026-12-21 → 2026-12-24</td><td><a href="https://tenup.fft.fr/tournoi/MOJA_324709" target="_blank" rel="noopener noreferrer">TMC 13/14 ANS TC GARENNOIS</a></td><td>GARENNOIS (TC)</td><td>NANTERRE</td><td>5,9 km</td><td>13/14 ans 30/3→30/1</td></tr>
     <tr><td>2026-12-21 → 2026-12-22</td><td><a href="https://tenup.fft.fr/tournoi/MOJA_325320" target="_blank" rel="noopener noreferrer">Tennis Padel Conflans - TMC 15/16ans G - 21-22/26</a></td><td>T.C. CONFLANS STE HONORINE</td><td>CONFLANS STE HONORINE</td><td>19,3 km</td><td>15/16 ans 30/2→15/4</td></tr>
     <tr><td>2026-12-21 → 2026-12-23</td><td><a href="https://tenup.fft.fr/tournoi/MOJA_325322" target="_blank" rel="noopener noreferrer">Tennis Padel Conflans TMC 30/2 15/4 H 21 au 23/12</a></td><td>T.C. CONFLANS STE HONORINE</td><td>CONFLANS STE HONORINE</td><td>19,3 km</td><td>Senior 30/2→15/4</td></tr>
-    <tr class="is-new"><td>2026-12-21 → 2026-12-23</td><td><a href="https://tenup.fft.fr/tournoi/MOJA_328499" target="_blank" rel="noopener noreferrer">TMC séniors 30/4 - 30/1 horaire 8h</a> <span class="new-badge">NEW</span></td><td>ARSENAL CHATILLON (TC)</td><td>CHATILLON</td><td>8,2 km</td><td>Senior 30/4→30/1</td></tr>
-    <tr class="is-new"><td>2026-12-21 → 2026-12-23</td><td><a href="https://tenup.fft.fr/tournoi/MOJA_328504" target="_blank" rel="noopener noreferrer">TMC séniors 30/1 - 15/4 horaire fixe 14h</a> <span class="new-badge">NEW</span></td><td>ARSENAL CHATILLON (TC)</td><td>CHATILLON</td><td>8,2 km</td><td>Senior 30/1→15/4</td></tr>
+    <tr><td>2026-12-21 → 2026-12-23</td><td><a href="https://tenup.fft.fr/tournoi/MOJA_328499" target="_blank" rel="noopener noreferrer">TMC séniors 30/4 - 30/1 horaire 8h</a></td><td>ARSENAL CHATILLON (TC)</td><td>CHATILLON</td><td>8,2 km</td><td>Senior 30/4→30/1</td></tr>
+    <tr><td>2026-12-21 → 2026-12-23</td><td><a href="https://tenup.fft.fr/tournoi/MOJA_328504" target="_blank" rel="noopener noreferrer">TMC séniors 30/1 - 15/4 horaire fixe 14h</a></td><td>ARSENAL CHATILLON (TC)</td><td>CHATILLON</td><td>8,2 km</td><td>Senior 30/1→15/4</td></tr>
     <tr><td>2026-12-22</td><td><a href="https://tenup.fft.fr/tournoi/MOJA_317173" target="_blank" rel="noopener noreferrer">TMC Morangis JOURNEE Messieurs 30/3 à 30/1</a></td><td>T.M. MORANGIS</td><td>MORANGIS</td><td>18,6 km</td><td>Senior 30/3→30/1</td></tr>
     <tr><td>2026-12-26 → 2027-01-03</td><td><a href="https://tenup.fft.fr/tournoi/MOJA_302946" target="_blank" rel="noopener noreferrer">TCIM - Tournoi de Noël de NC à 30 senior</a></td><td>ISSY-LES-MOULINEAUX (TC)</td><td>ISSY LES MOULINEAUX</td><td>5,0 km</td><td>Senior NC→30</td></tr>
     <tr><td>2026-12-26</td><td><a href="https://tenup.fft.fr/tournoi/MOJA_317158" target="_blank" rel="noopener noreferrer">TMC Morangis SOIREE Messieurs 30/3 à 30</a></td><td>T.M. MORANGIS</td><td>MORANGIS</td><td>18,6 km</td><td>Senior 30/3→30</td></tr>
     <tr class="is-new"><td>2026-12-26 → 2027-01-01</td><td><a href="https://tenup.fft.fr/tournoi/MOJA_327524" target="_blank" rel="noopener noreferrer">UMT CA Vincennes Noël jeune</a> <span class="new-badge">NEW</span></td><td>CERCLE AMICAL DE PARIS VINCENNES</td><td>PARIS 12</td><td>16,7 km</td><td>13/14 ans NC→N1</td></tr>
-    <tr class="is-new"><td>2026-12-26 → 2027-01-02</td><td><a href="https://tenup.fft.fr/tournoi/MOJA_327548" target="_blank" rel="noopener noreferrer">UMT CA Vincennes Sénior limité 30</a> <span class="new-badge">NEW</span></td><td>CERCLE AMICAL DE PARIS VINCENNES</td><td>PARIS 12</td><td>16,7 km</td><td>Senior NC→30</td></tr>
+    <tr class="is-new"><td>2026-12-26 → 2027-01-02</td><td><a href="https://tenup.fft.fr/tournoi/MOJA_327548" target="_blank" rel="noopener noreferrer">UMT CA Vincennes de Noël Sénior limité 30</a> <span class="new-badge">NEW</span></td><td>CERCLE AMICAL DE PARIS VINCENNES</td><td>PARIS 12</td><td>16,7 km</td><td>Senior NC→30</td></tr>
     <tr class="is-new"><td>2026-12-26 → 2027-01-02</td><td><a href="https://tenup.fft.fr/tournoi/MOJA_327644" target="_blank" rel="noopener noreferrer">UMT TC 16 Sénior limité 15/3</a> <span class="new-badge">NEW</span></td><td>TENNIS CLUB DU 16EME</td><td>PARIS 16</td><td>3,9 km</td><td>Senior 30/2→15/3</td></tr>
-    <tr class="is-new"><td>2026-12-26 → 2026-12-28</td><td><a href="https://tenup.fft.fr/tournoi/MOJA_328514" target="_blank" rel="noopener noreferrer">TMC séniors 30/2 - 15/5 horaire fixe 9h30</a> <span class="new-badge">NEW</span></td><td>ARSENAL CHATILLON (TC)</td><td>CHATILLON</td><td>8,2 km</td><td>Senior 30/2→15/5</td></tr>
+    <tr><td>2026-12-26 → 2026-12-28</td><td><a href="https://tenup.fft.fr/tournoi/MOJA_328514" target="_blank" rel="noopener noreferrer">TMC séniors 30/2 - 15/5 horaire fixe 9h30</a></td><td>ARSENAL CHATILLON (TC)</td><td>CHATILLON</td><td>8,2 km</td><td>Senior 30/2→15/5</td></tr>
     <tr class="is-new"><td>2026-12-26 → 2027-01-01</td><td><a href="https://tenup.fft.fr/tournoi/MOJA_328561" target="_blank" rel="noopener noreferrer">UMT TC 16 Jeune</a> <span class="new-badge">NEW</span></td><td>TENNIS CLUB DU 16EME</td><td>PARIS 16</td><td>3,9 km</td><td>13/14 ans NC→30/1</td></tr>
     <tr class="is-new"><td>2026-12-26 → 2026-12-31</td><td><a href="https://tenup.fft.fr/tournoi/MOJA_328624" target="_blank" rel="noopener noreferrer">Pré-qualif OPEN Stade Français / TC 16</a> <span class="new-badge">NEW</span></td><td>TENNIS CLUB DU 16EME</td><td>PARIS 16</td><td>3,9 km</td><td>13/14 ans 30/1→3/6</td></tr>
     <tr><td>2026-12-27 → 2026-12-30</td><td><a href="https://tenup.fft.fr/tournoi/MOJA_318012" target="_blank" rel="noopener noreferrer">TMC SENIORS MESSIEURS NC À 30/1</a></td><td>A.S. MINORANGE</td><td>GUYANCOURT</td><td>14,1 km</td><td>Senior NC→30/1</td></tr>
@@ -93,5 +93,6 @@ _Recherche : ville **Saint-Cloud, 92210**, rayon **20 km**, éligible **30/1**, 
     <tr><td>2027-01-09</td><td><a href="https://tenup.fft.fr/tournoi/MOJA_220091" target="_blank" rel="noopener noreferrer">TMC MESSIEURS SAMEDI 09/01/27 - LASA SPORT 2027</a></td><td>LASA SPORT ORGANISATION</td><td>MONTREUIL</td><td>18,6 km</td><td>Senior NC→15/1</td></tr>
     <tr><td>2027-01-10</td><td><a href="https://tenup.fft.fr/tournoi/MOJA_220092" target="_blank" rel="noopener noreferrer">TMC MESSIEURS DIMANCHE 10/01/27 - LASA SPORT 2027</a></td><td>LASA SPORT ORGANISATION</td><td>MONTREUIL</td><td>18,6 km</td><td>Senior NC→15/1</td></tr>
     <tr class="is-new"><td>2027-01-16</td><td><a href="https://tenup.fft.fr/tournoi/MOJA_220093" target="_blank" rel="noopener noreferrer">TMC MESSIEURS SAMEDI 16/01/27 - LASA SPORT 2027</a> <span class="new-badge">NEW</span></td><td>LASA SPORT ORGANISATION</td><td>MONTREUIL</td><td>18,6 km</td><td>Senior NC→15/1</td></tr>
+    <tr class="is-new"><td>2027-01-17</td><td><a href="https://tenup.fft.fr/tournoi/MOJA_220094" target="_blank" rel="noopener noreferrer">TMC MESSIEURS DIMANCHE 17/01/27 - LASA SPORT 2027</a> <span class="new-badge">NEW</span></td><td>LASA SPORT ORGANISATION</td><td>MONTREUIL</td><td>18,6 km</td><td>Senior NC→15/1</td></tr>
   </tbody>
 </table>
