@@ -2,9 +2,9 @@
 title: Tournois TenUp
 ---
 
-# Tournois de tennis à venir (94)
+# Tournois de tennis à venir (96)
 
-_Dernière mise à jour : 2026-11-19T15:01:41+01:00_  
+_Dernière mise à jour : 2026-11-20T14:43:33+01:00_  
 _Recherche : ville **Saint-Cloud, 92210**, rayon **20 km**, éligible **30/1**, épreuves **SM**, 13/14 ans, 15/16 ans et Seniors, hors tournois en journée (sauf week-end et vacances zone C)._
 
 <table class="tournaments">
@@ -76,6 +76,8 @@ _Recherche : ville **Saint-Cloud, 92210**, rayon **20 km**, éligible **30/1**, 
     <tr><td>2026-12-26 → 2026-12-28</td><td><a href="https://tenup.fft.fr/tournoi/MOJA_328514" target="_blank" rel="noopener noreferrer">TMC séniors 30/2 - 15/5 horaire fixe 9h30</a></td><td>ARSENAL CHATILLON (TC)</td><td>CHATILLON</td><td>8,2 km</td><td>Senior 30/2→15/5</td></tr>
     <tr><td>2026-12-26 → 2027-01-01</td><td><a href="https://tenup.fft.fr/tournoi/MOJA_328561" target="_blank" rel="noopener noreferrer">UMT TC 16 Jeune</a></td><td>TENNIS CLUB DU 16EME</td><td>PARIS 16</td><td>3,9 km</td><td>13/14 ans NC→30/1</td></tr>
     <tr><td>2026-12-26 → 2026-12-31</td><td><a href="https://tenup.fft.fr/tournoi/MOJA_328624" target="_blank" rel="noopener noreferrer">Pré-qualif OPEN Stade Français / TC 16</a></td><td>TENNIS CLUB DU 16EME</td><td>PARIS 16</td><td>3,9 km</td><td>13/14 ans 30/1→3/6</td></tr>
+    <tr class="is-new"><td>2026-12-26 → 2026-12-31</td><td><a href="https://tenup.fft.fr/tournoi/MOJA_329307" target="_blank" rel="noopener noreferrer">UMT Stade Français Noel limité 30</a> <span class="new-badge">NEW</span></td><td>STADE FRANCAIS</td><td>PARIS 16</td><td>2,8 km</td><td>Senior NC→30</td></tr>
+    <tr class="is-new"><td>2026-12-26 → 2026-12-31</td><td><a href="https://tenup.fft.fr/tournoi/MOJA_329330" target="_blank" rel="noopener noreferrer">UMT Stade Français Noel  13/14 open</a> <span class="new-badge">NEW</span></td><td>STADE FRANCAIS</td><td>PARIS 16</td><td>2,8 km</td><td>13/14 ans NC→N1</td></tr>
     <tr><td>2026-12-27 → 2026-12-30</td><td><a href="https://tenup.fft.fr/tournoi/MOJA_318012" target="_blank" rel="noopener noreferrer">TMC SENIORS MESSIEURS NC À 30/1</a></td><td>A.S. MINORANGE</td><td>GUYANCOURT</td><td>14,1 km</td><td>Senior NC→30/1</td></tr>
     <tr><td>2026-12-27 → 2026-12-30</td><td><a href="https://tenup.fft.fr/tournoi/MOJA_318424" target="_blank" rel="noopener noreferrer">TMC 13/14 filles</a></td><td>A.S. MINORANGE</td><td>GUYANCOURT</td><td>14,1 km</td><td>13/14 ans NC→30/1</td></tr>
     <tr><td>2026-12-27 → 2026-12-30</td><td><a href="https://tenup.fft.fr/tournoi/MOJA_324579" target="_blank" rel="noopener noreferrer">TMC LAST26 - Messieurs - 30/3 à 30</a></td><td>T.C. VILLEPREUX</td><td>VILLEPREUX</td><td>15,5 km</td><td>Senior 30/3→30</td></tr>
@@ -102,7 +104,7 @@ _Recherche : ville **Saint-Cloud, 92210**, rayon **20 km**, éligible **30/1**, 
     <tr><td>2027-01-10</td><td><a href="https://tenup.fft.fr/tournoi/MOJA_220092" target="_blank" rel="noopener noreferrer">TMC MESSIEURS DIMANCHE 10/01/27 - LASA SPORT 2027</a></td><td>LASA SPORT ORGANISATION</td><td>MONTREUIL</td><td>18,6 km</td><td>Senior NC→15/1</td></tr>
     <tr class="is-new"><td>2027-01-11 → 2027-02-04</td><td><a href="https://tenup.fft.fr/tournoi/MOJA_323107" target="_blank" rel="noopener noreferrer">Pré-qualif OPEN Stade Français / AOBUC</a> <span class="new-badge">NEW</span></td><td>AOBUC TENNIS</td><td>BUC</td><td>11,7 km</td><td>13/14 ans NC→N1</td></tr>
     <tr><td>2027-01-16</td><td><a href="https://tenup.fft.fr/tournoi/MOJA_220093" target="_blank" rel="noopener noreferrer">TMC MESSIEURS SAMEDI 16/01/27 - LASA SPORT 2027</a></td><td>LASA SPORT ORGANISATION</td><td>MONTREUIL</td><td>18,6 km</td><td>Senior NC→15/1</td></tr>
-    <tr class="is-new"><td>2027-01-17</td><td><a href="https://tenup.fft.fr/tournoi/MOJA_220094" target="_blank" rel="noopener noreferrer">TMC MESSIEURS DIMANCHE 17/01/27 - LASA SPORT 2027</a> <span class="new-badge">NEW</span></td><td>LASA SPORT ORGANISATION</td><td>MONTREUIL</td><td>18,6 km</td><td>Senior NC→15/1</td></tr>
+    <tr><td>2027-01-17</td><td><a href="https://tenup.fft.fr/tournoi/MOJA_220094" target="_blank" rel="noopener noreferrer">TMC MESSIEURS DIMANCHE 17/01/27 - LASA SPORT 2027</a></td><td>LASA SPORT ORGANISATION</td><td>MONTREUIL</td><td>18,6 km</td><td>Senior NC→15/1</td></tr>
     <tr class="is-new"><td>2027-01-18 → 2027-01-31</td><td><a href="https://tenup.fft.fr/tournoi/MOJA_322650" target="_blank" rel="noopener noreferrer">Janv2 : 23h en Sénior, à 7h en +40, journée +35</a> <span class="new-badge">NEW</span></td><td>TENNIS CLUB PARISIEN DE JOINVILLE</td><td>PARIS 12</td><td>17,6 km</td><td>Senior NC→30/1</td></tr>
   </tbody>
 </table>
