@@ -2,9 +2,9 @@
 title: Tournois TenUp
 ---
 
-# Tournois de tennis à venir (96)
+# Tournois de tennis à venir (99)
 
-_Dernière mise à jour : 2026-11-20T14:43:33+01:00_  
+_Dernière mise à jour : 2026-11-21T14:09:21+01:00_  
 _Recherche : ville **Saint-Cloud, 92210**, rayon **20 km**, éligible **30/1**, épreuves **SM**, 13/14 ans, 15/16 ans et Seniors, hors tournois en journée (sauf week-end et vacances zone C)._
 
 <table class="tournaments">
@@ -106,5 +106,8 @@ _Recherche : ville **Saint-Cloud, 92210**, rayon **20 km**, éligible **30/1**, 
     <tr><td>2027-01-16</td><td><a href="https://tenup.fft.fr/tournoi/MOJA_220093" target="_blank" rel="noopener noreferrer">TMC MESSIEURS SAMEDI 16/01/27 - LASA SPORT 2027</a></td><td>LASA SPORT ORGANISATION</td><td>MONTREUIL</td><td>18,6 km</td><td>Senior NC→15/1</td></tr>
     <tr><td>2027-01-17</td><td><a href="https://tenup.fft.fr/tournoi/MOJA_220094" target="_blank" rel="noopener noreferrer">TMC MESSIEURS DIMANCHE 17/01/27 - LASA SPORT 2027</a></td><td>LASA SPORT ORGANISATION</td><td>MONTREUIL</td><td>18,6 km</td><td>Senior NC→15/1</td></tr>
     <tr class="is-new"><td>2027-01-18 → 2027-01-31</td><td><a href="https://tenup.fft.fr/tournoi/MOJA_322650" target="_blank" rel="noopener noreferrer">Janv2 : 23h en Sénior, à 7h en +40, journée +35</a> <span class="new-badge">NEW</span></td><td>TENNIS CLUB PARISIEN DE JOINVILLE</td><td>PARIS 12</td><td>17,6 km</td><td>Senior NC→30/1</td></tr>
+    <tr class="is-new"><td>2027-01-20 → 2027-02-05</td><td><a href="https://tenup.fft.fr/tournoi/MOJA_321677" target="_blank" rel="noopener noreferrer">Tournoi Journée ASMinorange Janvier 1Bis</a> <span class="new-badge">NEW</span></td><td>A.S. MINORANGE</td><td>GUYANCOURT</td><td>14,1 km</td><td>13/14 ans NC→N1 ; Senior NC→N1</td></tr>
+    <tr class="is-new"><td>2027-01-20 → 2027-02-05</td><td><a href="https://tenup.fft.fr/tournoi/MOJA_321679" target="_blank" rel="noopener noreferrer">Tournoi Journée ASMinorange Janvier 2Bis</a> <span class="new-badge">NEW</span></td><td>A.S. MINORANGE</td><td>GUYANCOURT</td><td>14,1 km</td><td>Senior NC→N1</td></tr>
+    <tr class="is-new"><td>2027-01-20 → 2027-02-05</td><td><a href="https://tenup.fft.fr/tournoi/MOJA_321680" target="_blank" rel="noopener noreferrer">Tournoi Journée ASMinorange Janvier 3Bis</a> <span class="new-badge">NEW</span></td><td>A.S. MINORANGE</td><td>GUYANCOURT</td><td>14,1 km</td><td>Senior NC→N1</td></tr>
   </tbody>
 </table>
