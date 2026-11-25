@@ -2,9 +2,9 @@
 title: Tournois TenUp
 ---
 
-# Tournois de tennis à venir (92)
+# Tournois de tennis à venir (94)
 
-_Dernière mise à jour : 2026-11-24T16:25:58+01:00_  
+_Dernière mise à jour : 2026-11-25T16:06:59+01:00_  
 _Recherche : ville **Saint-Cloud, 92210**, rayon **20 km**, éligible **30/1**, épreuves **SM**, 13/14 ans, 15/16 ans et Seniors, hors tournois en journée (sauf week-end et vacances zone C)._
 
 <table class="tournaments">
@@ -61,6 +61,7 @@ _Recherche : ville **Saint-Cloud, 92210**, rayon **20 km**, éligible **30/1**, 
     <tr><td>2026-12-21 → 2026-12-23</td><td><a href="https://tenup.fft.fr/tournoi/MOJA_328504" target="_blank" rel="noopener noreferrer">TMC séniors 30/1 - 15/4 horaire fixe 14h</a></td><td>ARSENAL CHATILLON (TC)</td><td>CHATILLON</td><td>8,2 km</td><td>Senior 30/1→15/4</td></tr>
     <tr><td>2026-12-22</td><td><a href="https://tenup.fft.fr/tournoi/MOJA_317173" target="_blank" rel="noopener noreferrer">TMC Morangis JOURNEE Messieurs 30/3 à 30/1</a></td><td>T.M. MORANGIS</td><td>MORANGIS</td><td>18,6 km</td><td>Senior 30/3→30/1</td></tr>
     <tr><td>2026-12-26 → 2027-01-03</td><td><a href="https://tenup.fft.fr/tournoi/MOJA_302946" target="_blank" rel="noopener noreferrer">TCIM - Tournoi de Noël de NC à 30 senior</a></td><td>ISSY-LES-MOULINEAUX (TC)</td><td>ISSY LES MOULINEAUX</td><td>5,0 km</td><td>Senior NC→30</td></tr>
+    <tr class="is-new"><td>2026-12-26</td><td><a href="https://tenup.fft.fr/tournoi/MOJA_317158" target="_blank" rel="noopener noreferrer">TMC Morangis SOIREE Messieurs 30/3 à 30</a> <span class="new-badge">NEW</span></td><td>T.M. MORANGIS</td><td>MORANGIS</td><td>18,6 km</td><td>Senior 30/3→30</td></tr>
     <tr class="is-new"><td>2026-12-26 → 2027-01-03</td><td><a href="https://tenup.fft.fr/tournoi/MOJA_319120" target="_blank" rel="noopener noreferrer">Tournoi TCS Hiver 9/19h NC-15/3 seniors</a> <span class="new-badge">NEW</span></td><td>SURESNES (TC)</td><td>RUEIL MALMAISON</td><td>1,9 km</td><td>Senior NC→15/3</td></tr>
     <tr><td>2026-12-26 → 2026-12-27</td><td><a href="https://tenup.fft.fr/tournoi/MOJA_324231" target="_blank" rel="noopener noreferrer">TMC Garçons 13/14 ANS ES STAINS</a></td><td>ESPERANCE SPORTIVE STAINS</td><td>STAINS</td><td>17,9 km</td><td>13/14 ans 30/2→15/4</td></tr>
     <tr><td>2026-12-26 → 2027-01-01</td><td><a href="https://tenup.fft.fr/tournoi/MOJA_327524" target="_blank" rel="noopener noreferrer">UMT CA Vincennes Noël jeune</a></td><td>CERCLE AMICAL DE PARIS VINCENNES</td><td>PARIS 12</td><td>16,7 km</td><td>13/14 ans NC→N1</td></tr>
@@ -102,5 +103,6 @@ _Recherche : ville **Saint-Cloud, 92210**, rayon **20 km**, éligible **30/1**, 
     <tr><td>2027-01-20 → 2027-02-05</td><td><a href="https://tenup.fft.fr/tournoi/MOJA_321677" target="_blank" rel="noopener noreferrer">Tournoi Journée ASMinorange Janvier 1Bis</a></td><td>A.S. MINORANGE</td><td>GUYANCOURT</td><td>14,1 km</td><td>13/14 ans 30/2→N1</td></tr>
     <tr><td>2027-01-20 → 2027-02-05</td><td><a href="https://tenup.fft.fr/tournoi/MOJA_321680" target="_blank" rel="noopener noreferrer">Tournoi Journée ASMinorange Janvier 3Bis</a></td><td>A.S. MINORANGE</td><td>GUYANCOURT</td><td>14,1 km</td><td>Senior NC→30/1</td></tr>
     <tr class="is-new"><td>2027-01-23</td><td><a href="https://tenup.fft.fr/tournoi/MOJA_220095" target="_blank" rel="noopener noreferrer">TMC MESSIEURS SAMEDI 23/01/27 - LASA SPORT 2027</a> <span class="new-badge">NEW</span></td><td>LASA SPORT ORGANISATION</td><td>MONTREUIL</td><td>18,6 km</td><td>Senior NC→15/1</td></tr>
+    <tr class="is-new"><td>2027-01-24</td><td><a href="https://tenup.fft.fr/tournoi/MOJA_220096" target="_blank" rel="noopener noreferrer">TMC MESSIEURS DIMANCHE 24/01/27 - LASA SPORT 2027</a> <span class="new-badge">NEW</span></td><td>LASA SPORT ORGANISATION</td><td>MONTREUIL</td><td>18,6 km</td><td>Senior NC→15/1</td></tr>
   </tbody>
 </table>
