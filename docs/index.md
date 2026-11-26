@@ -4,7 +4,7 @@ title: Tournois TenUp
 
 # Tournois de tennis à venir (94)
 
-_Dernière mise à jour : 2026-11-25T16:06:59+01:00_  
+_Dernière mise à jour : 2026-11-26T15:37:27+01:00_  
 _Recherche : ville **Saint-Cloud, 92210**, rayon **20 km**, éligible **30/1**, épreuves **SM**, 13/14 ans, 15/16 ans et Seniors, hors tournois en journée (sauf week-end et vacances zone C)._
 
 <table class="tournaments">
